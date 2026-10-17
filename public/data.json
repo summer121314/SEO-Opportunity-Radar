@@ -1,5 +1,1047 @@
 {
-  "updatedAt": null,
-  "items": [],
-  "disclaimer": "Sources are public launch/community posts; these do not establish search traffic."
+  "updatedAt": "2026-10-17T11:49:05.512Z",
+  "items": [
+    {
+      "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "decomp",
+        "dev",
+        "shuts",
+        "down",
+        "because"
+      ],
+      "foundAt": "2026-10-17T06:44:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
+      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+      "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "taco",
+        "bell",
+        "drive-thru",
+        "bot",
+        "increased"
+      ],
+      "foundAt": "2026-10-16T19:37:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
+      "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
+      "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "post",
+        "about",
+        "recreating",
+        "adobe",
+        "tools"
+      ],
+      "foundAt": "2026-10-16T16:55:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+      "title": "Show HN: Agent Chat in Your Markdown Notes – Chat with Context and Save Response",
+      "url": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "agent",
+        "chat",
+        "your",
+        "markdown"
+      ],
+      "foundAt": "2026-10-16T15:53:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
+      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "research",
+        "tools",
+        "literature",
+        "discovery",
+        "latex"
+      ],
+      "foundAt": "2026-10-16T13:56:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://ndroo.github.io/tapo-boiler-monitor",
+      "title": "Show HN: Monitoring my 'dumb' boiler with AI",
+      "url": "https://ndroo.github.io/tapo-boiler-monitor",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "monitoring",
+        "dumb",
+        "boiler"
+      ],
+      "foundAt": "2026-10-16T13:51:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
+      "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
+      "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "evolution",
+        "llm",
+        "tool-use",
+        "api",
+        "calls"
+      ],
+      "foundAt": "2026-10-16T13:42:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/aws-safebox/aws-safebox",
+      "title": "Show HN: Deterministic AI Agents Guardrail",
+      "url": "https://github.com/aws-safebox/aws-safebox",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "deterministic",
+        "agents",
+        "guardrail"
+      ],
+      "foundAt": "2026-10-16T11:53:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://keithbrown.com/tools/ai-proof",
+      "title": "How AI proof is my business?",
+      "url": "https://keithbrown.com/tools/ai-proof",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "how",
+        "proof",
+        "business"
+      ],
+      "foundAt": "2026-10-16T06:50:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://usebeeline.app",
+      "title": "Show HN: Beeline Multiplayer Agent Harness",
+      "url": "https://usebeeline.app",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "beeline",
+        "multiplayer",
+        "agent",
+        "harness"
+      ],
+      "foundAt": "2026-10-16T02:38:15.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "title": "Space (AI agent containment sandbox) software open source",
+      "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "space",
+        "agent",
+        "containment",
+        "sandbox",
+        "software"
+      ],
+      "foundAt": "2026-10-16T02:10:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ShaikhWarsi/free-ai-tools",
+      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
+      "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "free-ai-tools",
+        "curated",
+        "list",
+        "free",
+        "low"
+      ],
+      "foundAt": "2026-10-15T23:39:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://productflo.io/ai-tools",
+      "title": "Show HN: Rebuilt our directory of 241 AI tools for hardware engineering",
+      "url": "https://productflo.io/ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "rebuilt",
+        "our",
+        "directory",
+        "tools"
+      ],
+      "foundAt": "2026-10-15T21:44:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "title": "AI Coding Tools – Architecture, Local LLMs and SWE-Bench",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "tools",
+        "architecture",
+        "local",
+        "llms"
+      ],
+      "foundAt": "2026-10-15T21:29:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.stackone.com/blog/tool-policies-launch",
+      "title": "Tool Policies: one policy engine for every tool your AI agents call",
+      "url": "https://www.stackone.com/blog/tool-policies-launch",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tool",
+        "policies",
+        "one",
+        "policy",
+        "engine"
+      ],
+      "foundAt": "2026-10-15T17:38:23.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/QAInsights/awesome-ai-tools",
+      "title": "Show HN: A curated directory of AI Tools",
+      "url": "https://github.com/QAInsights/awesome-ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "curated",
+        "directory",
+        "tools"
+      ],
+      "foundAt": "2026-10-15T17:27:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
+      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
+      "url": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "reddit",
+        "unveils",
+        "moderation",
+        "old",
+        "restricted"
+      ],
+      "foundAt": "2026-10-15T15:46:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://stylebot.dev",
+      "title": "Show HN: Stylebot 4 – restyle any website, by hand or with your coding agent",
+      "url": "https://stylebot.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "stylebot",
+        "restyle",
+        "any",
+        "website"
+      ],
+      "foundAt": "2026-10-15T15:38:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://meet-cedric.com",
+      "title": "Show HN: Cedric, the AI teammates that works in Slack and joins meetings",
+      "url": "https://meet-cedric.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "cedric",
+        "teammates",
+        "works",
+        "slack"
+      ],
+      "foundAt": "2026-10-15T14:09:53.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://app.netlumi.com",
+      "title": "Show HN: Netlumi – Cloud and AI agent security with auto-remediation(Live demo)",
+      "url": "https://app.netlumi.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "netlumi",
+        "cloud",
+        "agent",
+        "security"
+      ],
+      "foundAt": "2026-10-15T12:56:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hitest.ai/blog/best-ai-testing-tools",
+      "title": "Best AI Testing Tools for SaaS Teams in 2026",
+      "url": "https://hitest.ai/blog/best-ai-testing-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "best",
+        "testing",
+        "tools",
+        "saas",
+        "teams"
+      ],
+      "foundAt": "2026-10-15T12:20:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://epub.ftak.net",
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf2epub",
+        "free",
+        "pdf",
+        "epub"
+      ],
+      "foundAt": "2026-10-16T12:53:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/davobene/migrateflows",
+      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
+      "url": "https://github.com/davobene/migrateflows",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "open-source",
+        "converter",
+        "pipedream",
+        "workflows"
+      ],
+      "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/bnlcas/pdf2epub",
+      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
+      "url": "https://github.com/bnlcas/pdf2epub",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "epub",
+        "conversion",
+        "tool"
+      ],
+      "foundAt": "2026-10-14T01:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
+      "title": "OLM to PST Converter Tool",
+      "url": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "olm",
+        "pst",
+        "converter",
+        "tool"
+      ],
+      "foundAt": "2026-10-10T12:32:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://liters2gallons.com",
+      "title": "A simple liters to US and UK gallons converter",
+      "url": "https://liters2gallons.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "simple",
+        "liters",
+        "gallons",
+        "converter"
+      ],
+      "foundAt": "2026-10-10T11:28:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
+      "title": "OST to PST Converter",
+      "url": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "ost",
+        "pst",
+        "converter"
+      ],
+      "foundAt": "2026-10-08T14:56:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toany.io",
+      "title": "I built a file converter that never sees your files",
+      "url": "https://toany.io",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "file",
+        "converter",
+        "never",
+        "sees"
+      ],
+      "foundAt": "2026-10-08T06:42:51.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
+      "title": "TLDRs newsletter converter that gets all the important links",
+      "url": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "tldrs",
+        "newsletter",
+        "converter",
+        "gets",
+        "all"
+      ],
+      "foundAt": "2026-10-06T17:21:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://pngstack.site",
+      "title": "Free PNG to PDF Converter Online for United States",
+      "url": "https://pngstack.site",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "png",
+        "pdf",
+        "converter",
+        "online"
+      ],
+      "foundAt": "2026-10-05T07:31:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://dataflexstudio.vercel.app",
+      "title": "DataFlex Studio – 100% client-side JSON to CSV converter",
+      "url": "https://dataflexstudio.vercel.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "dataflex",
+        "studio",
+        "client-side",
+        "json",
+        "csv"
+      ],
+      "foundAt": "2026-10-01T15:16:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://metriqcon.co",
+      "title": "Metriqcon – A client-side unit converter with an inline live math parser",
+      "url": "https://metriqcon.co",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "metriqcon",
+        "client-side",
+        "unit",
+        "converter",
+        "inline"
+      ],
+      "foundAt": "2026-10-01T12:21:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+      "title": "LLM library that builds itself, a converter for nearly every file",
+      "url": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "llm",
+        "library",
+        "builds",
+        "itself",
+        "converter"
+      ],
+      "foundAt": "2026-09-30T23:07:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://binarycodetranslator.org",
+      "title": "Show HN: Binary Code Translator – free browser-based text↔binary converter",
+      "url": "https://binarycodetranslator.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "binary",
+        "code",
+        "translator",
+        "free"
+      ],
+      "foundAt": "2026-09-29T17:45:07.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://minimax-converter.com",
+      "title": "A Swiss army knife file converter",
+      "url": "https://minimax-converter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "swiss",
+        "army",
+        "knife",
+        "file",
+        "converter"
+      ],
+      "foundAt": "2026-09-29T09:19:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://riowallet.netlify.app",
+      "title": "Currency converter app – ECB rates (works offline as PWA)",
+      "url": "https://riowallet.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "currency",
+        "converter",
+        "app",
+        "ecb",
+        "rates"
+      ],
+      "foundAt": "2026-09-29T07:33:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thegreatbritishconverter.co.uk",
+      "title": "The Great British Converter: From Bytes to Barleycorns",
+      "url": "https://thegreatbritishconverter.co.uk",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "great",
+        "british",
+        "converter",
+        "bytes",
+        "barleycorns"
+      ],
+      "foundAt": "2026-09-28T20:59:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://imagerry.com",
+      "title": "A private alternative to cloud image converters and compressors",
+      "url": "https://imagerry.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "private",
+        "alternative",
+        "cloud",
+        "image",
+        "converters"
+      ],
+      "foundAt": "2026-09-28T18:10:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ciromattia/kcc",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "url": "https://github.com/ciromattia/kcc",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "using",
+        "dft",
+        "dithering",
+        "etc"
+      ],
+      "foundAt": "2026-09-28T15:39:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
+      "title": "Calcova: Scientific Calculator with Step-by-Step Math and Smart Unit Conversions",
+      "url": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "calcova",
+        "scientific",
+        "calculator",
+        "step-by-step",
+        "math"
+      ],
+      "foundAt": "2026-10-16T08:17:52.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://voltcost.vercel.app",
+      "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
+      "url": "https://voltcost.vercel.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "voltcost",
+        "charging",
+        "cost",
+        "gas"
+      ],
+      "foundAt": "2026-10-15T18:53:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://changesnap.onrender.com/markup-calculator",
+      "title": "Markup vs. margin calculator for contractors (free, no signup)",
+      "url": "https://changesnap.onrender.com/markup-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "markup",
+        "margin",
+        "calculator",
+        "contractors",
+        "free"
+      ],
+      "foundAt": "2026-10-15T06:19:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "rebuilding",
+        "original",
+        "odhner",
+        "model",
+        "pinwheel"
+      ],
+      "foundAt": "2026-10-12T15:12:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://framelab-fps.com/uk",
+      "title": "FrameLab – FPS calculator for PC games, checked against real hardware runs",
+      "url": "https://framelab-fps.com/uk",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "framelab",
+        "fps",
+        "calculator",
+        "games",
+        "checked"
+      ],
+      "foundAt": "2026-10-10T23:24:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hosttmath.ctonew.app",
+      "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
+      "url": "https://hosttmath.ctonew.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "hostmath",
+        "airbnb",
+        "profit",
+        "calculator",
+        "break-even"
+      ],
+      "foundAt": "2026-10-09T23:28:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thespoollist.com/tools/feeds-speeds",
+      "title": "Feeds and speeds calculator for CNC milling, metric and imperial",
+      "url": "https://thespoollist.com/tools/feeds-speeds",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "feeds",
+        "speeds",
+        "calculator",
+        "cnc",
+        "milling"
+      ],
+      "foundAt": "2026-10-09T13:02:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.medschooldebtcalculator.com/calculator",
+      "title": "Show HN: Free calculator for US physicians' $200K-$400K student loan debt",
+      "url": "https://www.medschooldebtcalculator.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "free",
+        "calculator",
+        "physicians",
+        "student"
+      ],
+      "foundAt": "2026-10-07T16:33:38.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.columbia.edu/cu/computinghistory/ssec.html",
+      "title": "IBM's Selective Sequence Electronic Calculator (2003)",
+      "url": "https://www.columbia.edu/cu/computinghistory/ssec.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "ibm",
+        "selective",
+        "sequence",
+        "electronic",
+        "calculator"
+      ],
+      "foundAt": "2026-10-07T15:49:23.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tokenbarometer.com",
+      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
+      "url": "https://tokenbarometer.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "llm",
+        "api",
+        "prices",
+        "full"
+      ],
+      "foundAt": "2026-10-07T11:36:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
+      "title": "My router is not a calculator",
+      "url": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "router",
+        "not",
+        "calculator"
+      ],
+      "foundAt": "2026-10-06T20:47:43.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://displaymath.com",
+      "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
+      "url": "https://displaymath.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "screen",
+        "size",
+        "calculator",
+        "puts"
+      ],
+      "foundAt": "2026-10-06T09:24:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://cwgchain.github.io",
+      "title": "CWG Chain – free arbitrage calculator that walks live order books",
+      "url": "https://cwgchain.github.io",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "cwg",
+        "chain",
+        "free",
+        "arbitrage",
+        "calculator"
+      ],
+      "foundAt": "2026-10-05T20:47:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://snowdaycalculatorpro.com",
+      "title": "Snow Day Calculator",
+      "url": "https://snowdaycalculatorpro.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "snow",
+        "day",
+        "calculator"
+      ],
+      "foundAt": "2026-10-04T19:46:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://mmkw.8by3.com",
+      "title": "Two Thousand Watt Society Calculator",
+      "url": "https://mmkw.8by3.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "two",
+        "thousand",
+        "watt",
+        "society",
+        "calculator"
+      ],
+      "foundAt": "2026-10-03T12:10:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.youtube.com/watch",
+      "title": "Lego Analog calculator (BDP) [video]",
+      "url": "https://www.youtube.com/watch",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "lego",
+        "analog",
+        "calculator",
+        "bdp",
+        "video"
+      ],
+      "foundAt": "2026-10-03T12:07:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.pockeng.com/tools/grid.html",
+      "title": "Series and Parallel Calculator for resistor, battery banks and solar Arrays",
+      "url": "https://www.pockeng.com/tools/grid.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "series",
+        "parallel",
+        "calculator",
+        "resistor",
+        "battery"
+      ],
+      "foundAt": "2026-10-01T12:45:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
+      "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
+      "url": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "youtube",
+        "lunatic",
+        "designed",
+        "printed",
+        "working"
+      ],
+      "foundAt": "2026-09-30T21:32:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gkogan.co/removing-stuff",
+      "title": "The pricing calculator made people more confused about pricing",
+      "url": "https://www.gkogan.co/removing-stuff",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "pricing",
+        "calculator",
+        "made",
+        "people",
+        "more"
+      ],
+      "foundAt": "2026-09-30T14:01:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
+      "title": "Porting a 1996 Pascal/Delphi Calculator to Rust (CLI and MCP)",
+      "url": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "porting",
+        "pascal",
+        "delphi",
+        "calculator",
+        "rust"
+      ],
+      "foundAt": "2026-09-29T12:01:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
+      "title": "High school calculator for analytic number theory",
+      "url": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "high",
+        "school",
+        "calculator",
+        "analytic",
+        "number"
+      ],
+      "foundAt": "2026-09-28T10:14:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
+      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
+      "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "agent",
+        "running",
+        "cost",
+        "calculator"
+      ],
+      "foundAt": "2026-09-27T14:26:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://calcupedia.io",
+      "title": "Show HN: The easiest way to (embed a calculator) on any website, with no coding",
+      "url": "https://calcupedia.io",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "easiest",
+        "way",
+        "embed",
+        "calculator"
+      ],
+      "foundAt": "2026-09-26T14:04:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    }
+  ],
+  "disclaimer": "Public product signals, NOT confirmed organic traffic or keyword search volumes. Scores are heuristics."
 }
