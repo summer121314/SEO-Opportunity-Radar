@@ -1,0 +1,1 @@
+import {rmSync,mkdirSync,cpSync} from 'node:fs';rmSync('dist',{force:true,recursive:true});mkdirSync('dist');cpSync('public','dist',{recursive:true});console.log('Build ready');
