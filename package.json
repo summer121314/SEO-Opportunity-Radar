@@ -1,0 +1,12 @@
+{
+  "name": "seo-opportunity-radar",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "collect": "node scripts/collect.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
