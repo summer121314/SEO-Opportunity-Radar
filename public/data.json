@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-17T11:49:05.512Z",
+  "updatedAt": "2026-10-18T02:50:32.077Z",
   "items": [
+    {
+      "id": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+      "title": "AI coding interfaces make approval easy and understanding hard",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "interfaces",
+        "make",
+        "approval",
+        "easy"
+      ],
+      "foundAt": "2026-10-17T22:07:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
       "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
@@ -303,53 +320,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://meet-cedric.com",
-      "title": "Show HN: Cedric, the AI teammates that works in Slack and joins meetings",
-      "url": "https://meet-cedric.com",
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
-        "show",
-        "cedric",
-        "teammates",
-        "works",
-        "slack"
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
       ],
-      "foundAt": "2026-10-15T14:09:53.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://app.netlumi.com",
-      "title": "Show HN: Netlumi – Cloud and AI agent security with auto-remediation(Live demo)",
-      "url": "https://app.netlumi.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "netlumi",
-        "cloud",
-        "agent",
-        "security"
-      ],
-      "foundAt": "2026-10-15T12:56:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hitest.ai/blog/best-ai-testing-tools",
-      "title": "Best AI Testing Tools for SaaS Teams in 2026",
-      "url": "https://hitest.ai/blog/best-ai-testing-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "best",
-        "testing",
-        "tools",
-        "saas",
-        "teams"
-      ],
-      "foundAt": "2026-10-15T12:20:34.000Z",
+      "foundAt": "2026-10-17T20:20:49.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -707,6 +690,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://proofsource.co",
+      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+      "url": "https://proofsource.co",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "proofsource",
+        "find",
+        "where",
+        "leaves"
+      ],
+      "foundAt": "2026-10-13T06:51:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
       "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
       "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
@@ -720,6 +720,23 @@
         "pinwheel"
       ],
       "foundAt": "2026-10-12T15:12:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "calculate",
+        "your",
+        "doom",
+        "interactive",
+        "article"
+      ],
+      "foundAt": "2026-10-11T22:55:24.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -841,6 +858,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/Liebmann5/AA",
+      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
+      "url": "https://github.com/Liebmann5/AA",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "autoapply",
+        "open-source",
+        "job-hunt",
+        "tool"
+      ],
+      "foundAt": "2026-10-06T20:10:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://displaymath.com",
       "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
       "url": "https://displaymath.com",
@@ -920,6 +954,57 @@
         "video"
       ],
       "foundAt": "2026-10-03T12:07:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://meet-cedric.com",
+      "title": "Show HN: Cedric, the AI teammates that works in Slack and joins meetings",
+      "url": "https://meet-cedric.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "cedric",
+        "teammates",
+        "works",
+        "slack"
+      ],
+      "foundAt": "2026-10-15T14:09:53.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://app.netlumi.com",
+      "title": "Show HN: Netlumi – Cloud and AI agent security with auto-remediation(Live demo)",
+      "url": "https://app.netlumi.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "netlumi",
+        "cloud",
+        "agent",
+        "security"
+      ],
+      "foundAt": "2026-10-15T12:56:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hitest.ai/blog/best-ai-testing-tools",
+      "title": "Best AI Testing Tools for SaaS Teams in 2026",
+      "url": "https://hitest.ai/blog/best-ai-testing-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "best",
+        "testing",
+        "tools",
+        "saas",
+        "teams"
+      ],
+      "foundAt": "2026-10-15T12:20:34.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
