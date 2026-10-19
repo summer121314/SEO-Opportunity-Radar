@@ -18,9 +18,11 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/collect.mjs
+      - name: Collect Google Trends Japan and US
+        run: node scripts/collect-trends.mjs
       - name: Commit findings
         run: |
-          git add public/data.json
+          git add public/data.json public/trends.json
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
