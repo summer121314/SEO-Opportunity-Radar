@@ -1,0 +1,10 @@
+{
+  "updatedAt": null,
+  "regions": [
+    "JP",
+    "US"
+  ],
+  "successfulRegions": 0,
+  "items": [],
+  "explanation": "Google Trends RSS provides approximate traffic buckets, not percent growth. Potential labels are rule-based research hints, not confirmed website demand."
+}
