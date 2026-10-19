@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-19T02:52:46.699Z",
+  "updatedAt": "2026-10-19T11:32:11.833Z",
   "items": [
+    {
+      "id": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
+      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+      "url": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "re-read",
+        "terms",
+        "tools",
+        "twice"
+      ],
+      "foundAt": "2026-10-19T11:07:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.panelfont.com",
+      "title": "Show HN: Panel Font-AI Manga Translator",
+      "url": "https://www.panelfont.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "panel",
+        "font-ai",
+        "manga",
+        "translator"
+      ],
+      "foundAt": "2026-10-19T09:03:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
       "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
@@ -53,6 +87,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://meetcap.seacen.dev",
+      "title": "Show HN: MeetCap – Free on-device meeting transcription your AI agent can run",
+      "url": "https://meetcap.seacen.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "meetcap",
+        "free",
+        "on-device",
+        "meeting"
+      ],
+      "foundAt": "2026-10-18T13:21:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://risphai.com",
       "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
       "url": "https://risphai.com",
@@ -83,6 +134,23 @@
         "easy"
       ],
       "foundAt": "2026-10-17T22:07:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "decomp",
+        "dev",
+        "shuts",
+        "down",
+        "because"
+      ],
+      "foundAt": "2026-10-17T06:44:13.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -304,73 +372,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.stackone.com/blog/tool-policies-launch",
-      "title": "Tool Policies: one policy engine for every tool your AI agents call",
-      "url": "https://www.stackone.com/blog/tool-policies-launch",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "tool",
-        "policies",
-        "one",
-        "policy",
-        "engine"
-      ],
-      "foundAt": "2026-10-15T17:38:23.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/QAInsights/awesome-ai-tools",
-      "title": "Show HN: A curated directory of AI Tools",
-      "url": "https://github.com/QAInsights/awesome-ai-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "curated",
-        "directory",
-        "tools"
-      ],
-      "foundAt": "2026-10-15T17:27:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
-      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
-      "url": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "reddit",
-        "unveils",
-        "moderation",
-        "old",
-        "restricted"
-      ],
-      "foundAt": "2026-10-15T15:46:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://stylebot.dev",
-      "title": "Show HN: Stylebot 4 – restyle any website, by hand or with your coding agent",
-      "url": "https://stylebot.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "stylebot",
-        "restyle",
-        "any",
-        "website"
-      ],
-      "foundAt": "2026-10-15T15:38:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://hq.freedev.app",
       "title": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
       "url": "https://hq.freedev.app",
@@ -490,6 +491,40 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.orchardagentic.cloud",
+      "title": "Show HN: AI investment agreement review for startup founders",
+      "url": "https://www.orchardagentic.cloud",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "investment",
+        "agreement",
+        "review",
+        "startup"
+      ],
+      "foundAt": "2026-10-14T09:13:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/bnlcas/pdf2epub",
+      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
+      "url": "https://github.com/bnlcas/pdf2epub",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "epub",
+        "conversion",
+        "tool"
+      ],
+      "foundAt": "2026-10-14T01:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
       "title": "OLM to PST Converter Tool",
       "url": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
@@ -522,6 +557,40 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://menura.download",
+      "title": "Show HN: Save photo, video, and audio from websites in one step",
+      "url": "https://menura.download",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "save",
+        "photo",
+        "video",
+        "audio"
+      ],
+      "foundAt": "2026-10-10T08:54:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ketul93/spectromood",
+      "title": "Show HN: SpectroMood, speech emotion detection with a decision model",
+      "url": "https://github.com/ketul93/spectromood",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "spectromood",
+        "speech",
+        "emotion",
+        "detection"
+      ],
+      "foundAt": "2026-10-09T08:40:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
       "title": "OST to PST Converter",
       "url": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
@@ -533,6 +602,23 @@
         "converter"
       ],
       "foundAt": "2026-10-08T14:56:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://screenci.com",
+      "title": "Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent",
+      "url": "https://screenci.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "screenci",
+        "tutorial",
+        "videos",
+        "e2e"
+      ],
+      "foundAt": "2026-10-08T12:39:16.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -550,6 +636,23 @@
         "sees"
       ],
       "foundAt": "2026-10-08T06:42:51.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/shdwfruit/convkit",
+      "title": "Show HN: Convkit – A command line tool for converting images/video/docs offline",
+      "url": "https://github.com/shdwfruit/convkit",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "convkit",
+        "command",
+        "line",
+        "tool"
+      ],
+      "foundAt": "2026-10-07T17:59:50.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -584,6 +687,375 @@
         "online"
       ],
       "foundAt": "2026-10-05T07:31:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://voltcost.vercel.app",
+      "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
+      "url": "https://voltcost.vercel.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "voltcost",
+        "charging",
+        "cost",
+        "gas"
+      ],
+      "foundAt": "2026-10-15T18:53:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://changesnap.onrender.com/markup-calculator",
+      "title": "Markup vs. margin calculator for contractors (free, no signup)",
+      "url": "https://changesnap.onrender.com/markup-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "markup",
+        "margin",
+        "calculator",
+        "contractors",
+        "free"
+      ],
+      "foundAt": "2026-10-15T06:19:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://proofsource.co",
+      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+      "url": "https://proofsource.co",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "proofsource",
+        "find",
+        "where",
+        "leaves"
+      ],
+      "foundAt": "2026-10-13T06:51:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "rebuilding",
+        "original",
+        "odhner",
+        "model",
+        "pinwheel"
+      ],
+      "foundAt": "2026-10-12T15:12:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "calculate",
+        "your",
+        "doom",
+        "interactive",
+        "article"
+      ],
+      "foundAt": "2026-10-11T22:55:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://framelab-fps.com/uk",
+      "title": "FrameLab – FPS calculator for PC games, checked against real hardware runs",
+      "url": "https://framelab-fps.com/uk",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "framelab",
+        "fps",
+        "calculator",
+        "games",
+        "checked"
+      ],
+      "foundAt": "2026-10-10T23:24:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hosttmath.ctonew.app",
+      "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
+      "url": "https://hosttmath.ctonew.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "hostmath",
+        "airbnb",
+        "profit",
+        "calculator",
+        "break-even"
+      ],
+      "foundAt": "2026-10-09T23:28:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thespoollist.com/tools/feeds-speeds",
+      "title": "Feeds and speeds calculator for CNC milling, metric and imperial",
+      "url": "https://thespoollist.com/tools/feeds-speeds",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "feeds",
+        "speeds",
+        "calculator",
+        "cnc",
+        "milling"
+      ],
+      "foundAt": "2026-10-09T13:02:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.medschooldebtcalculator.com/calculator",
+      "title": "Show HN: Free calculator for US physicians' $200K-$400K student loan debt",
+      "url": "https://www.medschooldebtcalculator.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "free",
+        "calculator",
+        "physicians",
+        "student"
+      ],
+      "foundAt": "2026-10-07T16:33:38.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.columbia.edu/cu/computinghistory/ssec.html",
+      "title": "IBM's Selective Sequence Electronic Calculator (2003)",
+      "url": "https://www.columbia.edu/cu/computinghistory/ssec.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "ibm",
+        "selective",
+        "sequence",
+        "electronic",
+        "calculator"
+      ],
+      "foundAt": "2026-10-07T15:49:23.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tokenbarometer.com",
+      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
+      "url": "https://tokenbarometer.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "llm",
+        "api",
+        "prices",
+        "full"
+      ],
+      "foundAt": "2026-10-07T11:36:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
+      "title": "My router is not a calculator",
+      "url": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "router",
+        "not",
+        "calculator"
+      ],
+      "foundAt": "2026-10-06T20:47:43.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Liebmann5/AA",
+      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
+      "url": "https://github.com/Liebmann5/AA",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "autoapply",
+        "open-source",
+        "job-hunt",
+        "tool"
+      ],
+      "foundAt": "2026-10-06T20:10:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://displaymath.com",
+      "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
+      "url": "https://displaymath.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "screen",
+        "size",
+        "calculator",
+        "puts"
+      ],
+      "foundAt": "2026-10-06T09:24:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://cwgchain.github.io",
+      "title": "CWG Chain – free arbitrage calculator that walks live order books",
+      "url": "https://cwgchain.github.io",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "cwg",
+        "chain",
+        "free",
+        "arbitrage",
+        "calculator"
+      ],
+      "foundAt": "2026-10-05T20:47:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://snowdaycalculatorpro.com",
+      "title": "Snow Day Calculator",
+      "url": "https://snowdaycalculatorpro.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "snow",
+        "day",
+        "calculator"
+      ],
+      "foundAt": "2026-10-04T19:46:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://mmkw.8by3.com",
+      "title": "Two Thousand Watt Society Calculator",
+      "url": "https://mmkw.8by3.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "two",
+        "thousand",
+        "watt",
+        "society",
+        "calculator"
+      ],
+      "foundAt": "2026-10-03T12:10:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.youtube.com/watch",
+      "title": "Lego Analog calculator (BDP) [video]",
+      "url": "https://www.youtube.com/watch",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "lego",
+        "analog",
+        "calculator",
+        "bdp",
+        "video"
+      ],
+      "foundAt": "2026-10-03T12:07:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.stackone.com/blog/tool-policies-launch",
+      "title": "Tool Policies: one policy engine for every tool your AI agents call",
+      "url": "https://www.stackone.com/blog/tool-policies-launch",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tool",
+        "policies",
+        "one",
+        "policy",
+        "engine"
+      ],
+      "foundAt": "2026-10-15T17:38:23.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/QAInsights/awesome-ai-tools",
+      "title": "Show HN: A curated directory of AI Tools",
+      "url": "https://github.com/QAInsights/awesome-ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "curated",
+        "directory",
+        "tools"
+      ],
+      "foundAt": "2026-10-15T17:27:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
+      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
+      "url": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "reddit",
+        "unveils",
+        "moderation",
+        "old",
+        "restricted"
+      ],
+      "foundAt": "2026-10-15T15:46:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://stylebot.dev",
+      "title": "Show HN: Stylebot 4 – restyle any website, by hand or with your coding agent",
+      "url": "https://stylebot.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "stylebot",
+        "restyle",
+        "any",
+        "website"
+      ],
+      "foundAt": "2026-10-15T15:38:27.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -791,108 +1263,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://voltcost.vercel.app",
-      "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
-      "url": "https://voltcost.vercel.app",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "voltcost",
-        "charging",
-        "cost",
-        "gas"
-      ],
-      "foundAt": "2026-10-15T18:53:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://changesnap.onrender.com/markup-calculator",
-      "title": "Markup vs. margin calculator for contractors (free, no signup)",
-      "url": "https://changesnap.onrender.com/markup-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "markup",
-        "margin",
-        "calculator",
-        "contractors",
-        "free"
-      ],
-      "foundAt": "2026-10-15T06:19:10.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "rebuilding",
-        "original",
-        "odhner",
-        "model",
-        "pinwheel"
-      ],
-      "foundAt": "2026-10-12T15:12:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://framelab-fps.com/uk",
-      "title": "FrameLab – FPS calculator for PC games, checked against real hardware runs",
-      "url": "https://framelab-fps.com/uk",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "framelab",
-        "fps",
-        "calculator",
-        "games",
-        "checked"
-      ],
-      "foundAt": "2026-10-10T23:24:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hosttmath.ctonew.app",
-      "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
-      "url": "https://hosttmath.ctonew.app",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "hostmath",
-        "airbnb",
-        "profit",
-        "calculator",
-        "break-even"
-      ],
-      "foundAt": "2026-10-09T23:28:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thespoollist.com/tools/feeds-speeds",
-      "title": "Feeds and speeds calculator for CNC milling, metric and imperial",
-      "url": "https://thespoollist.com/tools/feeds-speeds",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "feeds",
-        "speeds",
-        "calculator",
-        "cnc",
-        "milling"
-      ],
-      "foundAt": "2026-10-09T13:02:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
       "title": "Calcova: Scientific Calculator with Step-by-Step Math and Smart Unit Conversions",
       "url": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
@@ -906,155 +1276,6 @@
         "math"
       ],
       "foundAt": "2026-10-16T08:17:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.medschooldebtcalculator.com/calculator",
-      "title": "Show HN: Free calculator for US physicians' $200K-$400K student loan debt",
-      "url": "https://www.medschooldebtcalculator.com/calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "free",
-        "calculator",
-        "physicians",
-        "student"
-      ],
-      "foundAt": "2026-10-07T16:33:38.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.columbia.edu/cu/computinghistory/ssec.html",
-      "title": "IBM's Selective Sequence Electronic Calculator (2003)",
-      "url": "https://www.columbia.edu/cu/computinghistory/ssec.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "ibm",
-        "selective",
-        "sequence",
-        "electronic",
-        "calculator"
-      ],
-      "foundAt": "2026-10-07T15:49:23.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tokenbarometer.com",
-      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
-      "url": "https://tokenbarometer.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "llm",
-        "api",
-        "prices",
-        "full"
-      ],
-      "foundAt": "2026-10-07T11:36:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
-      "title": "My router is not a calculator",
-      "url": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "router",
-        "not",
-        "calculator"
-      ],
-      "foundAt": "2026-10-06T20:47:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://displaymath.com",
-      "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
-      "url": "https://displaymath.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "screen",
-        "size",
-        "calculator",
-        "puts"
-      ],
-      "foundAt": "2026-10-06T09:24:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://cwgchain.github.io",
-      "title": "CWG Chain – free arbitrage calculator that walks live order books",
-      "url": "https://cwgchain.github.io",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "cwg",
-        "chain",
-        "free",
-        "arbitrage",
-        "calculator"
-      ],
-      "foundAt": "2026-10-05T20:47:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://snowdaycalculatorpro.com",
-      "title": "Snow Day Calculator",
-      "url": "https://snowdaycalculatorpro.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "snow",
-        "day",
-        "calculator"
-      ],
-      "foundAt": "2026-10-04T19:46:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://mmkw.8by3.com",
-      "title": "Two Thousand Watt Society Calculator",
-      "url": "https://mmkw.8by3.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "two",
-        "thousand",
-        "watt",
-        "society",
-        "calculator"
-      ],
-      "foundAt": "2026-10-03T12:10:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.youtube.com/watch",
-      "title": "Lego Analog calculator (BDP) [video]",
-      "url": "https://www.youtube.com/watch",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "lego",
-        "analog",
-        "calculator",
-        "bdp",
-        "video"
-      ],
-      "foundAt": "2026-10-03T12:07:12.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1191,91 +1412,6 @@
         "your"
       ],
       "foundAt": "2026-09-26T08:49:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
-      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "decomp",
-        "dev",
-        "shuts",
-        "down",
-        "because"
-      ],
-      "foundAt": "2026-10-17T06:44:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/bnlcas/pdf2epub",
-      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
-      "url": "https://github.com/bnlcas/pdf2epub",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "epub",
-        "conversion",
-        "tool"
-      ],
-      "foundAt": "2026-10-14T01:20:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://proofsource.co",
-      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
-      "url": "https://proofsource.co",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "proofsource",
-        "find",
-        "where",
-        "leaves"
-      ],
-      "foundAt": "2026-10-13T06:51:04.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "calculate",
-        "your",
-        "doom",
-        "interactive",
-        "article"
-      ],
-      "foundAt": "2026-10-11T22:55:24.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Liebmann5/AA",
-      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
-      "url": "https://github.com/Liebmann5/AA",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "autoapply",
-        "open-source",
-        "job-hunt",
-        "tool"
-      ],
-      "foundAt": "2026-10-06T20:10:27.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
