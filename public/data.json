@@ -1,20 +1,105 @@
 {
-  "updatedAt": "2026-10-19T11:32:11.833Z",
+  "updatedAt": "2026-10-20T02:53:41.960Z",
   "items": [
     {
-      "id": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
-      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
-      "url": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
+      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "new",
+        "tool",
+        "can",
+        "predict",
+        "cancer"
+      ],
+      "foundAt": "2026-10-20T01:50:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "title": "Is it too late to reduce catastrophic AI risk?",
+      "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "too",
+        "late",
+        "reduce",
+        "catastrophic",
+        "risk"
+      ],
+      "foundAt": "2026-10-19T23:05:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
+      "title": "AI models can get brain rot, too",
+      "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "models",
+        "can",
+        "get",
+        "brain",
+        "rot"
+      ],
+      "foundAt": "2026-10-19T22:01:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "title": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
+      "url": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "boom",
+        "fades",
+        "grads",
+        "focus"
+      ],
+      "foundAt": "2026-10-19T18:59:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "http://crawl-check.user-sentry.com",
+      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+      "url": "http://crawl-check.user-sentry.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "check",
+        "crawlers",
+        "are",
+        "blocked",
+        "your"
+      ],
+      "foundAt": "2026-10-19T16:08:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Silvertree2010/ApolloOffice",
+      "title": "Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs",
+      "url": "https://github.com/Silvertree2010/ApolloOffice",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "re-read",
-        "terms",
-        "tools",
-        "twice"
+        "apollooffice",
+        "local",
+        "workers",
+        "turn"
       ],
-      "foundAt": "2026-10-19T11:07:21.000Z",
+      "foundAt": "2026-10-19T13:34:02.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -239,139 +324,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
-      "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
-      "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "evolution",
-        "llm",
-        "tool-use",
-        "api",
-        "calls"
-      ],
-      "foundAt": "2026-10-16T13:42:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/aws-safebox/aws-safebox",
-      "title": "Show HN: Deterministic AI Agents Guardrail",
-      "url": "https://github.com/aws-safebox/aws-safebox",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "deterministic",
-        "agents",
-        "guardrail"
-      ],
-      "foundAt": "2026-10-16T11:53:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://keithbrown.com/tools/ai-proof",
-      "title": "How AI proof is my business?",
-      "url": "https://keithbrown.com/tools/ai-proof",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "how",
-        "proof",
-        "business"
-      ],
-      "foundAt": "2026-10-16T06:50:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://usebeeline.app",
-      "title": "Show HN: Beeline Multiplayer Agent Harness",
-      "url": "https://usebeeline.app",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "beeline",
-        "multiplayer",
-        "agent",
-        "harness"
-      ],
-      "foundAt": "2026-10-16T02:38:15.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
-      "title": "Space (AI agent containment sandbox) software open source",
-      "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "space",
-        "agent",
-        "containment",
-        "sandbox",
-        "software"
-      ],
-      "foundAt": "2026-10-16T02:10:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ShaikhWarsi/free-ai-tools",
-      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
-      "url": "https://github.com/ShaikhWarsi/free-ai-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "free-ai-tools",
-        "curated",
-        "list",
-        "free",
-        "low"
-      ],
-      "foundAt": "2026-10-15T23:39:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://productflo.io/ai-tools",
-      "title": "Show HN: Rebuilt our directory of 241 AI tools for hardware engineering",
-      "url": "https://productflo.io/ai-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "rebuilt",
-        "our",
-        "directory",
-        "tools"
-      ],
-      "foundAt": "2026-10-15T21:44:08.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-      "title": "AI Coding Tools – Architecture, Local LLMs and SWE-Bench",
-      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "coding",
-        "tools",
-        "architecture",
-        "local",
-        "llms"
-      ],
-      "foundAt": "2026-10-15T21:29:39.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://hq.freedev.app",
       "title": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
       "url": "https://hq.freedev.app",
@@ -491,40 +443,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.orchardagentic.cloud",
-      "title": "Show HN: AI investment agreement review for startup founders",
-      "url": "https://www.orchardagentic.cloud",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "investment",
-        "agreement",
-        "review",
-        "startup"
-      ],
-      "foundAt": "2026-10-14T09:13:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/bnlcas/pdf2epub",
-      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
-      "url": "https://github.com/bnlcas/pdf2epub",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "epub",
-        "conversion",
-        "tool"
-      ],
-      "foundAt": "2026-10-14T01:20:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
       "title": "OLM to PST Converter Tool",
       "url": "https://www.perfectdatasolutions.com/en/olm/olm-to-pst-converter.html",
@@ -557,40 +475,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://menura.download",
-      "title": "Show HN: Save photo, video, and audio from websites in one step",
-      "url": "https://menura.download",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "save",
-        "photo",
-        "video",
-        "audio"
-      ],
-      "foundAt": "2026-10-10T08:54:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ketul93/spectromood",
-      "title": "Show HN: SpectroMood, speech emotion detection with a decision model",
-      "url": "https://github.com/ketul93/spectromood",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "spectromood",
-        "speech",
-        "emotion",
-        "detection"
-      ],
-      "foundAt": "2026-10-09T08:40:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
       "title": "OST to PST Converter",
       "url": "https://blog.perfectdatasolutions.com/ost-to-pst-converter-software-2",
@@ -602,23 +486,6 @@
         "converter"
       ],
       "foundAt": "2026-10-08T14:56:45.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://screenci.com",
-      "title": "Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent",
-      "url": "https://screenci.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "screenci",
-        "tutorial",
-        "videos",
-        "e2e"
-      ],
-      "foundAt": "2026-10-08T12:39:16.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -636,23 +503,6 @@
         "sees"
       ],
       "foundAt": "2026-10-08T06:42:51.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/shdwfruit/convkit",
-      "title": "Show HN: Convkit – A command line tool for converting images/video/docs offline",
-      "url": "https://github.com/shdwfruit/convkit",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "convkit",
-        "command",
-        "line",
-        "tool"
-      ],
-      "foundAt": "2026-10-07T17:59:50.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -691,6 +541,176 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://dataflexstudio.vercel.app",
+      "title": "DataFlex Studio – 100% client-side JSON to CSV converter",
+      "url": "https://dataflexstudio.vercel.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "dataflex",
+        "studio",
+        "client-side",
+        "json",
+        "csv"
+      ],
+      "foundAt": "2026-10-01T15:16:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://metriqcon.co",
+      "title": "Metriqcon – A client-side unit converter with an inline live math parser",
+      "url": "https://metriqcon.co",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "metriqcon",
+        "client-side",
+        "unit",
+        "converter",
+        "inline"
+      ],
+      "foundAt": "2026-10-01T12:21:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+      "title": "LLM library that builds itself, a converter for nearly every file",
+      "url": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "llm",
+        "library",
+        "builds",
+        "itself",
+        "converter"
+      ],
+      "foundAt": "2026-09-30T23:07:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://binarycodetranslator.org",
+      "title": "Show HN: Binary Code Translator – free browser-based text↔binary converter",
+      "url": "https://binarycodetranslator.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "binary",
+        "code",
+        "translator",
+        "free"
+      ],
+      "foundAt": "2026-09-29T17:45:07.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://minimax-converter.com",
+      "title": "A Swiss army knife file converter",
+      "url": "https://minimax-converter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "swiss",
+        "army",
+        "knife",
+        "file",
+        "converter"
+      ],
+      "foundAt": "2026-09-29T09:19:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://riowallet.netlify.app",
+      "title": "Currency converter app – ECB rates (works offline as PWA)",
+      "url": "https://riowallet.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "currency",
+        "converter",
+        "app",
+        "ecb",
+        "rates"
+      ],
+      "foundAt": "2026-09-29T07:33:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thegreatbritishconverter.co.uk",
+      "title": "The Great British Converter: From Bytes to Barleycorns",
+      "url": "https://thegreatbritishconverter.co.uk",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "great",
+        "british",
+        "converter",
+        "bytes",
+        "barleycorns"
+      ],
+      "foundAt": "2026-09-28T20:59:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://imagerry.com",
+      "title": "A private alternative to cloud image converters and compressors",
+      "url": "https://imagerry.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "private",
+        "alternative",
+        "cloud",
+        "image",
+        "converters"
+      ],
+      "foundAt": "2026-09-28T18:10:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ciromattia/kcc",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "url": "https://github.com/ciromattia/kcc",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "using",
+        "dft",
+        "dithering",
+        "etc"
+      ],
+      "foundAt": "2026-09-28T15:39:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://9revolution9.com/tools/geo/shp-geojson",
+      "title": "Show HN: A Shapefile converter that fixes the winding you didn't know was wrong",
+      "url": "https://9revolution9.com/tools/geo/shp-geojson",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "shapefile",
+        "converter",
+        "fixes",
+        "winding"
+      ],
+      "foundAt": "2026-09-23T13:19:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://voltcost.vercel.app",
       "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
       "url": "https://voltcost.vercel.app",
@@ -721,23 +741,6 @@
         "free"
       ],
       "foundAt": "2026-10-15T06:19:10.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://proofsource.co",
-      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
-      "url": "https://proofsource.co",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "proofsource",
-        "find",
-        "where",
-        "leaves"
-      ],
-      "foundAt": "2026-10-13T06:51:04.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -993,6 +996,331 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.pockeng.com/tools/grid.html",
+      "title": "Series and Parallel Calculator for resistor, battery banks and solar Arrays",
+      "url": "https://www.pockeng.com/tools/grid.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "series",
+        "parallel",
+        "calculator",
+        "resistor",
+        "battery"
+      ],
+      "foundAt": "2026-10-01T12:45:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
+      "title": "windows-image-batch-converter",
+      "url": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-image-batch-converter"
+      ],
+      "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "title": "windows-pdf-ocr-text-extractor",
+      "url": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-ocr-text-extractor"
+      ],
+      "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "title": "windows-pdf-merge-split-tool",
+      "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-merge-split-tool"
+      ],
+      "foundAt": "2026-10-19T17:02:14.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
+      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+      "url": "https://clipjury.com/guides/ai-tool-terms-changed-2026",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "re-read",
+        "terms",
+        "tools",
+        "twice"
+      ],
+      "foundAt": "2026-10-19T11:07:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
+      "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
+      "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "evolution",
+        "llm",
+        "tool-use",
+        "api",
+        "calls"
+      ],
+      "foundAt": "2026-10-16T13:42:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/aws-safebox/aws-safebox",
+      "title": "Show HN: Deterministic AI Agents Guardrail",
+      "url": "https://github.com/aws-safebox/aws-safebox",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "deterministic",
+        "agents",
+        "guardrail"
+      ],
+      "foundAt": "2026-10-16T11:53:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://keithbrown.com/tools/ai-proof",
+      "title": "How AI proof is my business?",
+      "url": "https://keithbrown.com/tools/ai-proof",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "how",
+        "proof",
+        "business"
+      ],
+      "foundAt": "2026-10-16T06:50:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://usebeeline.app",
+      "title": "Show HN: Beeline Multiplayer Agent Harness",
+      "url": "https://usebeeline.app",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "beeline",
+        "multiplayer",
+        "agent",
+        "harness"
+      ],
+      "foundAt": "2026-10-16T02:38:15.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "title": "Space (AI agent containment sandbox) software open source",
+      "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "space",
+        "agent",
+        "containment",
+        "sandbox",
+        "software"
+      ],
+      "foundAt": "2026-10-16T02:10:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ShaikhWarsi/free-ai-tools",
+      "title": "Free-AI-tools – Curated list of free and low cost AI tools",
+      "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "free-ai-tools",
+        "curated",
+        "list",
+        "free",
+        "low"
+      ],
+      "foundAt": "2026-10-15T23:39:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://productflo.io/ai-tools",
+      "title": "Show HN: Rebuilt our directory of 241 AI tools for hardware engineering",
+      "url": "https://productflo.io/ai-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "rebuilt",
+        "our",
+        "directory",
+        "tools"
+      ],
+      "foundAt": "2026-10-15T21:44:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "title": "AI Coding Tools – Architecture, Local LLMs and SWE-Bench",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "tools",
+        "architecture",
+        "local",
+        "llms"
+      ],
+      "foundAt": "2026-10-15T21:29:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.orchardagentic.cloud",
+      "title": "Show HN: AI investment agreement review for startup founders",
+      "url": "https://www.orchardagentic.cloud",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "investment",
+        "agreement",
+        "review",
+        "startup"
+      ],
+      "foundAt": "2026-10-14T09:13:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/bnlcas/pdf2epub",
+      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
+      "url": "https://github.com/bnlcas/pdf2epub",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "epub",
+        "conversion",
+        "tool"
+      ],
+      "foundAt": "2026-10-14T01:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://menura.download",
+      "title": "Show HN: Save photo, video, and audio from websites in one step",
+      "url": "https://menura.download",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "save",
+        "photo",
+        "video",
+        "audio"
+      ],
+      "foundAt": "2026-10-10T08:54:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ketul93/spectromood",
+      "title": "Show HN: SpectroMood, speech emotion detection with a decision model",
+      "url": "https://github.com/ketul93/spectromood",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "spectromood",
+        "speech",
+        "emotion",
+        "detection"
+      ],
+      "foundAt": "2026-10-09T08:40:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://screenci.com",
+      "title": "Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent",
+      "url": "https://screenci.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "screenci",
+        "tutorial",
+        "videos",
+        "e2e"
+      ],
+      "foundAt": "2026-10-08T12:39:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/shdwfruit/convkit",
+      "title": "Show HN: Convkit – A command line tool for converting images/video/docs offline",
+      "url": "https://github.com/shdwfruit/convkit",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "convkit",
+        "command",
+        "line",
+        "tool"
+      ],
+      "foundAt": "2026-10-07T17:59:50.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://proofsource.co",
+      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+      "url": "https://proofsource.co",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "proofsource",
+        "find",
+        "where",
+        "leaves"
+      ],
+      "foundAt": "2026-10-13T06:51:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://www.stackone.com/blog/tool-policies-launch",
       "title": "Tool Policies: one policy engine for every tool your AI agents call",
       "url": "https://www.stackone.com/blog/tool-policies-launch",
@@ -1060,176 +1388,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://dataflexstudio.vercel.app",
-      "title": "DataFlex Studio – 100% client-side JSON to CSV converter",
-      "url": "https://dataflexstudio.vercel.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "dataflex",
-        "studio",
-        "client-side",
-        "json",
-        "csv"
-      ],
-      "foundAt": "2026-10-01T15:16:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://metriqcon.co",
-      "title": "Metriqcon – A client-side unit converter with an inline live math parser",
-      "url": "https://metriqcon.co",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "metriqcon",
-        "client-side",
-        "unit",
-        "converter",
-        "inline"
-      ],
-      "foundAt": "2026-10-01T12:21:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
-      "title": "LLM library that builds itself, a converter for nearly every file",
-      "url": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "llm",
-        "library",
-        "builds",
-        "itself",
-        "converter"
-      ],
-      "foundAt": "2026-09-30T23:07:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://binarycodetranslator.org",
-      "title": "Show HN: Binary Code Translator – free browser-based text↔binary converter",
-      "url": "https://binarycodetranslator.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "binary",
-        "code",
-        "translator",
-        "free"
-      ],
-      "foundAt": "2026-09-29T17:45:07.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://minimax-converter.com",
-      "title": "A Swiss army knife file converter",
-      "url": "https://minimax-converter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "swiss",
-        "army",
-        "knife",
-        "file",
-        "converter"
-      ],
-      "foundAt": "2026-09-29T09:19:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://riowallet.netlify.app",
-      "title": "Currency converter app – ECB rates (works offline as PWA)",
-      "url": "https://riowallet.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "currency",
-        "converter",
-        "app",
-        "ecb",
-        "rates"
-      ],
-      "foundAt": "2026-09-29T07:33:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thegreatbritishconverter.co.uk",
-      "title": "The Great British Converter: From Bytes to Barleycorns",
-      "url": "https://thegreatbritishconverter.co.uk",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "great",
-        "british",
-        "converter",
-        "bytes",
-        "barleycorns"
-      ],
-      "foundAt": "2026-09-28T20:59:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://imagerry.com",
-      "title": "A private alternative to cloud image converters and compressors",
-      "url": "https://imagerry.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "private",
-        "alternative",
-        "cloud",
-        "image",
-        "converters"
-      ],
-      "foundAt": "2026-09-28T18:10:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ciromattia/kcc",
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "using",
-        "dft",
-        "dithering",
-        "etc"
-      ],
-      "foundAt": "2026-09-28T15:39:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://9revolution9.com/tools/geo/shp-geojson",
-      "title": "Show HN: A Shapefile converter that fixes the winding you didn't know was wrong",
-      "url": "https://9revolution9.com/tools/geo/shp-geojson",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "shapefile",
-        "converter",
-        "fixes",
-        "winding"
-      ],
-      "foundAt": "2026-09-23T13:19:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/kobaltgit/tg-rich-converter",
       "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
       "url": "https://github.com/kobaltgit/tg-rich-converter",
@@ -1276,23 +1434,6 @@
         "math"
       ],
       "foundAt": "2026-10-16T08:17:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.pockeng.com/tools/grid.html",
-      "title": "Series and Parallel Calculator for resistor, battery banks and solar Arrays",
-      "url": "https://www.pockeng.com/tools/grid.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "series",
-        "parallel",
-        "calculator",
-        "resistor",
-        "battery"
-      ],
-      "foundAt": "2026-10-01T12:45:45.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
