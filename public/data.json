@@ -1,6 +1,244 @@
 {
-  "updatedAt": "2026-10-20T02:53:41.960Z",
+  "updatedAt": "2026-10-21T02:53:25.908Z",
   "items": [
+    {
+      "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "decomp",
+        "dev",
+        "shuts",
+        "down",
+        "because"
+      ],
+      "foundAt": "2026-10-17T06:44:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+      "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+      "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "writing",
+        "code",
+        "shipping",
+        "productivity",
+        "effects"
+      ],
+      "foundAt": "2026-10-21T00:13:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics",
+      "title": "AWS launches open-source Physical AI Toolchain for robotics",
+      "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "aws",
+        "launches",
+        "open-source",
+        "physical",
+        "toolchain"
+      ],
+      "foundAt": "2026-10-20T18:47:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f",
+      "title": "Go Conventions That Clicked Too Late for an AI Engineer",
+      "url": "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "conventions",
+        "clicked",
+        "too",
+        "late",
+        "engineer"
+      ],
+      "foundAt": "2026-10-20T16:59:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
+      "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel",
+      "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "linus",
+        "torvalds",
+        "posts",
+        "his",
+        "first"
+      ],
+      "foundAt": "2026-10-20T16:37:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+      "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+      "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "aws",
+        "cfo",
+        "joked",
+        "about",
+        "financial"
+      ],
+      "foundAt": "2026-10-20T16:08:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://redgeoff.com/posts/dont-start-the-company",
+      "title": "AI models told me not to start the company",
+      "url": "https://redgeoff.com/posts/dont-start-the-company",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "models",
+        "told",
+        "not",
+        "start",
+        "company"
+      ],
+      "foundAt": "2026-10-20T16:07:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://longtermemory.com",
+      "title": "Show HN: LongTerMemory, AI-RAG Study tool helping people to study everything",
+      "url": "https://longtermemory.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "longtermemory",
+        "ai-rag",
+        "study",
+        "tool"
+      ],
+      "foundAt": "2026-10-20T15:15:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai",
+      "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+      "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "reverse-engineer",
+        "anything",
+        "new",
+        "wild",
+        "west"
+      ],
+      "foundAt": "2026-10-20T15:10:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending",
+      "title": "AI Debutant's Flameout Stokes Fears the Boom Is Ending",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "debutant",
+        "flameout",
+        "stokes",
+        "fears",
+        "boom"
+      ],
+      "foundAt": "2026-10-20T14:49:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://asktori.ai",
+      "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+      "url": "https://asktori.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "tori",
+        "talkjs",
+        "support",
+        "actually"
+      ],
+      "foundAt": "2026-10-20T13:45:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
+      "title": "Too busy to read, so I dreamt up a newsroom of AI agents",
+      "url": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "too",
+        "busy",
+        "read",
+        "dreamt",
+        "newsroom"
+      ],
+      "foundAt": "2026-10-20T12:58:43.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
+      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "bill",
+        "gross",
+        "tool",
+        "could",
+        "supercharge"
+      ],
+      "foundAt": "2026-10-20T11:06:15.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/RDMachinery/DataChat",
+      "title": "DataChat – Free, zero-dependency Java tool ask questions with Claude/Offline AI",
+      "url": "https://github.com/RDMachinery/DataChat",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "datachat",
+        "free",
+        "zero-dependency",
+        "java",
+        "tool"
+      ],
+      "foundAt": "2026-10-20T11:00:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
       "title": "New AI tool can predict cancer survival by a single patient selfie",
@@ -19,53 +257,87 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
-      "title": "Is it too late to reduce catastrophic AI risk?",
-      "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "id": "https://a2oliteai.com",
+      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "url": "https://a2oliteai.com",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
-        "too",
-        "late",
-        "reduce",
-        "catastrophic",
-        "risk"
+        "show",
+        "built",
+        "tool",
+        "turns",
+        "two"
       ],
-      "foundAt": "2026-10-19T23:05:22.000Z",
+      "foundAt": "2026-10-20T09:06:42.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
-      "title": "AI models can get brain rot, too",
-      "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
+      "id": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
-        "models",
-        "can",
-        "get",
-        "brain",
-        "rot"
+        "vite",
+        "excellent",
+        "toolchain",
+        "agent",
+        "development"
       ],
-      "foundAt": "2026-10-19T22:01:26.000Z",
+      "foundAt": "2026-10-20T06:40:49.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
-      "title": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
-      "url": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "id": "https://textus.catvinci.com",
+      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+      "url": "https://textus.catvinci.com",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
-        "coding",
-        "boom",
-        "fades",
-        "grads",
-        "focus"
+        "textus",
+        "wysiwyg",
+        "markdown",
+        "editor",
+        "built-in"
       ],
-      "foundAt": "2026-10-19T18:59:42.000Z",
+      "foundAt": "2026-10-20T05:16:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://textideo.com/director",
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "url": "https://textideo.com/director",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "textideo",
+        "director",
+        "video",
+        "creation",
+        "tool"
+      ],
+      "foundAt": "2026-10-20T03:13:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://appmaker.io",
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "url": "https://appmaker.io",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "appmaker",
+        "build",
+        "business",
+        "apps"
+      ],
+      "foundAt": "2026-10-20T02:55:31.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -87,256 +359,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/Silvertree2010/ApolloOffice",
-      "title": "Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs",
-      "url": "https://github.com/Silvertree2010/ApolloOffice",
+      "id": "https://markitdownai.org",
+      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+      "url": "https://markitdownai.org",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "apollooffice",
-        "local",
-        "workers",
-        "turn"
-      ],
-      "foundAt": "2026-10-19T13:34:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.panelfont.com",
-      "title": "Show HN: Panel Font-AI Manga Translator",
-      "url": "https://www.panelfont.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "panel",
-        "font-ai",
-        "manga",
-        "translator"
-      ],
-      "foundAt": "2026-10-19T09:03:58.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
-      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
-      "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "consumer",
-        "apprehension",
-        "grows",
-        "retailers",
-        "adopt"
-      ],
-      "foundAt": "2026-10-18T19:39:36.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
-      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
-      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "how",
-        "fed",
-        "quietly",
-        "inflating",
-        "bubble"
-      ],
-      "foundAt": "2026-10-18T16:48:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.documemory.dev",
-      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
-      "url": "https://www.documemory.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "documemory",
-        "persistent",
-        "memory",
-        "context"
-      ],
-      "foundAt": "2026-10-18T14:22:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://meetcap.seacen.dev",
-      "title": "Show HN: MeetCap – Free on-device meeting transcription your AI agent can run",
-      "url": "https://meetcap.seacen.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "meetcap",
-        "free",
-        "on-device",
-        "meeting"
-      ],
-      "foundAt": "2026-10-18T13:21:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://risphai.com",
-      "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
-      "url": "https://risphai.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "risphai",
-        "picks",
-        "model",
-        "tools"
-      ],
-      "foundAt": "2026-10-18T09:11:39.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
-      "title": "AI coding interfaces make approval easy and understanding hard",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "coding",
-        "interfaces",
-        "make",
-        "approval",
-        "easy"
-      ],
-      "foundAt": "2026-10-17T22:07:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
-      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-      "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "decomp",
-        "dev",
-        "shuts",
-        "down",
-        "because"
-      ],
-      "foundAt": "2026-10-17T06:44:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
-      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
-      "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "taco",
-        "bell",
-        "drive-thru",
-        "bot",
-        "increased"
-      ],
-      "foundAt": "2026-10-16T19:37:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
-      "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
-      "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "post",
-        "about",
-        "recreating",
-        "adobe",
-        "tools"
-      ],
-      "foundAt": "2026-10-16T16:55:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
-      "title": "Show HN: Agent Chat in Your Markdown Notes – Chat with Context and Save Response",
-      "url": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "agent",
-        "chat",
-        "your",
+        "markitdown",
+        "convert",
+        "documents",
         "markdown"
       ],
-      "foundAt": "2026-10-16T15:53:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
-      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
-      "url": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "research",
-        "tools",
-        "literature",
-        "discovery",
-        "latex"
-      ],
-      "foundAt": "2026-10-16T13:56:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://ndroo.github.io/tapo-boiler-monitor",
-      "title": "Show HN: Monitoring my 'dumb' boiler with AI",
-      "url": "https://ndroo.github.io/tapo-boiler-monitor",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "monitoring",
-        "dumb",
-        "boiler"
-      ],
-      "foundAt": "2026-10-16T13:51:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hq.freedev.app",
-      "title": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
-      "url": "https://hq.freedev.app",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "free",
-        "hub",
-        "p2p",
-        "sharing",
-        "qr-gen"
-      ],
-      "foundAt": "2026-10-18T20:25:52.000Z",
+      "foundAt": "2026-10-20T12:29:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -711,6 +746,73 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/kobaltgit/tg-rich-converter",
+      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
+      "url": "https://github.com/kobaltgit/tg-rich-converter",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "tg-rich-converter",
+        "streaming",
+        "llm",
+        "markdown",
+        "latex"
+      ],
+      "foundAt": "2026-09-20T19:40:30.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/gbr-ufs/any2nix",
+      "title": "Any2nix: Serialization-Powered Nix Converter",
+      "url": "https://github.com/gbr-ufs/any2nix",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "any2nix",
+        "serialization-powered",
+        "nix",
+        "converter"
+      ],
+      "foundAt": "2026-09-20T14:03:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thephoto.ca",
+      "title": "A free RGB↔CMYK converter and photo upscaler",
+      "url": "https://thephoto.ca",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "rgb",
+        "cmyk",
+        "converter",
+        "photo"
+      ],
+      "foundAt": "2026-09-19T06:58:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.notvorratsrechner.bwl.admin.ch/en",
+      "title": "Swiss Government Emergency Preparation Calculator",
+      "url": "https://www.notvorratsrechner.bwl.admin.ch/en",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "swiss",
+        "government",
+        "emergency",
+        "preparation",
+        "calculator"
+      ],
+      "foundAt": "2026-10-20T12:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://voltcost.vercel.app",
       "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
       "url": "https://voltcost.vercel.app",
@@ -758,23 +860,6 @@
         "pinwheel"
       ],
       "foundAt": "2026-10-12T15:12:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "calculate",
-        "your",
-        "doom",
-        "interactive",
-        "article"
-      ],
-      "foundAt": "2026-10-11T22:55:24.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -896,23 +981,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/Liebmann5/AA",
-      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
-      "url": "https://github.com/Liebmann5/AA",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "autoapply",
-        "open-source",
-        "job-hunt",
-        "tool"
-      ],
-      "foundAt": "2026-10-06T20:10:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://displaymath.com",
       "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
       "url": "https://displaymath.com",
@@ -1013,6 +1081,125 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
+      "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
+      "url": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "youtube",
+        "lunatic",
+        "designed",
+        "printed",
+        "working"
+      ],
+      "foundAt": "2026-09-30T21:32:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gkogan.co/removing-stuff",
+      "title": "The pricing calculator made people more confused about pricing",
+      "url": "https://www.gkogan.co/removing-stuff",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "pricing",
+        "calculator",
+        "made",
+        "people",
+        "more"
+      ],
+      "foundAt": "2026-09-30T14:01:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
+      "title": "Porting a 1996 Pascal/Delphi Calculator to Rust (CLI and MCP)",
+      "url": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "porting",
+        "pascal",
+        "delphi",
+        "calculator",
+        "rust"
+      ],
+      "foundAt": "2026-09-29T12:01:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
+      "title": "High school calculator for analytic number theory",
+      "url": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "high",
+        "school",
+        "calculator",
+        "analytic",
+        "number"
+      ],
+      "foundAt": "2026-09-28T10:14:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
+      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
+      "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "agent",
+        "running",
+        "cost",
+        "calculator"
+      ],
+      "foundAt": "2026-09-27T14:26:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://calcupedia.io",
+      "title": "Show HN: The easiest way to (embed a calculator) on any website, with no coding",
+      "url": "https://calcupedia.io",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "easiest",
+        "way",
+        "embed",
+        "calculator"
+      ],
+      "foundAt": "2026-09-26T14:04:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tradune.com/tools/beat-the-market-calculator",
+      "title": "Show HN: Browser-only XIRR calculator – your real return from your real deposits",
+      "url": "https://tradune.com/tools/beat-the-market-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "browser-only",
+        "xirr",
+        "calculator",
+        "your"
+      ],
+      "foundAt": "2026-09-26T08:49:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
       "title": "windows-image-batch-converter",
       "url": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
@@ -1049,6 +1236,328 @@
       ],
       "foundAt": "2026-10-19T17:02:14.000Z",
       "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "title": "Is it too late to reduce catastrophic AI risk?",
+      "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "too",
+        "late",
+        "reduce",
+        "catastrophic",
+        "risk"
+      ],
+      "foundAt": "2026-10-19T23:05:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
+      "title": "AI models can get brain rot, too",
+      "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "models",
+        "can",
+        "get",
+        "brain",
+        "rot"
+      ],
+      "foundAt": "2026-10-19T22:01:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "title": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
+      "url": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "boom",
+        "fades",
+        "grads",
+        "focus"
+      ],
+      "foundAt": "2026-10-19T18:59:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Silvertree2010/ApolloOffice",
+      "title": "Show HN: ApolloOffice – Local AI workers that turn GitHub issues into tested PRs",
+      "url": "https://github.com/Silvertree2010/ApolloOffice",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "apollooffice",
+        "local",
+        "workers",
+        "turn"
+      ],
+      "foundAt": "2026-10-19T13:34:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.panelfont.com",
+      "title": "Show HN: Panel Font-AI Manga Translator",
+      "url": "https://www.panelfont.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "panel",
+        "font-ai",
+        "manga",
+        "translator"
+      ],
+      "foundAt": "2026-10-19T09:03:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "consumer",
+        "apprehension",
+        "grows",
+        "retailers",
+        "adopt"
+      ],
+      "foundAt": "2026-10-18T19:39:36.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "how",
+        "fed",
+        "quietly",
+        "inflating",
+        "bubble"
+      ],
+      "foundAt": "2026-10-18T16:48:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.documemory.dev",
+      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
+      "url": "https://www.documemory.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "documemory",
+        "persistent",
+        "memory",
+        "context"
+      ],
+      "foundAt": "2026-10-18T14:22:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://meetcap.seacen.dev",
+      "title": "Show HN: MeetCap – Free on-device meeting transcription your AI agent can run",
+      "url": "https://meetcap.seacen.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "meetcap",
+        "free",
+        "on-device",
+        "meeting"
+      ],
+      "foundAt": "2026-10-18T13:21:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://risphai.com",
+      "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
+      "url": "https://risphai.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "risphai",
+        "picks",
+        "model",
+        "tools"
+      ],
+      "foundAt": "2026-10-18T09:11:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+      "title": "AI coding interfaces make approval easy and understanding hard",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "coding",
+        "interfaces",
+        "make",
+        "approval",
+        "easy"
+      ],
+      "foundAt": "2026-10-17T22:07:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
+      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+      "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "taco",
+        "bell",
+        "drive-thru",
+        "bot",
+        "increased"
+      ],
+      "foundAt": "2026-10-16T19:37:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
+      "title": "Post About Recreating Adobe Tools Using AI Banned per Adobe Request",
+      "url": "https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "post",
+        "about",
+        "recreating",
+        "adobe",
+        "tools"
+      ],
+      "foundAt": "2026-10-16T16:55:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+      "title": "Show HN: Agent Chat in Your Markdown Notes – Chat with Context and Save Response",
+      "url": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "agent",
+        "chat",
+        "your",
+        "markdown"
+      ],
+      "foundAt": "2026-10-16T15:53:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
+      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "research",
+        "tools",
+        "literature",
+        "discovery",
+        "latex"
+      ],
+      "foundAt": "2026-10-16T13:56:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://ndroo.github.io/tapo-boiler-monitor",
+      "title": "Show HN: Monitoring my 'dumb' boiler with AI",
+      "url": "https://ndroo.github.io/tapo-boiler-monitor",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "monitoring",
+        "dumb",
+        "boiler"
+      ],
+      "foundAt": "2026-10-16T13:51:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hq.freedev.app",
+      "title": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
+      "url": "https://hq.freedev.app",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "free",
+        "hub",
+        "p2p",
+        "sharing",
+        "qr-gen"
+      ],
+      "foundAt": "2026-10-18T20:25:52.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "calculate",
+        "your",
+        "doom",
+        "interactive",
+        "article"
+      ],
+      "foundAt": "2026-10-11T22:55:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Liebmann5/AA",
+      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
+      "url": "https://github.com/Liebmann5/AA",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "autoapply",
+        "open-source",
+        "job-hunt",
+        "tool"
+      ],
+      "foundAt": "2026-10-06T20:10:27.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1388,39 +1897,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/kobaltgit/tg-rich-converter",
-      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
-      "url": "https://github.com/kobaltgit/tg-rich-converter",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "tg-rich-converter",
-        "streaming",
-        "llm",
-        "markdown",
-        "latex"
-      ],
-      "foundAt": "2026-09-20T19:40:30.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/gbr-ufs/any2nix",
-      "title": "Any2nix: Serialization-Powered Nix Converter",
-      "url": "https://github.com/gbr-ufs/any2nix",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "any2nix",
-        "serialization-powered",
-        "nix",
-        "converter"
-      ],
-      "foundAt": "2026-09-20T14:03:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
       "title": "Calcova: Scientific Calculator with Step-by-Step Math and Smart Unit Conversions",
       "url": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
@@ -1434,125 +1910,6 @@
         "math"
       ],
       "foundAt": "2026-10-16T08:17:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
-      "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
-      "url": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "youtube",
-        "lunatic",
-        "designed",
-        "printed",
-        "working"
-      ],
-      "foundAt": "2026-09-30T21:32:10.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.gkogan.co/removing-stuff",
-      "title": "The pricing calculator made people more confused about pricing",
-      "url": "https://www.gkogan.co/removing-stuff",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "pricing",
-        "calculator",
-        "made",
-        "people",
-        "more"
-      ],
-      "foundAt": "2026-09-30T14:01:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
-      "title": "Porting a 1996 Pascal/Delphi Calculator to Rust (CLI and MCP)",
-      "url": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "porting",
-        "pascal",
-        "delphi",
-        "calculator",
-        "rust"
-      ],
-      "foundAt": "2026-09-29T12:01:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
-      "title": "High school calculator for analytic number theory",
-      "url": "https://rtmkrptn.github.io/posts/high-school-calculator-computes-analytical-number-theory",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "high",
-        "school",
-        "calculator",
-        "analytic",
-        "number"
-      ],
-      "foundAt": "2026-09-28T10:14:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
-      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-      "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "agent",
-        "running",
-        "cost",
-        "calculator"
-      ],
-      "foundAt": "2026-09-27T14:26:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://calcupedia.io",
-      "title": "Show HN: The easiest way to (embed a calculator) on any website, with no coding",
-      "url": "https://calcupedia.io",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "easiest",
-        "way",
-        "embed",
-        "calculator"
-      ],
-      "foundAt": "2026-09-26T14:04:21.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tradune.com/tools/beat-the-market-calculator",
-      "title": "Show HN: Browser-only XIRR calculator – your real return from your real deposits",
-      "url": "https://tradune.com/tools/beat-the-market-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "browser-only",
-        "xirr",
-        "calculator",
-        "your"
-      ],
-      "foundAt": "2026-09-26T08:49:32.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
