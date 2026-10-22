@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-10-21T02:53:25.908Z",
+  "updatedAt": "2026-10-22T02:54:30.438Z",
   "items": [
+    {
+      "id": "https://www.trylasso.online",
+      "title": "Show HN: I made a free Mac app to annotate screen for AI agents",
+      "url": "https://www.trylasso.online",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "made",
+        "free",
+        "mac",
+        "app"
+      ],
+      "foundAt": "2026-10-21T20:07:52.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+      "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
+      "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "google",
+        "pushed",
+        "into",
+        "schools",
+        "even"
+      ],
+      "foundAt": "2026-10-21T17:50:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b",
+      "title": "Chinese AI Tool Linked to Hacks in Japan",
+      "url": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "chinese",
+        "tool",
+        "linked",
+        "hacks",
+        "japan"
+      ],
+      "foundAt": "2026-10-21T11:28:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://squidbrake.com/benchmark",
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "url": "https://squidbrake.com/benchmark",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "replayed",
+        "real",
+        "agent",
+        "incidents"
+      ],
+      "foundAt": "2026-10-21T10:23:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/kobaltgit/photocraft-companion",
+      "title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+      "url": "https://github.com/kobaltgit/photocraft-companion",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "local",
+        "directml",
+        "floating",
+        "toolstrip"
+      ],
+      "foundAt": "2026-10-21T07:46:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "deepseek",
+        "unveils",
+        "open-source",
+        "tool",
+        "help"
+      ],
+      "foundAt": "2026-10-21T03:50:30.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy",
       "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
@@ -168,193 +270,6 @@
         "boom"
       ],
       "foundAt": "2026-10-20T14:49:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://asktori.ai",
-      "title": "Show HN: Tori by TalkJS. AI support that's actually good",
-      "url": "https://asktori.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "tori",
-        "talkjs",
-        "support",
-        "actually"
-      ],
-      "foundAt": "2026-10-20T13:45:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
-      "title": "Too busy to read, so I dreamt up a newsroom of AI agents",
-      "url": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "too",
-        "busy",
-        "read",
-        "dreamt",
-        "newsroom"
-      ],
-      "foundAt": "2026-10-20T12:58:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
-      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
-      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "bill",
-        "gross",
-        "tool",
-        "could",
-        "supercharge"
-      ],
-      "foundAt": "2026-10-20T11:06:15.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/RDMachinery/DataChat",
-      "title": "DataChat – Free, zero-dependency Java tool ask questions with Claude/Offline AI",
-      "url": "https://github.com/RDMachinery/DataChat",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "datachat",
-        "free",
-        "zero-dependency",
-        "java",
-        "tool"
-      ],
-      "foundAt": "2026-10-20T11:00:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "title": "New AI tool can predict cancer survival by a single patient selfie",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "new",
-        "tool",
-        "can",
-        "predict",
-        "cancer"
-      ],
-      "foundAt": "2026-10-20T01:50:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://a2oliteai.com",
-      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
-      "url": "https://a2oliteai.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "built",
-        "tool",
-        "turns",
-        "two"
-      ],
-      "foundAt": "2026-10-20T09:06:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
-      "title": "Vite+ an excellent toolchain for AI agent development",
-      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "vite",
-        "excellent",
-        "toolchain",
-        "agent",
-        "development"
-      ],
-      "foundAt": "2026-10-20T06:40:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://textus.catvinci.com",
-      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
-      "url": "https://textus.catvinci.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "textus",
-        "wysiwyg",
-        "markdown",
-        "editor",
-        "built-in"
-      ],
-      "foundAt": "2026-10-20T05:16:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://textideo.com/director",
-      "title": "Textideo Director – an AI video creation tool for scenes, shots",
-      "url": "https://textideo.com/director",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "textideo",
-        "director",
-        "video",
-        "creation",
-        "tool"
-      ],
-      "foundAt": "2026-10-20T03:13:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://appmaker.io",
-      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
-      "url": "https://appmaker.io",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "appmaker",
-        "build",
-        "business",
-        "apps"
-      ],
-      "foundAt": "2026-10-20T02:55:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "http://crawl-check.user-sentry.com",
-      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
-      "url": "http://crawl-check.user-sentry.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "check",
-        "crawlers",
-        "are",
-        "blocked",
-        "your"
-      ],
-      "foundAt": "2026-10-19T16:08:01.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -779,19 +694,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://thephoto.ca",
-      "title": "A free RGB↔CMYK converter and photo upscaler",
-      "url": "https://thephoto.ca",
+      "id": "https://milepacecalculator.com",
+      "title": "Show HN: Mile Pace Calculator, free pace and split tools for runners",
+      "url": "https://milepacecalculator.com",
       "source": "Hacker News",
-      "category": "文件工具",
+      "category": "计算器",
       "keywords": [
-        "free",
-        "rgb",
-        "cmyk",
-        "converter",
-        "photo"
+        "show",
+        "mile",
+        "pace",
+        "calculator",
+        "free"
       ],
-      "foundAt": "2026-09-19T06:58:39.000Z",
+      "foundAt": "2026-10-21T03:11:15.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -981,6 +896,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/Liebmann5/AA",
+      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
+      "url": "https://github.com/Liebmann5/AA",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "autoapply",
+        "open-source",
+        "job-hunt",
+        "tool"
+      ],
+      "foundAt": "2026-10-06T20:10:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://displaymath.com",
       "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
       "url": "https://displaymath.com",
@@ -1115,6 +1047,262 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
+      "title": "windows-image-batch-converter",
+      "url": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-image-batch-converter"
+      ],
+      "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "title": "windows-pdf-merge-split-tool",
+      "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-merge-split-tool"
+      ],
+      "foundAt": "2026-10-19T17:02:14.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "title": "windows-pdf-ocr-text-extractor",
+      "url": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-ocr-text-extractor"
+      ],
+      "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/powerjayflow/pdf-merge",
+      "title": "pdf-merge",
+      "url": "https://api.github.com/repos/powerjayflow/pdf-merge",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "pdf-merge"
+      ],
+      "foundAt": "2026-10-18T20:48:07.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://asktori.ai",
+      "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+      "url": "https://asktori.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "tori",
+        "talkjs",
+        "support",
+        "actually"
+      ],
+      "foundAt": "2026-10-20T13:45:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
+      "title": "Too busy to read, so I dreamt up a newsroom of AI agents",
+      "url": "https://visokio.com/2026/10/19/too-busy-to-read-so-i-dreamt-up-a-newsroom-of-ai-agents",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "too",
+        "busy",
+        "read",
+        "dreamt",
+        "newsroom"
+      ],
+      "foundAt": "2026-10-20T12:58:43.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
+      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "bill",
+        "gross",
+        "tool",
+        "could",
+        "supercharge"
+      ],
+      "foundAt": "2026-10-20T11:06:15.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/RDMachinery/DataChat",
+      "title": "DataChat – Free, zero-dependency Java tool ask questions with Claude/Offline AI",
+      "url": "https://github.com/RDMachinery/DataChat",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "datachat",
+        "free",
+        "zero-dependency",
+        "java",
+        "tool"
+      ],
+      "foundAt": "2026-10-20T11:00:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "new",
+        "tool",
+        "can",
+        "predict",
+        "cancer"
+      ],
+      "foundAt": "2026-10-20T01:50:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://a2oliteai.com",
+      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "url": "https://a2oliteai.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "built",
+        "tool",
+        "turns",
+        "two"
+      ],
+      "foundAt": "2026-10-20T09:06:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "vite",
+        "excellent",
+        "toolchain",
+        "agent",
+        "development"
+      ],
+      "foundAt": "2026-10-20T06:40:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://textus.catvinci.com",
+      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+      "url": "https://textus.catvinci.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "textus",
+        "wysiwyg",
+        "markdown",
+        "editor",
+        "built-in"
+      ],
+      "foundAt": "2026-10-20T05:16:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://textideo.com/director",
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "url": "https://textideo.com/director",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "textideo",
+        "director",
+        "video",
+        "creation",
+        "tool"
+      ],
+      "foundAt": "2026-10-20T03:13:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://appmaker.io",
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "url": "https://appmaker.io",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "appmaker",
+        "build",
+        "business",
+        "apps"
+      ],
+      "foundAt": "2026-10-20T02:55:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "http://crawl-check.user-sentry.com",
+      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+      "url": "http://crawl-check.user-sentry.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "check",
+        "crawlers",
+        "are",
+        "blocked",
+        "your"
+      ],
+      "foundAt": "2026-10-19T16:08:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thephoto.ca",
+      "title": "A free RGB↔CMYK converter and photo upscaler",
+      "url": "https://thephoto.ca",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "rgb",
+        "cmyk",
+        "converter",
+        "photo"
+      ],
+      "foundAt": "2026-09-19T06:58:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
       "title": "Porting a 1996 Pascal/Delphi Calculator to Rust (CLI and MCP)",
       "url": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
@@ -1197,45 +1385,6 @@
       ],
       "foundAt": "2026-09-26T08:49:32.000Z",
       "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
-      "title": "windows-image-batch-converter",
-      "url": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
-      "source": "GitHub",
-      "category": "文件工具",
-      "keywords": [
-        "windows-image-batch-converter"
-      ],
-      "foundAt": "2026-10-19T17:02:15.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
-      "title": "windows-pdf-ocr-text-extractor",
-      "url": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
-      "source": "GitHub",
-      "category": "文件工具",
-      "keywords": [
-        "windows-pdf-ocr-text-extractor"
-      ],
-      "foundAt": "2026-10-19T17:02:15.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
-      "title": "windows-pdf-merge-split-tool",
-      "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
-      "source": "GitHub",
-      "category": "文件工具",
-      "keywords": [
-        "windows-pdf-merge-split-tool"
-      ],
-      "foundAt": "2026-10-19T17:02:14.000Z",
-      "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1540,23 +1689,6 @@
         "article"
       ],
       "foundAt": "2026-10-11T22:55:24.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Liebmann5/AA",
-      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
-      "url": "https://github.com/Liebmann5/AA",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "autoapply",
-        "open-source",
-        "job-hunt",
-        "tool"
-      ],
-      "foundAt": "2026-10-06T20:10:27.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
