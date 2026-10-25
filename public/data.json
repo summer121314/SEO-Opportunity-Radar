@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-24T02:53:08.276Z",
+  "updatedAt": "2026-10-25T02:52:58.592Z",
   "items": [
+    {
+      "id": "https://github.com/swrdfish/narro",
+      "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+      "url": "https://github.com/swrdfish/narro",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "narro",
+        "read",
+        "web",
+        "pages"
+      ],
+      "foundAt": "2026-10-24T19:37:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aulico.com",
+      "title": "Aulico: Markets with AI for You, Too",
+      "url": "https://www.aulico.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "aulico",
+        "markets",
+        "you",
+        "too"
+      ],
+      "foundAt": "2026-10-24T16:44:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://latch.tools",
+      "title": "Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)",
+      "url": "https://latch.tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "latch",
+        "make",
+        "any",
+        "website"
+      ],
+      "foundAt": "2026-10-24T05:41:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
       "title": "Wall Street prepares for AI's \"day after\"",
@@ -15,20 +65,6 @@
         "after"
       ],
       "foundAt": "2026-10-23T22:36:07.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
-      "title": "The \"AI-Last\" Methodology",
-      "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "ai-last",
-        "methodology"
-      ],
-      "foundAt": "2026-10-23T20:00:24.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -115,23 +151,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://dimitro.gr/assets/pdf/AASM27.pdf",
-      "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]",
-      "url": "https://dimitro.gr/assets/pdf/AASM27.pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "when",
-        "agrees",
-        "too",
-        "much",
-        "manipulating"
-      ],
-      "foundAt": "2026-10-23T05:41:53.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://zordt.com",
       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
       "url": "https://zordt.com",
@@ -145,23 +164,6 @@
         "better"
       ],
       "foundAt": "2026-10-23T02:25:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
-      "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
-      "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "eyeballs",
-        "arr",
-        "buzzy",
-        "pricing",
-        "metrics"
-      ],
-      "foundAt": "2026-10-23T00:05:56.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -196,40 +198,6 @@
         "mac"
       ],
       "foundAt": "2026-10-22T20:15:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/anishchugh05/mnemolith",
-      "title": "Show HN: Mnemolith – AI coding memory that goes stale when your code changes",
-      "url": "https://github.com/anishchugh05/mnemolith",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "mnemolith",
-        "coding",
-        "memory",
-        "goes"
-      ],
-      "foundAt": "2026-10-22T18:59:50.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
-      "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
-      "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "google",
-        "pushed",
-        "into",
-        "schools",
-        "even"
-      ],
-      "foundAt": "2026-10-21T17:50:08.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -332,22 +300,6 @@
         "portfolio"
       ],
       "foundAt": "2026-10-22T11:13:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
-      "title": "80% of the top 1% of AI spenders are VC-backed",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "top",
-        "spenders",
-        "are",
-        "vc-backed"
-      ],
-      "foundAt": "2026-10-22T10:52:28.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -484,6 +436,23 @@
         "workflows"
       ],
       "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/bnlcas/pdf2epub",
+      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
+      "url": "https://github.com/bnlcas/pdf2epub",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "epub",
+        "conversion",
+        "tool"
+      ],
+      "foundAt": "2026-10-14T01:20:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -637,138 +606,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://binarycodetranslator.org",
-      "title": "Show HN: Binary Code Translator – free browser-based text↔binary converter",
-      "url": "https://binarycodetranslator.org",
+      "id": "https://calsee.tech",
+      "title": "Show HN: Calsee – a calculator whose themes are generated from a single seed",
+      "url": "https://calsee.tech",
       "source": "Hacker News",
-      "category": "文件工具",
+      "category": "计算器",
       "keywords": [
         "show",
-        "binary",
-        "code",
-        "translator",
-        "free"
+        "calsee",
+        "calculator",
+        "whose",
+        "themes"
       ],
-      "foundAt": "2026-09-29T17:45:07.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://minimax-converter.com",
-      "title": "A Swiss army knife file converter",
-      "url": "https://minimax-converter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "swiss",
-        "army",
-        "knife",
-        "file",
-        "converter"
-      ],
-      "foundAt": "2026-09-29T09:19:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://riowallet.netlify.app",
-      "title": "Currency converter app – ECB rates (works offline as PWA)",
-      "url": "https://riowallet.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "currency",
-        "converter",
-        "app",
-        "ecb",
-        "rates"
-      ],
-      "foundAt": "2026-09-29T07:33:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thegreatbritishconverter.co.uk",
-      "title": "The Great British Converter: From Bytes to Barleycorns",
-      "url": "https://thegreatbritishconverter.co.uk",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "great",
-        "british",
-        "converter",
-        "bytes",
-        "barleycorns"
-      ],
-      "foundAt": "2026-09-28T20:59:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://imagerry.com",
-      "title": "A private alternative to cloud image converters and compressors",
-      "url": "https://imagerry.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "private",
-        "alternative",
-        "cloud",
-        "image",
-        "converters"
-      ],
-      "foundAt": "2026-09-28T18:10:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ciromattia/kcc",
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "using",
-        "dft",
-        "dithering",
-        "etc"
-      ],
-      "foundAt": "2026-09-28T15:39:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://9revolution9.com/tools/geo/shp-geojson",
-      "title": "Show HN: A Shapefile converter that fixes the winding you didn't know was wrong",
-      "url": "https://9revolution9.com/tools/geo/shp-geojson",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "shapefile",
-        "converter",
-        "fixes",
-        "winding"
-      ],
-      "foundAt": "2026-09-23T13:19:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/kobaltgit/tg-rich-converter",
-      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
-      "url": "https://github.com/kobaltgit/tg-rich-converter",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "tg-rich-converter",
-        "streaming",
-        "llm",
-        "markdown",
-        "latex"
-      ],
-      "foundAt": "2026-09-20T19:40:30.000Z",
+      "foundAt": "2026-10-24T07:45:29.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1186,6 +1036,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "title": "windows-pdf-ocr-text-extractor",
+      "url": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-ocr-text-extractor"
+      ],
+      "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
       "title": "windows-pdf-merge-split-tool",
       "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
@@ -1199,16 +1062,237 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
-      "title": "windows-pdf-ocr-text-extractor",
-      "url": "https://api.github.com/repos/Meteorkureckon/windows-pdf-ocr-text-extractor",
-      "source": "GitHub",
+      "id": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
+      "title": "The \"AI-Last\" Methodology",
+      "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "ai-last",
+        "methodology"
+      ],
+      "foundAt": "2026-10-23T20:00:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://dimitro.gr/assets/pdf/AASM27.pdf",
+      "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]",
+      "url": "https://dimitro.gr/assets/pdf/AASM27.pdf",
+      "source": "Hacker News",
       "category": "文件工具",
       "keywords": [
-        "windows-pdf-ocr-text-extractor"
+        "when",
+        "agrees",
+        "too",
+        "much",
+        "manipulating"
       ],
-      "foundAt": "2026-10-19T17:02:15.000Z",
-      "score": 45,
+      "foundAt": "2026-10-23T05:41:53.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
+      "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
+      "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "eyeballs",
+        "arr",
+        "buzzy",
+        "pricing",
+        "metrics"
+      ],
+      "foundAt": "2026-10-23T00:05:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/anishchugh05/mnemolith",
+      "title": "Show HN: Mnemolith – AI coding memory that goes stale when your code changes",
+      "url": "https://github.com/anishchugh05/mnemolith",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "mnemolith",
+        "coding",
+        "memory",
+        "goes"
+      ],
+      "foundAt": "2026-10-22T18:59:50.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+      "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
+      "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "google",
+        "pushed",
+        "into",
+        "schools",
+        "even"
+      ],
+      "foundAt": "2026-10-21T17:50:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
+      "title": "80% of the top 1% of AI spenders are VC-backed",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "top",
+        "spenders",
+        "are",
+        "vc-backed"
+      ],
+      "foundAt": "2026-10-22T10:52:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://binarycodetranslator.org",
+      "title": "Show HN: Binary Code Translator – free browser-based text↔binary converter",
+      "url": "https://binarycodetranslator.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "binary",
+        "code",
+        "translator",
+        "free"
+      ],
+      "foundAt": "2026-09-29T17:45:07.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://minimax-converter.com",
+      "title": "A Swiss army knife file converter",
+      "url": "https://minimax-converter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "swiss",
+        "army",
+        "knife",
+        "file",
+        "converter"
+      ],
+      "foundAt": "2026-09-29T09:19:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://riowallet.netlify.app",
+      "title": "Currency converter app – ECB rates (works offline as PWA)",
+      "url": "https://riowallet.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "currency",
+        "converter",
+        "app",
+        "ecb",
+        "rates"
+      ],
+      "foundAt": "2026-09-29T07:33:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thegreatbritishconverter.co.uk",
+      "title": "The Great British Converter: From Bytes to Barleycorns",
+      "url": "https://thegreatbritishconverter.co.uk",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "great",
+        "british",
+        "converter",
+        "bytes",
+        "barleycorns"
+      ],
+      "foundAt": "2026-09-28T20:59:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://imagerry.com",
+      "title": "A private alternative to cloud image converters and compressors",
+      "url": "https://imagerry.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "private",
+        "alternative",
+        "cloud",
+        "image",
+        "converters"
+      ],
+      "foundAt": "2026-09-28T18:10:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ciromattia/kcc",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "url": "https://github.com/ciromattia/kcc",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "using",
+        "dft",
+        "dithering",
+        "etc"
+      ],
+      "foundAt": "2026-09-28T15:39:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://9revolution9.com/tools/geo/shp-geojson",
+      "title": "Show HN: A Shapefile converter that fixes the winding you didn't know was wrong",
+      "url": "https://9revolution9.com/tools/geo/shp-geojson",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "shapefile",
+        "converter",
+        "fixes",
+        "winding"
+      ],
+      "foundAt": "2026-09-23T13:19:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/kobaltgit/tg-rich-converter",
+      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
+      "url": "https://github.com/kobaltgit/tg-rich-converter",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "tg-rich-converter",
+        "streaming",
+        "llm",
+        "markdown",
+        "latex"
+      ],
+      "foundAt": "2026-09-20T19:40:30.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1259,23 +1343,6 @@
         "markdown"
       ],
       "foundAt": "2026-10-20T12:29:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/bnlcas/pdf2epub",
-      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
-      "url": "https://github.com/bnlcas/pdf2epub",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "epub",
-        "conversion",
-        "tool"
-      ],
-      "foundAt": "2026-10-14T01:20:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2443,74 +2510,6 @@
         "restricted"
       ],
       "foundAt": "2026-10-15T15:46:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://stylebot.dev",
-      "title": "Show HN: Stylebot 4 – restyle any website, by hand or with your coding agent",
-      "url": "https://stylebot.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "stylebot",
-        "restyle",
-        "any",
-        "website"
-      ],
-      "foundAt": "2026-10-15T15:38:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
-      "title": "Calcova: Scientific Calculator with Step-by-Step Math and Smart Unit Conversions",
-      "url": "https://apps.apple.com/us/app/calcova-scientific-calculator/id6769450028",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "calcova",
-        "scientific",
-        "calculator",
-        "step-by-step",
-        "math"
-      ],
-      "foundAt": "2026-10-16T08:17:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://meet-cedric.com",
-      "title": "Show HN: Cedric, the AI teammates that works in Slack and joins meetings",
-      "url": "https://meet-cedric.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "cedric",
-        "teammates",
-        "works",
-        "slack"
-      ],
-      "foundAt": "2026-10-15T14:09:53.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://app.netlumi.com",
-      "title": "Show HN: Netlumi – Cloud and AI agent security with auto-remediation(Live demo)",
-      "url": "https://app.netlumi.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "netlumi",
-        "cloud",
-        "agent",
-        "security"
-      ],
-      "foundAt": "2026-10-15T12:56:57.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
