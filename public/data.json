@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-10-28T03:02:53.195Z",
+  "updatedAt": "2026-10-29T03:05:19.640Z",
   "items": [
+    {
+      "id": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "execs",
+        "may",
+        "too",
+        "out",
+        "touch"
+      ],
+      "foundAt": "2026-10-28T22:27:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://vulang.org",
+      "title": "Show HN: Vu – a new programming language designed for AI. Rust speeds, Py syntax",
+      "url": "https://vulang.org",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "new",
+        "programming",
+        "language",
+        "designed"
+      ],
+      "foundAt": "2026-10-28T16:35:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://app.userrank.ai",
+      "title": "Show HN: Coding agent spots your AI practices and the ones you're missing",
+      "url": "https://app.userrank.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "coding",
+        "agent",
+        "spots",
+        "your"
+      ],
+      "foundAt": "2026-10-28T15:26:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+      "url": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "cisco",
+        "sources",
+        "tool",
+        "detecting",
+        "agents"
+      ],
+      "foundAt": "2026-10-28T14:56:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/IdoGol24/weir",
+      "title": "Show HN: Weir - Catch credential leaks in the AI agents you build and use",
+      "url": "https://github.com/IdoGol24/weir",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "weir",
+        "catch",
+        "credential",
+        "leaks"
+      ],
+      "foundAt": "2026-10-27T16:07:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://aiworkflows.tools/workflows",
+      "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
+      "url": "https://aiworkflows.tools/workflows",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "workflows",
+        "step-by-step",
+        "built",
+        "tools"
+      ],
+      "foundAt": "2026-10-28T12:03:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toolmaker.io",
+      "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
+      "url": "https://toolmaker.io",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "toolmakeragent",
+        "sdlc",
+        "platform",
+        "where"
+      ],
+      "foundAt": "2026-10-28T11:57:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://binary.so",
+      "title": "Show HN: Binary – hiring tool (ATS) for startups that is MCP friendly",
+      "url": "https://binary.so",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "binary",
+        "hiring",
+        "tool",
+        "ats"
+      ],
+      "foundAt": "2026-10-28T03:43:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.cirkit.us/demo",
+      "title": "Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
+      "url": "https://www.cirkit.us/demo",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "cirkit",
+        "annotate",
+        "trace",
+        "ask"
+      ],
+      "foundAt": "2026-10-28T03:09:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://dola-ai.com",
       "title": "Show HN: Dola AI – AI images, video, creative and office tools",
@@ -49,23 +202,6 @@
         "where"
       ],
       "foundAt": "2026-10-27T16:10:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/IdoGol24/weir",
-      "title": "Show HN: Weir - Catch credential leaks in the AI agents you build and use",
-      "url": "https://github.com/IdoGol24/weir",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "weir",
-        "catch",
-        "credential",
-        "leaks"
-      ],
-      "foundAt": "2026-10-27T16:07:29.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -189,23 +325,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "chinese",
-        "markets",
-        "lose",
-        "trillions",
-        "race"
-      ],
-      "foundAt": "2026-10-27T08:36:56.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://devhunt.org/tool/adiosdev-ai-workspace",
       "title": "Adios.dev AI Native Cloud – Is Live on DevHunt",
       "url": "https://devhunt.org/tool/adiosdev-ai-workspace",
@@ -257,23 +376,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/sam-mfb/kashkeshet",
-      "title": "Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
-      "url": "https://github.com/sam-mfb/kashkeshet",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "kashkeshet",
-        "non-opinionated",
-        "agent-to-agent",
-        "chat"
-      ],
-      "foundAt": "2026-10-26T21:48:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.microsoft.com/en-us/haxtoolkit",
       "title": "Microsoft HAX Toolkit: Guidelines and Tools for Human-AI Interaction",
       "url": "https://www.microsoft.com/en-us/haxtoolkit",
@@ -308,104 +410,36 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://behu-kea.github.io/toilet-bench",
-      "title": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
-      "url": "https://behu-kea.github.io/toilet-bench",
+      "id": "https://www.aivideosugc.com/ai-video-generation",
+      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+      "url": "https://www.aivideosugc.com/ai-video-generation",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "toiletbench",
-        "can",
-        "find",
-        "toilet"
+        "new",
+        "way",
+        "make",
+        "ugc"
       ],
-      "foundAt": "2026-10-26T14:15:31.000Z",
+      "foundAt": "2026-10-28T03:14:26.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/nodecode-ai/nodecode",
-      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
-      "url": "https://github.com/nodecode-ai/nodecode",
+      "id": "https://www.aivideosugc.com",
+      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+      "url": "https://www.aivideosugc.com",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "nodecode",
-        "open-source",
-        "living",
-        "agent"
+        "how",
+        "make",
+        "ugc",
+        "ads"
       ],
-      "foundAt": "2026-10-26T03:30:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "data",
-        "footprint",
-        "tracker",
-        "audit"
-      ],
-      "foundAt": "2026-10-23T18:40:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Hybirdss/Hycli",
-      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
-      "url": "https://github.com/Hybirdss/Hycli",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hycli",
-        "reverse-engineer",
-        "websites",
-        "into"
-      ],
-      "foundAt": "2026-10-25T19:51:45.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/socrates6969/jukebox-os",
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://github.com/socrates6969/jukebox-os",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "jukebox-os",
-        "deterministic",
-        "time-travel",
-        "replay",
-        "acid"
-      ],
-      "foundAt": "2026-10-25T16:29:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-      "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
-      "url": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "red-teaming",
-        "agent",
-        "monitors",
-        "llm",
-        "fakes"
-      ],
-      "foundAt": "2026-10-25T15:41:09.000Z",
+      "foundAt": "2026-10-28T03:09:03.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -489,23 +523,6 @@
         "accessible"
       ],
       "foundAt": "2026-10-22T13:03:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://markitdownai.org",
-      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
-      "url": "https://markitdownai.org",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "markitdown",
-        "convert",
-        "documents",
-        "markdown"
-      ],
-      "foundAt": "2026-10-20T12:29:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -659,6 +676,39 @@
         "tool"
       ],
       "foundAt": "2026-10-14T01:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://zodia.cl",
+      "title": "Show HN: Chinese and Western Zodiac Calculator",
+      "url": "https://zodia.cl",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "chinese",
+        "western",
+        "zodiac",
+        "calculator"
+      ],
+      "foundAt": "2026-10-28T22:50:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/jplock/precipitate",
+      "title": "Cloud Repatriation Calculator to Oxide",
+      "url": "https://github.com/jplock/precipitate",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "cloud",
+        "repatriation",
+        "calculator",
+        "oxide"
+      ],
+      "foundAt": "2026-10-28T17:21:22.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1113,19 +1163,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
-      "title": "windows-pdf-merge-split-tool",
-      "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
-      "source": "GitHub",
-      "category": "文件工具",
-      "keywords": [
-        "windows-pdf-merge-split-tool"
-      ],
-      "foundAt": "2026-10-19T17:02:14.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
       "title": "windows-image-batch-converter",
       "url": "https://api.github.com/repos/Dustshoadapt/windows-image-batch-converter",
@@ -1135,6 +1172,19 @@
         "windows-image-batch-converter"
       ],
       "foundAt": "2026-10-19T17:02:15.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "title": "windows-pdf-merge-split-tool",
+      "url": "https://api.github.com/repos/Astraloitouch/windows-pdf-merge-split-tool",
+      "source": "GitHub",
+      "category": "文件工具",
+      "keywords": [
+        "windows-pdf-merge-split-tool"
+      ],
+      "foundAt": "2026-10-19T17:02:14.000Z",
       "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1149,6 +1199,159 @@
       ],
       "foundAt": "2026-10-19T17:02:15.000Z",
       "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "chinese",
+        "markets",
+        "lose",
+        "trillions",
+        "race"
+      ],
+      "foundAt": "2026-10-27T08:36:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/sam-mfb/kashkeshet",
+      "title": "Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
+      "url": "https://github.com/sam-mfb/kashkeshet",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "kashkeshet",
+        "non-opinionated",
+        "agent-to-agent",
+        "chat"
+      ],
+      "foundAt": "2026-10-26T21:48:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://behu-kea.github.io/toilet-bench",
+      "title": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
+      "url": "https://behu-kea.github.io/toilet-bench",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "toiletbench",
+        "can",
+        "find",
+        "toilet"
+      ],
+      "foundAt": "2026-10-26T14:15:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/nodecode-ai/nodecode",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "url": "https://github.com/nodecode-ai/nodecode",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "nodecode",
+        "open-source",
+        "living",
+        "agent"
+      ],
+      "foundAt": "2026-10-26T03:30:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://theaioperatorstore.gumroad.com/l/womuyx",
+      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "data",
+        "footprint",
+        "tracker",
+        "audit"
+      ],
+      "foundAt": "2026-10-23T18:40:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Hybirdss/Hycli",
+      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
+      "url": "https://github.com/Hybirdss/Hycli",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "hycli",
+        "reverse-engineer",
+        "websites",
+        "into"
+      ],
+      "foundAt": "2026-10-25T19:51:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/socrates6969/jukebox-os",
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "url": "https://github.com/socrates6969/jukebox-os",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "jukebox-os",
+        "deterministic",
+        "time-travel",
+        "replay",
+        "acid"
+      ],
+      "foundAt": "2026-10-25T16:29:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
+      "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
+      "url": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "red-teaming",
+        "agent",
+        "monitors",
+        "llm",
+        "fakes"
+      ],
+      "foundAt": "2026-10-25T15:41:09.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://markitdownai.org",
+      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+      "url": "https://markitdownai.org",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "markitdown",
+        "convert",
+        "documents",
+        "markdown"
+      ],
+      "foundAt": "2026-10-20T12:29:11.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -2309,210 +2512,6 @@
         "tool"
       ],
       "foundAt": "2026-10-20T11:00:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "title": "New AI tool can predict cancer survival by a single patient selfie",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "new",
-        "tool",
-        "can",
-        "predict",
-        "cancer"
-      ],
-      "foundAt": "2026-10-20T01:50:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://a2oliteai.com",
-      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
-      "url": "https://a2oliteai.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "built",
-        "tool",
-        "turns",
-        "two"
-      ],
-      "foundAt": "2026-10-20T09:06:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
-      "title": "Vite+ an excellent toolchain for AI agent development",
-      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "vite",
-        "excellent",
-        "toolchain",
-        "agent",
-        "development"
-      ],
-      "foundAt": "2026-10-20T06:40:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://textus.catvinci.com",
-      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
-      "url": "https://textus.catvinci.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "textus",
-        "wysiwyg",
-        "markdown",
-        "editor",
-        "built-in"
-      ],
-      "foundAt": "2026-10-20T05:16:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://textideo.com/director",
-      "title": "Textideo Director – an AI video creation tool for scenes, shots",
-      "url": "https://textideo.com/director",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "textideo",
-        "director",
-        "video",
-        "creation",
-        "tool"
-      ],
-      "foundAt": "2026-10-20T03:13:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://appmaker.io",
-      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
-      "url": "https://appmaker.io",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "appmaker",
-        "build",
-        "business",
-        "apps"
-      ],
-      "foundAt": "2026-10-20T02:55:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "http://crawl-check.user-sentry.com",
-      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
-      "url": "http://crawl-check.user-sentry.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "check",
-        "crawlers",
-        "are",
-        "blocked",
-        "your"
-      ],
-      "foundAt": "2026-10-19T16:08:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thephoto.ca",
-      "title": "A free RGB↔CMYK converter and photo upscaler",
-      "url": "https://thephoto.ca",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "rgb",
-        "cmyk",
-        "converter",
-        "photo"
-      ],
-      "foundAt": "2026-09-19T06:58:39.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
-      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-      "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "agent",
-        "running",
-        "cost",
-        "calculator"
-      ],
-      "foundAt": "2026-09-27T14:26:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://calcupedia.io",
-      "title": "Show HN: The easiest way to (embed a calculator) on any website, with no coding",
-      "url": "https://calcupedia.io",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "easiest",
-        "way",
-        "embed",
-        "calculator"
-      ],
-      "foundAt": "2026-09-26T14:04:21.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tradune.com/tools/beat-the-market-calculator",
-      "title": "Show HN: Browser-only XIRR calculator – your real return from your real deposits",
-      "url": "https://tradune.com/tools/beat-the-market-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "browser-only",
-        "xirr",
-        "calculator",
-        "your"
-      ],
-      "foundAt": "2026-09-26T08:49:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
-      "title": "Is it too late to reduce catastrophic AI risk?",
-      "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "too",
-        "late",
-        "reduce",
-        "catastrophic",
-        "risk"
-      ],
-      "foundAt": "2026-10-19T23:05:22.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
