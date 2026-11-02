@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-01T03:06:14.425Z",
+  "updatedAt": "2026-11-02T03:10:27.350Z",
   "items": [
+    {
+      "id": "https://www.anonce.io",
+      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+      "url": "https://www.anonce.io",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "nonce",
+        "open-source",
+        "least-privilege",
+        "gmail"
+      ],
+      "foundAt": "2026-11-01T21:44:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://kilasec.com",
+      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+      "url": "https://kilasec.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "building",
+        "traffic",
+        "guardrail",
+        "kilasec"
+      ],
+      "foundAt": "2026-11-01T21:37:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://versuscraft.xyz/sample",
+      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
+      "url": "https://versuscraft.xyz/sample",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "versuscraft",
+        "fact-checked",
+        "comparison",
+        "posts",
+        "dev"
+      ],
+      "foundAt": "2026-11-01T19:10:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
+      "title": "What operational task would you hand to a 7-day custom AI tool?",
+      "url": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "what",
+        "operational",
+        "task",
+        "would",
+        "you"
+      ],
+      "foundAt": "2026-11-01T09:02:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "chinese",
+        "markets",
+        "lose",
+        "trillions",
+        "race"
+      ],
+      "foundAt": "2026-10-27T08:36:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://castov.com",
       "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
@@ -256,23 +341,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
-      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
-      "url": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "americans",
-        "are",
-        "healthcare",
-        "but",
-        "want"
-      ],
-      "foundAt": "2026-10-29T17:08:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/oimo-ai/apgar",
       "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
       "url": "https://github.com/oimo-ai/apgar",
@@ -358,52 +426,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://o11.ai",
-      "title": "O11: OpenRouter for Agent Tools",
-      "url": "https://o11.ai",
+      "id": "https://github.com/orkunisitmak/nashi-app",
+      "title": "Nashi: Open-source file converter and editor app with a drag-wheel interaction",
+      "url": "https://github.com/orkunisitmak/nashi-app",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
-        "o11",
-        "openrouter",
-        "agent",
-        "tools"
+        "nashi",
+        "open-source",
+        "file",
+        "converter",
+        "editor"
       ],
-      "foundAt": "2026-10-29T04:36:58.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority",
-      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
-      "url": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "tools",
-        "write",
-        "access",
-        "how",
-        "platforms"
-      ],
-      "foundAt": "2026-10-29T03:17:38.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "execs",
-        "may",
-        "too",
-        "out",
-        "touch"
-      ],
-      "foundAt": "2026-10-28T22:27:46.000Z",
+      "foundAt": "2026-11-01T23:28:02.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -476,6 +511,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "nvidia",
+        "eyes",
+        "converting",
+        "old",
+        "nuclear"
+      ],
+      "foundAt": "2026-10-25T22:11:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://birdspeech.mitpit.com",
       "title": "Speech to Bird Song Converter",
       "url": "https://birdspeech.mitpit.com",
@@ -505,6 +557,23 @@
         "running"
       ],
       "foundAt": "2026-10-25T15:05:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
+      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "action",
+        "converts",
+        "markdown",
+        "accessible"
+      ],
+      "foundAt": "2026-10-22T13:03:41.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -577,70 +646,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
+      "id": "https://productivitycalculator.org",
+      "title": "Free Productivity Calculator – Daily Rate and Goal Planner",
+      "url": "https://productivitycalculator.org",
       "source": "Hacker News",
-      "category": "文件工具",
+      "category": "计算器",
       "keywords": [
-        "turboscribe",
         "free",
-        "video",
-        "text",
-        "audio"
+        "productivity",
+        "calculator",
+        "daily",
+        "rate"
       ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://startling-croissant-452d68.netlify.app",
-      "title": "I built a free image-to-PDF converter that runs in the browser",
-      "url": "https://startling-croissant-452d68.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "free",
-        "image-to-pdf",
-        "converter",
-        "runs"
-      ],
-      "foundAt": "2026-10-17T20:20:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://epub.ftak.net",
-      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
-      "url": "https://epub.ftak.net",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf2epub",
-        "free",
-        "pdf",
-        "epub"
-      ],
-      "foundAt": "2026-10-16T12:53:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/davobene/migrateflows",
-      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
-      "url": "https://github.com/davobene/migrateflows",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "open-source",
-        "converter",
-        "pipedream",
-        "workflows"
-      ],
-      "foundAt": "2026-10-14T15:10:59.000Z",
+      "foundAt": "2026-11-01T10:34:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -932,20 +950,16 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-      "source": "Hacker News",
-      "category": "计算器",
+      "id": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
+      "title": "excel-workbook-automation-helper",
+      "url": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
+      "source": "GitHub",
+      "category": "效率工具",
       "keywords": [
-        "calculate",
-        "your",
-        "doom",
-        "interactive",
-        "article"
+        "excel-workbook-automation-helper"
       ],
-      "foundAt": "2026-10-11T22:55:24.000Z",
-      "score": 32,
+      "foundAt": "2026-10-31T09:34:09.000Z",
+      "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -962,16 +976,168 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
-      "title": "excel-workbook-automation-helper",
-      "url": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
+      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
+      "title": "tmux-agent-wizard",
+      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
       "source": "GitHub",
-      "category": "效率工具",
+      "category": "AI工具",
       "keywords": [
-        "excel-workbook-automation-helper"
+        "tmux-agent-wizard"
       ],
-      "foundAt": "2026-10-31T09:34:09.000Z",
+      "foundAt": "2026-10-28T10:03:11.000Z",
       "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
+      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+      "url": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "americans",
+        "are",
+        "healthcare",
+        "but",
+        "want"
+      ],
+      "foundAt": "2026-10-29T17:08:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://o11.ai",
+      "title": "O11: OpenRouter for Agent Tools",
+      "url": "https://o11.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "o11",
+        "openrouter",
+        "agent",
+        "tools"
+      ],
+      "foundAt": "2026-10-29T04:36:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority",
+      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
+      "url": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tools",
+        "write",
+        "access",
+        "how",
+        "platforms"
+      ],
+      "foundAt": "2026-10-29T03:17:38.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "execs",
+        "may",
+        "too",
+        "out",
+        "touch"
+      ],
+      "foundAt": "2026-10-28T22:27:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.turboscribeai.org",
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "url": "https://www.turboscribeai.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "turboscribe",
+        "free",
+        "video",
+        "text",
+        "audio"
+      ],
+      "foundAt": "2026-10-18T05:55:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
+      ],
+      "foundAt": "2026-10-17T20:20:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://epub.ftak.net",
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf2epub",
+        "free",
+        "pdf",
+        "epub"
+      ],
+      "foundAt": "2026-10-16T12:53:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/davobene/migrateflows",
+      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
+      "url": "https://github.com/davobene/migrateflows",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "open-source",
+        "converter",
+        "pipedream",
+        "workflows"
+      ],
+      "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "calculate",
+        "your",
+        "doom",
+        "interactive",
+        "article"
+      ],
+      "foundAt": "2026-10-11T22:55:24.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1010,19 +1176,6 @@
         "windows-pdf-ocr-text-extractor"
       ],
       "foundAt": "2026-10-19T17:02:15.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "title": "tmux-agent-wizard",
-      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "tmux-agent-wizard"
-      ],
-      "foundAt": "2026-10-28T10:03:11.000Z",
       "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1899,40 +2052,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "nvidia",
-        "eyes",
-        "converting",
-        "old",
-        "nuclear"
-      ],
-      "foundAt": "2026-10-25T22:11:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
-      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "action",
-        "converts",
-        "markdown",
-        "accessible"
-      ],
-      "foundAt": "2026-10-22T13:03:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.orchardagentic.cloud",
       "title": "Show HN: AI investment agreement review for startup founders",
       "url": "https://www.orchardagentic.cloud",
@@ -1980,23 +2099,6 @@
         "more"
       ],
       "foundAt": "2026-09-30T14:01:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "chinese",
-        "markets",
-        "lose",
-        "trillions",
-        "race"
-      ],
-      "foundAt": "2026-10-27T08:36:56.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2401,105 +2503,6 @@
         "investigation"
       ],
       "foundAt": "2026-10-22T14:49:35.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.okapi.bot/blog/ai-agent-api-reliability-stack",
-      "title": "A map of 44 tools that make AI agents' API calls reliable",
-      "url": "https://www.okapi.bot/blog/ai-agent-api-reliability-stack",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "map",
-        "tools",
-        "make",
-        "agents",
-        "api"
-      ],
-      "foundAt": "2026-10-22T13:02:58.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://returnledger.site",
-      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
-      "url": "https://returnledger.site",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "return",
-        "ledger",
-        "free",
-        "portfolio"
-      ],
-      "foundAt": "2026-10-22T11:13:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.explain-ai.com",
-      "title": "Show HN: ExplAIn, a free directory of compliance scores for AI tools",
-      "url": "https://www.explain-ai.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "explain",
-        "free",
-        "directory",
-        "compliance"
-      ],
-      "foundAt": "2026-10-22T10:00:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
-      "title": "Porting a 1996 Pascal/Delphi Calculator to Rust (CLI and MCP)",
-      "url": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "porting",
-        "pascal",
-        "delphi",
-        "calculator",
-        "rust"
-      ],
-      "foundAt": "2026-09-29T12:01:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
-      "title": "The \"AI-Last\" Methodology",
-      "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "ai-last",
-        "methodology"
-      ],
-      "foundAt": "2026-10-23T20:00:24.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://dimitro.gr/assets/pdf/AASM27.pdf",
-      "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]",
-      "url": "https://dimitro.gr/assets/pdf/AASM27.pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "when",
-        "agrees",
-        "too",
-        "much",
-        "manipulating"
-      ],
-      "foundAt": "2026-10-23T05:41:53.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
