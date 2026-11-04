@@ -1,6 +1,311 @@
 {
-  "updatedAt": "2026-11-03T09:42:00.813Z",
+  "updatedAt": "2026-11-04T09:28:45.836Z",
   "items": [
+    {
+      "id": "https://github.com/Coding-Dev-Tools/engraphis",
+      "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
+      "url": "https://github.com/Coding-Dev-Tools/engraphis",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "engraphis",
+        "local-first",
+        "bi-temporal",
+        "memory",
+        "coding"
+      ],
+      "foundAt": "2026-11-04T04:52:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "title": "Anthropic launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "anthropic",
+        "launched",
+        "tools",
+        "show",
+        "companies"
+      ],
+      "foundAt": "2026-11-04T04:26:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
+      "title": "AI Replaces Tools,Not Worldviews:Why True Artistic Expression Won't Be Displaced",
+      "url": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "replaces",
+        "tools",
+        "not",
+        "worldviews",
+        "why"
+      ],
+      "foundAt": "2026-11-03T23:24:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://twitter.com/intology/status/2117642701890105725",
+      "title": "AI agents beating human made tools at molecular discovery",
+      "url": "https://twitter.com/intology/status/2117642701890105725",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "agents",
+        "beating",
+        "human",
+        "made",
+        "tools"
+      ],
+      "foundAt": "2026-11-03T20:14:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hackerbyte.net",
+      "title": "Show HN: HackerByte – Finding promising AI stories by analyzing HN discussions",
+      "url": "https://hackerbyte.net",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "hackerbyte",
+        "finding",
+        "promising",
+        "stories"
+      ],
+      "foundAt": "2026-11-03T19:51:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "title": "AI tool can predict cancer survival by a single patient selfie",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tool",
+        "can",
+        "predict",
+        "cancer",
+        "survival"
+      ],
+      "foundAt": "2026-11-03T19:25:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+      "title": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "apple",
+        "launches",
+        "beta",
+        "versions",
+        "watch"
+      ],
+      "foundAt": "2026-11-03T18:59:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://leona.co.za",
+      "title": "Leona - AI Powered Career Toolkit",
+      "url": "https://leona.co.za",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "leona",
+        "powered",
+        "career",
+        "toolkit"
+      ],
+      "foundAt": "2026-11-03T18:09:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "binance",
+        "says",
+        "hackers",
+        "used",
+        "fake"
+      ],
+      "foundAt": "2026-11-03T17:44:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.hackernietzsche.com",
+      "title": "HackerNietzsche: Machine, All Too Human. Aphorisms on AI",
+      "url": "https://www.hackernietzsche.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "hackernietzsche",
+        "machine",
+        "all",
+        "too",
+        "human"
+      ],
+      "foundAt": "2026-11-03T15:55:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toolang.ai",
+      "title": "Show HN: Toolang – What if agent loops were functions?",
+      "url": "https://toolang.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "toolang",
+        "what",
+        "agent",
+        "loops"
+      ],
+      "foundAt": "2026-11-03T14:31:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://prax-labs.com/data-services",
+      "title": "Prax, wallet, transfer and sanctions screening as MCP tools for AI agents",
+      "url": "https://prax-labs.com/data-services",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "prax",
+        "wallet",
+        "transfer",
+        "sanctions",
+        "screening"
+      ],
+      "foundAt": "2026-11-03T14:08:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://rolisz.ro/2026/it-took-me-4-months-to-build-a-todo-app-with-ai",
+      "title": "It Took Me 4 Months to Build a Todo App with AI",
+      "url": "https://rolisz.ro/2026/it-took-me-4-months-to-build-a-todo-app-with-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "took",
+        "months",
+        "build",
+        "todo",
+        "app"
+      ],
+      "foundAt": "2026-11-03T14:04:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://duckity.com",
+      "title": "Show HN: Duckity – Abuse protection for the AI agent era",
+      "url": "https://duckity.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "duckity",
+        "abuse",
+        "protection",
+        "agent"
+      ],
+      "foundAt": "2026-11-03T13:17:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://jeff-kline.github.io/posts/same-ai-results-for-less/index.html",
+      "title": "Show HN: A tool to optimize AI model cost without benchmark score trade-offs",
+      "url": "https://jeff-kline.github.io/posts/same-ai-results-for-less/index.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "tool",
+        "optimize",
+        "model",
+        "cost"
+      ],
+      "foundAt": "2026-11-03T12:38:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gateonai.com/blog/gateonai-eu-data-statements-2026-11",
+      "title": "What 3,060 AI tools state about GDPR and EU data hosting (monthly, rule-based)",
+      "url": "https://www.gateonai.com/blog/gateonai-eu-data-statements-2026-11",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "what",
+        "tools",
+        "state",
+        "about",
+        "gdpr"
+      ],
+      "foundAt": "2026-11-03T10:53:17.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.media.mit.edu/posts/researchers-launch-ai",
+      "title": "AI Nutrition Labels, a New Tool Measuring AI's Impact on Human Wellbeing",
+      "url": "https://www.media.mit.edu/posts/researchers-launch-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "nutrition",
+        "labels",
+        "new",
+        "tool",
+        "measuring"
+      ],
+      "foundAt": "2026-11-03T10:42:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape",
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "python",
+        "typing",
+        "survey",
+        "tools",
+        "shifting"
+      ],
+      "foundAt": "2026-11-03T10:10:23.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://adagasolutions.lu/toolbox",
       "title": "Pay-per-use APIs for AI agents",
@@ -136,257 +441,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc",
-      "title": "Why I'm experimenting with 25 small AI tools instead of building another SaaS",
-      "url": "https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc",
+      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
+      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
       "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "why",
-        "experimenting",
-        "small",
-        "tools",
-        "instead"
-      ],
-      "foundAt": "2026-11-02T13:48:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.anonce.io",
-      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
-      "url": "https://www.anonce.io",
-      "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
         "show",
-        "nonce",
-        "open-source",
-        "least-privilege",
-        "gmail"
+        "pptx-to-pdf",
+        "convert",
+        "powerpoint",
+        "pdf"
       ],
-      "foundAt": "2026-11-01T21:44:21.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://kilasec.com",
-      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
-      "url": "https://kilasec.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "building",
-        "traffic",
-        "guardrail",
-        "kilasec"
-      ],
-      "foundAt": "2026-11-01T21:37:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://versuscraft.xyz/sample",
-      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
-      "url": "https://versuscraft.xyz/sample",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "versuscraft",
-        "fact-checked",
-        "comparison",
-        "posts",
-        "dev"
-      ],
-      "foundAt": "2026-11-01T19:10:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
-      "title": "What operational task would you hand to a 7-day custom AI tool?",
-      "url": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "what",
-        "operational",
-        "task",
-        "would",
-        "you"
-      ],
-      "foundAt": "2026-11-01T09:02:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://castov.com",
-      "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
-      "url": "https://castov.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "castov",
-        "open-source",
-        "dev",
-        "tools"
-      ],
-      "foundAt": "2026-10-31T19:30:14.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.threatclaw.ai/free-tools",
-      "title": "SBoM creator and Vulnerability scanner (Threatclaw.ai)",
-      "url": "https://www.threatclaw.ai/free-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "sbom",
-        "creator",
-        "vulnerability",
-        "scanner",
-        "threatclaw"
-      ],
-      "foundAt": "2026-10-31T15:21:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "title": "Anthropic orders AI tool Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "anthropic",
-        "orders",
-        "tool",
-        "claude",
-        "stop"
-      ],
-      "foundAt": "2026-10-31T14:41:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/tapaskar/archwhere",
-      "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
-      "url": "https://github.com/tapaskar/archwhere",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "archwhere",
-        "work",
-        "alongside",
-        "coding"
-      ],
-      "foundAt": "2026-10-31T05:46:30.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
-      "title": "How the built-in browsers in five AI coding tools broke basic browser rules",
-      "url": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "how",
-        "built-in",
-        "browsers",
-        "five",
-        "coding"
-      ],
-      "foundAt": "2026-10-31T03:32:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://bsvkey-governor-demo.fly.dev",
-      "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
-      "url": "https://bsvkey-governor-demo.fly.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "governor",
-        "firewall",
-        "agent",
-        "spend"
-      ],
-      "foundAt": "2026-10-31T00:27:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://pollsight.napsty.com",
-      "title": "Show HN: Pollsight – a simple tool to aid ballot research",
-      "url": "https://pollsight.napsty.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "pollsight",
-        "simple",
-        "tool",
-        "aid"
-      ],
-      "foundAt": "2026-10-30T17:57:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nomorehappypath.com",
-      "title": "Show HN: AI agent needs process to build a commercial application",
-      "url": "https://nomorehappypath.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "agent",
-        "needs",
-        "process",
-        "build"
-      ],
-      "foundAt": "2026-10-30T14:49:17.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://opencommerce.sh",
-      "title": "Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy",
-      "url": "https://opencommerce.sh",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "opencommerce",
-        "openrouter",
-        "commerce",
-        "one"
-      ],
-      "foundAt": "2026-10-30T14:35:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
-      "title": "AI is letting anyone reverse engineer anything. We talked to the developer",
-      "url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "letting",
-        "anyone",
-        "reverse",
-        "engineer",
-        "anything"
-      ],
-      "foundAt": "2026-10-30T12:30:55.000Z",
+      "foundAt": "2026-11-04T01:30:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -455,6 +522,23 @@
         "converter"
       ],
       "foundAt": "2026-10-29T19:02:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aivideosugc.com",
+      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+      "url": "https://www.aivideosugc.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "how",
+        "make",
+        "ugc",
+        "ads"
+      ],
+      "foundAt": "2026-10-28T03:09:03.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -729,70 +813,36 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://riowallet.netlify.app",
-      "title": "Currency converter app – ECB rates (works offline as PWA)",
-      "url": "https://riowallet.netlify.app",
+      "id": "https://instantfreetools.com/business-days-calculator",
+      "title": "Show HN: Business days calculator that shows which days it skipped",
+      "url": "https://instantfreetools.com/business-days-calculator",
       "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "currency",
-        "converter",
-        "app",
-        "ecb",
-        "rates"
-      ],
-      "foundAt": "2026-09-29T07:33:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thegreatbritishconverter.co.uk",
-      "title": "The Great British Converter: From Bytes to Barleycorns",
-      "url": "https://thegreatbritishconverter.co.uk",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "great",
-        "british",
-        "converter",
-        "bytes",
-        "barleycorns"
-      ],
-      "foundAt": "2026-09-28T20:59:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://imagerry.com",
-      "title": "A private alternative to cloud image converters and compressors",
-      "url": "https://imagerry.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "private",
-        "alternative",
-        "cloud",
-        "image",
-        "converters"
-      ],
-      "foundAt": "2026-09-28T18:10:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ciromattia/kcc",
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "source": "Hacker News",
-      "category": "效率工具",
+      "category": "计算器",
       "keywords": [
         "show",
-        "using",
-        "dft",
-        "dithering",
-        "etc"
+        "business",
+        "days",
+        "calculator",
+        "shows"
       ],
-      "foundAt": "2026-09-28T15:39:42.000Z",
+      "foundAt": "2026-11-03T22:07:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://repolve.com/calculator",
+      "title": "Repolve – Free strength calculator with muscle-group estimates",
+      "url": "https://repolve.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "repolve",
+        "free",
+        "strength",
+        "calculator",
+        "muscle-group"
+      ],
+      "foundAt": "2026-11-03T11:21:47.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1118,23 +1168,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://proofsource.co",
-      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
-      "url": "https://proofsource.co",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "proofsource",
-        "find",
-        "where",
-        "leaves"
-      ],
-      "foundAt": "2026-10-13T06:51:04.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
       "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
       "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
@@ -1169,16 +1202,37 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
-      "title": "Deadline-resp-Tracker-AI",
-      "url": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
-      "source": "GitHub",
-      "category": "AI工具",
+      "id": "https://hosttmath.ctonew.app",
+      "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
+      "url": "https://hosttmath.ctonew.app",
+      "source": "Hacker News",
+      "category": "计算器",
       "keywords": [
-        "deadline-resp-tracker-ai"
+        "hostmath",
+        "airbnb",
+        "profit",
+        "calculator",
+        "break-even"
       ],
-      "foundAt": "2026-10-28T16:16:05.000Z",
-      "score": 45,
+      "foundAt": "2026-10-09T23:28:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thespoollist.com/tools/feeds-speeds",
+      "title": "Feeds and speeds calculator for CNC milling, metric and imperial",
+      "url": "https://thespoollist.com/tools/feeds-speeds",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "feeds",
+        "speeds",
+        "calculator",
+        "cnc",
+        "milling"
+      ],
+      "foundAt": "2026-10-09T13:02:32.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1191,6 +1245,359 @@
         "tmux-agent-wizard"
       ],
       "foundAt": "2026-10-28T10:03:11.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc",
+      "title": "Why I'm experimenting with 25 small AI tools instead of building another SaaS",
+      "url": "https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "why",
+        "experimenting",
+        "small",
+        "tools",
+        "instead"
+      ],
+      "foundAt": "2026-11-02T13:48:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.anonce.io",
+      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+      "url": "https://www.anonce.io",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "nonce",
+        "open-source",
+        "least-privilege",
+        "gmail"
+      ],
+      "foundAt": "2026-11-01T21:44:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://kilasec.com",
+      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+      "url": "https://kilasec.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "building",
+        "traffic",
+        "guardrail",
+        "kilasec"
+      ],
+      "foundAt": "2026-11-01T21:37:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://versuscraft.xyz/sample",
+      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
+      "url": "https://versuscraft.xyz/sample",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "versuscraft",
+        "fact-checked",
+        "comparison",
+        "posts",
+        "dev"
+      ],
+      "foundAt": "2026-11-01T19:10:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
+      "title": "What operational task would you hand to a 7-day custom AI tool?",
+      "url": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "what",
+        "operational",
+        "task",
+        "would",
+        "you"
+      ],
+      "foundAt": "2026-11-01T09:02:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://castov.com",
+      "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+      "url": "https://castov.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "castov",
+        "open-source",
+        "dev",
+        "tools"
+      ],
+      "foundAt": "2026-10-31T19:30:14.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.threatclaw.ai/free-tools",
+      "title": "SBoM creator and Vulnerability scanner (Threatclaw.ai)",
+      "url": "https://www.threatclaw.ai/free-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "sbom",
+        "creator",
+        "vulnerability",
+        "scanner",
+        "threatclaw"
+      ],
+      "foundAt": "2026-10-31T15:21:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "anthropic",
+        "orders",
+        "tool",
+        "claude",
+        "stop"
+      ],
+      "foundAt": "2026-10-31T14:41:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/tapaskar/archwhere",
+      "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+      "url": "https://github.com/tapaskar/archwhere",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "archwhere",
+        "work",
+        "alongside",
+        "coding"
+      ],
+      "foundAt": "2026-10-31T05:46:30.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
+      "title": "How the built-in browsers in five AI coding tools broke basic browser rules",
+      "url": "https://theainewsreport.com/2026-10-30-embrace-ai-coding-assistant-embedded-browser-flaws-explained.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "how",
+        "built-in",
+        "browsers",
+        "five",
+        "coding"
+      ],
+      "foundAt": "2026-10-31T03:32:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://bsvkey-governor-demo.fly.dev",
+      "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
+      "url": "https://bsvkey-governor-demo.fly.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "governor",
+        "firewall",
+        "agent",
+        "spend"
+      ],
+      "foundAt": "2026-10-31T00:27:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://pollsight.napsty.com",
+      "title": "Show HN: Pollsight – a simple tool to aid ballot research",
+      "url": "https://pollsight.napsty.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "pollsight",
+        "simple",
+        "tool",
+        "aid"
+      ],
+      "foundAt": "2026-10-30T17:57:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nomorehappypath.com",
+      "title": "Show HN: AI agent needs process to build a commercial application",
+      "url": "https://nomorehappypath.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "agent",
+        "needs",
+        "process",
+        "build"
+      ],
+      "foundAt": "2026-10-30T14:49:17.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://opencommerce.sh",
+      "title": "Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy",
+      "url": "https://opencommerce.sh",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "opencommerce",
+        "openrouter",
+        "commerce",
+        "one"
+      ],
+      "foundAt": "2026-10-30T14:35:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
+      "title": "AI is letting anyone reverse engineer anything. We talked to the developer",
+      "url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "letting",
+        "anyone",
+        "reverse",
+        "engineer",
+        "anything"
+      ],
+      "foundAt": "2026-10-30T12:30:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://riowallet.netlify.app",
+      "title": "Currency converter app – ECB rates (works offline as PWA)",
+      "url": "https://riowallet.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "currency",
+        "converter",
+        "app",
+        "ecb",
+        "rates"
+      ],
+      "foundAt": "2026-09-29T07:33:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thegreatbritishconverter.co.uk",
+      "title": "The Great British Converter: From Bytes to Barleycorns",
+      "url": "https://thegreatbritishconverter.co.uk",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "great",
+        "british",
+        "converter",
+        "bytes",
+        "barleycorns"
+      ],
+      "foundAt": "2026-09-28T20:59:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://imagerry.com",
+      "title": "A private alternative to cloud image converters and compressors",
+      "url": "https://imagerry.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "private",
+        "alternative",
+        "cloud",
+        "image",
+        "converters"
+      ],
+      "foundAt": "2026-09-28T18:10:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ciromattia/kcc",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "url": "https://github.com/ciromattia/kcc",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "using",
+        "dft",
+        "dithering",
+        "etc"
+      ],
+      "foundAt": "2026-09-28T15:39:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://proofsource.co",
+      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+      "url": "https://proofsource.co",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "proofsource",
+        "find",
+        "where",
+        "leaves"
+      ],
+      "foundAt": "2026-10-13T06:51:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
+      "title": "Deadline-resp-Tracker-AI",
+      "url": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "deadline-resp-tracker-ai"
+      ],
+      "foundAt": "2026-10-28T16:16:05.000Z",
       "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1394,23 +1801,6 @@
         "ugc"
       ],
       "foundAt": "2026-10-28T03:14:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.aivideosugc.com",
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "url": "https://www.aivideosugc.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "how",
-        "make",
-        "ugc",
-        "ads"
-      ],
-      "foundAt": "2026-10-28T03:09:03.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1734,40 +2124,6 @@
         "where"
       ],
       "foundAt": "2026-10-28T11:57:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hosttmath.ctonew.app",
-      "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
-      "url": "https://hosttmath.ctonew.app",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "hostmath",
-        "airbnb",
-        "profit",
-        "calculator",
-        "break-even"
-      ],
-      "foundAt": "2026-10-09T23:28:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thespoollist.com/tools/feeds-speeds",
-      "title": "Feeds and speeds calculator for CNC milling, metric and imperial",
-      "url": "https://thespoollist.com/tools/feeds-speeds",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "feeds",
-        "speeds",
-        "calculator",
-        "cnc",
-        "milling"
-      ],
-      "foundAt": "2026-10-09T13:02:32.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2148,363 +2504,6 @@
         "powerful"
       ],
       "foundAt": "2026-10-27T13:03:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://catalogaudit.app",
-      "title": "Show HN: I built a tool to audit Shopify stores for AI agent and Google Shopping",
-      "url": "https://catalogaudit.app",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "built",
-        "tool",
-        "audit",
-        "shopify"
-      ],
-      "foundAt": "2026-10-27T11:41:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/shbernal/rfc-ai-tooling",
-      "title": "RFC AI Tooling: 40x fewer tokens while reading the RFC corpus",
-      "url": "https://github.com/shbernal/rfc-ai-tooling",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "rfc",
-        "tooling",
-        "fewer",
-        "tokens",
-        "while"
-      ],
-      "foundAt": "2026-10-27T09:29:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://devhunt.org/tool/adiosdev-ai-workspace",
-      "title": "Adios.dev AI Native Cloud – Is Live on DevHunt",
-      "url": "https://devhunt.org/tool/adiosdev-ai-workspace",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "adios",
-        "dev",
-        "native",
-        "cloud",
-        "live"
-      ],
-      "foundAt": "2026-10-27T08:19:45.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://loopsfinity.com/blog-greenfield-bias-ai-tools",
-      "title": "Why AI coding tools assume a clean slate",
-      "url": "https://loopsfinity.com/blog-greenfield-bias-ai-tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "why",
-        "coding",
-        "tools",
-        "assume",
-        "clean"
-      ],
-      "foundAt": "2026-10-27T04:41:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.picttool.com",
-      "title": "Create and edit images with a collection of easy-to-use AI tools",
-      "url": "https://www.picttool.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "create",
-        "edit",
-        "images",
-        "collection",
-        "easy-to-use"
-      ],
-      "foundAt": "2026-10-27T03:39:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.microsoft.com/en-us/haxtoolkit",
-      "title": "Microsoft HAX Toolkit: Guidelines and Tools for Human-AI Interaction",
-      "url": "https://www.microsoft.com/en-us/haxtoolkit",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "microsoft",
-        "hax",
-        "toolkit",
-        "guidelines",
-        "tools"
-      ],
-      "foundAt": "2026-10-26T17:12:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/mainplane-ai/mainplane",
-      "title": "Show HN: Mainplane – Agent in Go that lives on your old PC, drives your laptop",
-      "url": "https://github.com/mainplane-ai/mainplane",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "mainplane",
-        "agent",
-        "lives",
-        "your"
-      ],
-      "foundAt": "2026-10-26T16:37:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.orchardagentic.cloud",
-      "title": "Show HN: AI investment agreement review for startup founders",
-      "url": "https://www.orchardagentic.cloud",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "investment",
-        "agreement",
-        "review",
-        "startup"
-      ],
-      "foundAt": "2026-10-14T09:13:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/bnlcas/pdf2epub",
-      "title": "Show HN: PDF to ePub Conversion Tool for Mac",
-      "url": "https://github.com/bnlcas/pdf2epub",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "epub",
-        "conversion",
-        "tool"
-      ],
-      "foundAt": "2026-10-14T01:20:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.gkogan.co/removing-stuff",
-      "title": "The pricing calculator made people more confused about pricing",
-      "url": "https://www.gkogan.co/removing-stuff",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "pricing",
-        "calculator",
-        "made",
-        "people",
-        "more"
-      ],
-      "foundAt": "2026-09-30T14:01:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/sam-mfb/kashkeshet",
-      "title": "Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
-      "url": "https://github.com/sam-mfb/kashkeshet",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "kashkeshet",
-        "non-opinionated",
-        "agent-to-agent",
-        "chat"
-      ],
-      "foundAt": "2026-10-26T21:48:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://behu-kea.github.io/toilet-bench",
-      "title": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
-      "url": "https://behu-kea.github.io/toilet-bench",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "toiletbench",
-        "can",
-        "find",
-        "toilet"
-      ],
-      "foundAt": "2026-10-26T14:15:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/nodecode-ai/nodecode",
-      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
-      "url": "https://github.com/nodecode-ai/nodecode",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "nodecode",
-        "open-source",
-        "living",
-        "agent"
-      ],
-      "foundAt": "2026-10-26T03:30:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "data",
-        "footprint",
-        "tracker",
-        "audit"
-      ],
-      "foundAt": "2026-10-23T18:40:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Hybirdss/Hycli",
-      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
-      "url": "https://github.com/Hybirdss/Hycli",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hycli",
-        "reverse-engineer",
-        "websites",
-        "into"
-      ],
-      "foundAt": "2026-10-25T19:51:45.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/socrates6969/jukebox-os",
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://github.com/socrates6969/jukebox-os",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "jukebox-os",
-        "deterministic",
-        "time-travel",
-        "replay",
-        "acid"
-      ],
-      "foundAt": "2026-10-25T16:29:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-      "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
-      "url": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "red-teaming",
-        "agent",
-        "monitors",
-        "llm",
-        "fakes"
-      ],
-      "foundAt": "2026-10-25T15:41:09.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade",
-      "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
-      "url": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "grok",
-        "bot",
-        "cycle",
-        "productivity",
-        "tools"
-      ],
-      "foundAt": "2026-10-22T15:51:50.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://seowins.net",
-      "title": "Free SEO audit and AI search tools. No sign-up",
-      "url": "https://seowins.net",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "free",
-        "seo",
-        "audit",
-        "search",
-        "tools"
-      ],
-      "foundAt": "2026-10-25T06:39:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/swrdfish/narro",
-      "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
-      "url": "https://github.com/swrdfish/narro",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "narro",
-        "read",
-        "web",
-        "pages"
-      ],
-      "foundAt": "2026-10-24T19:37:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://latch.tools",
-      "title": "Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)",
-      "url": "https://latch.tools",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "latch",
-        "make",
-        "any",
-        "website"
-      ],
-      "foundAt": "2026-10-24T05:41:41.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
