@@ -1,6 +1,142 @@
 {
-  "updatedAt": "2026-11-05T09:37:52.135Z",
+  "updatedAt": "2026-11-06T09:31:05.361Z",
   "items": [
+    {
+      "id": "https://app.stitch.ai/auth/signup",
+      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+      "url": "https://app.stitch.ai/auth/signup",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "stitch",
+        "new",
+        "all-in-one",
+        "workspace"
+      ],
+      "foundAt": "2026-11-06T05:19:36.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://magertron.com",
+      "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+      "url": "https://magertron.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "magertron",
+        "orchestrator",
+        "agents",
+        "tools"
+      ],
+      "foundAt": "2026-11-05T18:13:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://aless.tabnas.dev",
+      "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+      "url": "https://aless.tabnas.dev",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "terminal",
+        "viewer",
+        "plain",
+        "text"
+      ],
+      "foundAt": "2026-11-05T18:03:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
+      "title": "Show HN: PDF Reading, Annotation and Signing Inside Your Markdown Notes",
+      "url": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "reading",
+        "annotation",
+        "signing"
+      ],
+      "foundAt": "2026-11-05T15:16:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tryrevline.com",
+      "title": "Show HN: Revline – An open-source AI-native video editor",
+      "url": "https://tryrevline.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "revline",
+        "open-source",
+        "ai-native",
+        "video"
+      ],
+      "foundAt": "2026-11-05T15:06:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over",
+      "title": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+      "url": "https://www.latimes.com/business/story/2026-10-30/big-techs-growth-is-cooling-raising-fears-that-best-quarters-are-over",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "stock",
+        "selloffs",
+        "fuel",
+        "fears",
+        "big"
+      ],
+      "foundAt": "2026-11-05T14:23:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@toplinesoftsys/ai-broke-cybersecurity-visual-programming-can-fix-it-d7d1dae6f2b5",
+      "title": "AI Broke Cybersecurity. Visual Programming Can Fix It",
+      "url": "https://medium.com/@toplinesoftsys/ai-broke-cybersecurity-visual-programming-can-fix-it-d7d1dae6f2b5",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "broke",
+        "cybersecurity",
+        "visual",
+        "programming",
+        "can"
+      ],
+      "foundAt": "2026-11-05T13:20:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nico.app",
+      "title": "Show HN: Nico – a two-agent type personal agent on your Mac",
+      "url": "https://nico.app",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "nico",
+        "two-agent",
+        "type",
+        "personal"
+      ],
+      "foundAt": "2026-11-05T11:21:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
       "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
@@ -138,222 +274,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.computer.org/publications/tech-news/trends/fault-tolerance-for-ai",
-      "title": "When AI Fails: Building Fault-Tolerant AI Systems",
-      "url": "https://www.computer.org/publications/tech-news/trends/fault-tolerance-for-ai",
+      "id": "https://lecturetobook.com",
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "url": "https://lecturetobook.com",
       "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "when",
-        "fails",
-        "building",
-        "fault-tolerant",
-        "systems"
-      ],
-      "foundAt": "2026-11-04T14:47:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/The-Pixel-Boys/shield-kya",
-      "title": "Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls",
-      "url": "https://github.com/The-Pixel-Boys/shield-kya",
-      "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
         "show",
-        "shield",
-        "kya",
-        "open-source",
-        "audit"
+        "convert",
+        "recorded",
+        "class",
+        "lectures"
       ],
-      "foundAt": "2026-11-04T12:33:39.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://rivermark.ai",
-      "title": "Show HN: Rivermark, a superfast AI graphic design canvas",
-      "url": "https://rivermark.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "rivermark",
-        "superfast",
-        "graphic",
-        "design"
-      ],
-      "foundAt": "2026-11-04T12:13:58.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://simulator-use.dev/benchmarks",
-      "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
-      "url": "https://simulator-use.dev/benchmarks",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "ios",
-        "simulator",
-        "mcp",
-        "benchmark",
-        "eight"
-      ],
-      "foundAt": "2026-11-04T11:47:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Coding-Dev-Tools/engraphis",
-      "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
-      "url": "https://github.com/Coding-Dev-Tools/engraphis",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "engraphis",
-        "local-first",
-        "bi-temporal",
-        "memory",
-        "coding"
-      ],
-      "foundAt": "2026-11-04T04:52:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "title": "Anthropic launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "anthropic",
-        "launched",
-        "tools",
-        "show",
-        "companies"
-      ],
-      "foundAt": "2026-11-04T04:26:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
-      "title": "AI Replaces Tools,Not Worldviews:Why True Artistic Expression Won't Be Displaced",
-      "url": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "replaces",
-        "tools",
-        "not",
-        "worldviews",
-        "why"
-      ],
-      "foundAt": "2026-11-03T23:24:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://twitter.com/intology/status/2117642701890105725",
-      "title": "AI agents beating human made tools at molecular discovery",
-      "url": "https://twitter.com/intology/status/2117642701890105725",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "agents",
-        "beating",
-        "human",
-        "made",
-        "tools"
-      ],
-      "foundAt": "2026-11-03T20:14:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hackerbyte.net",
-      "title": "Show HN: HackerByte – Finding promising AI stories by analyzing HN discussions",
-      "url": "https://hackerbyte.net",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hackerbyte",
-        "finding",
-        "promising",
-        "stories"
-      ],
-      "foundAt": "2026-11-03T19:51:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "title": "AI tool can predict cancer survival by a single patient selfie",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "tool",
-        "can",
-        "predict",
-        "cancer",
-        "survival"
-      ],
-      "foundAt": "2026-11-03T19:25:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-      "title": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "apple",
-        "launches",
-        "beta",
-        "versions",
-        "watch"
-      ],
-      "foundAt": "2026-11-03T18:59:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://leona.co.za",
-      "title": "Leona - AI Powered Career Toolkit",
-      "url": "https://leona.co.za",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "leona",
-        "powered",
-        "career",
-        "toolkit"
-      ],
-      "foundAt": "2026-11-03T18:09:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
-      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "binance",
-        "says",
-        "hackers",
-        "used",
-        "fake"
-      ],
-      "foundAt": "2026-11-03T17:44:26.000Z",
+      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -371,23 +304,6 @@
         "conversion"
       ],
       "foundAt": "2026-11-05T08:16:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
-      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pptx-to-pdf",
-        "convert",
-        "powerpoint",
-        "pdf"
-      ],
-      "foundAt": "2026-11-04T01:30:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -460,40 +376,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/asharma327/sheetgraph",
-      "title": "Show HN: Sheetgraph, AI agents can understand complex spreadsheets",
-      "url": "https://github.com/asharma327/sheetgraph",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "sheetgraph",
-        "agents",
-        "can",
-        "understand"
-      ],
-      "foundAt": "2026-10-29T17:49:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "nvidia",
-        "eyes",
-        "converting",
-        "old",
-        "nuclear"
-      ],
-      "foundAt": "2026-10-25T22:11:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://birdspeech.mitpit.com",
       "title": "Speech to Bird Song Converter",
       "url": "https://birdspeech.mitpit.com",
@@ -523,40 +405,6 @@
         "running"
       ],
       "foundAt": "2026-10-25T15:05:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
-      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "action",
-        "converts",
-        "markdown",
-        "accessible"
-      ],
-      "foundAt": "2026-10-22T13:03:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://markitdownai.org",
-      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
-      "url": "https://markitdownai.org",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "markitdown",
-        "convert",
-        "documents",
-        "markdown"
-      ],
-      "foundAt": "2026-10-20T12:29:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -591,6 +439,190 @@
         "converter"
       ],
       "foundAt": "2026-10-18T12:17:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.turboscribeai.org",
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "url": "https://www.turboscribeai.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "turboscribe",
+        "free",
+        "video",
+        "text",
+        "audio"
+      ],
+      "foundAt": "2026-10-18T05:55:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
+      ],
+      "foundAt": "2026-10-17T20:20:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://epub.ftak.net",
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf2epub",
+        "free",
+        "pdf",
+        "epub"
+      ],
+      "foundAt": "2026-10-16T12:53:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/davobene/migrateflows",
+      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
+      "url": "https://github.com/davobene/migrateflows",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "open-source",
+        "converter",
+        "pipedream",
+        "workflows"
+      ],
+      "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://liters2gallons.com",
+      "title": "A simple liters to US and UK gallons converter",
+      "url": "https://liters2gallons.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "simple",
+        "liters",
+        "gallons",
+        "converter"
+      ],
+      "foundAt": "2026-10-10T11:28:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toany.io",
+      "title": "I built a file converter that never sees your files",
+      "url": "https://toany.io",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "file",
+        "converter",
+        "never",
+        "sees"
+      ],
+      "foundAt": "2026-10-08T06:42:51.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
+      "title": "TLDRs newsletter converter that gets all the important links",
+      "url": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "tldrs",
+        "newsletter",
+        "converter",
+        "gets",
+        "all"
+      ],
+      "foundAt": "2026-10-06T17:21:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://pngstack.site",
+      "title": "Free PNG to PDF Converter Online for United States",
+      "url": "https://pngstack.site",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "png",
+        "pdf",
+        "converter",
+        "online"
+      ],
+      "foundAt": "2026-10-05T07:31:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://dataflexstudio.vercel.app",
+      "title": "DataFlex Studio – 100% client-side JSON to CSV converter",
+      "url": "https://dataflexstudio.vercel.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "dataflex",
+        "studio",
+        "client-side",
+        "json",
+        "csv"
+      ],
+      "foundAt": "2026-10-01T15:16:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.costofknowledge.org",
+      "title": "The Cost of Knowledge Calculator",
+      "url": "https://www.costofknowledge.org",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "cost",
+        "knowledge",
+        "calculator"
+      ],
+      "foundAt": "2026-11-05T20:19:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://unitstodraw.com",
+      "title": "Show HN: Units to Draw – a math-only syringe units calculator",
+      "url": "https://unitstodraw.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "units",
+        "draw",
+        "math-only",
+        "syringe"
+      ],
+      "foundAt": "2026-11-05T12:45:55.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -814,23 +846,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/insanai/ccm",
-      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
-      "url": "https://github.com/insanai/ccm",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "code",
-        "counter",
-        "machine",
-        "modern"
-      ],
-      "foundAt": "2026-10-25T13:13:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://wheredoesmytaxgo.co.uk",
       "title": "Show HN: Where does my tax go? A UK tax receipt calculator (2026/27)",
       "url": "https://wheredoesmytaxgo.co.uk",
@@ -929,6 +944,405 @@
         "calculator"
       ],
       "foundAt": "2026-10-20T12:20:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://voltcost.vercel.app",
+      "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
+      "url": "https://voltcost.vercel.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "voltcost",
+        "charging",
+        "cost",
+        "gas"
+      ],
+      "foundAt": "2026-10-15T18:53:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://changesnap.onrender.com/markup-calculator",
+      "title": "Markup vs. margin calculator for contractors (free, no signup)",
+      "url": "https://changesnap.onrender.com/markup-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "markup",
+        "margin",
+        "calculator",
+        "contractors",
+        "free"
+      ],
+      "foundAt": "2026-10-15T06:19:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "rebuilding",
+        "original",
+        "odhner",
+        "model",
+        "pinwheel"
+      ],
+      "foundAt": "2026-10-12T15:12:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
+      "title": "Deadline-resp-Tracker-AI",
+      "url": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "deadline-resp-tracker-ai"
+      ],
+      "foundAt": "2026-11-05T11:54:47.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
+      "title": "tmux-agent-wizard",
+      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "tmux-agent-wizard"
+      ],
+      "foundAt": "2026-10-28T10:03:11.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.computer.org/publications/tech-news/trends/fault-tolerance-for-ai",
+      "title": "When AI Fails: Building Fault-Tolerant AI Systems",
+      "url": "https://www.computer.org/publications/tech-news/trends/fault-tolerance-for-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "when",
+        "fails",
+        "building",
+        "fault-tolerant",
+        "systems"
+      ],
+      "foundAt": "2026-11-04T14:47:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/The-Pixel-Boys/shield-kya",
+      "title": "Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls",
+      "url": "https://github.com/The-Pixel-Boys/shield-kya",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "shield",
+        "kya",
+        "open-source",
+        "audit"
+      ],
+      "foundAt": "2026-11-04T12:33:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://rivermark.ai",
+      "title": "Show HN: Rivermark, a superfast AI graphic design canvas",
+      "url": "https://rivermark.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "rivermark",
+        "superfast",
+        "graphic",
+        "design"
+      ],
+      "foundAt": "2026-11-04T12:13:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://simulator-use.dev/benchmarks",
+      "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
+      "url": "https://simulator-use.dev/benchmarks",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "ios",
+        "simulator",
+        "mcp",
+        "benchmark",
+        "eight"
+      ],
+      "foundAt": "2026-11-04T11:47:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Coding-Dev-Tools/engraphis",
+      "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
+      "url": "https://github.com/Coding-Dev-Tools/engraphis",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "engraphis",
+        "local-first",
+        "bi-temporal",
+        "memory",
+        "coding"
+      ],
+      "foundAt": "2026-11-04T04:52:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "title": "Anthropic launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "anthropic",
+        "launched",
+        "tools",
+        "show",
+        "companies"
+      ],
+      "foundAt": "2026-11-04T04:26:22.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
+      "title": "AI Replaces Tools,Not Worldviews:Why True Artistic Expression Won't Be Displaced",
+      "url": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "replaces",
+        "tools",
+        "not",
+        "worldviews",
+        "why"
+      ],
+      "foundAt": "2026-11-03T23:24:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://twitter.com/intology/status/2117642701890105725",
+      "title": "AI agents beating human made tools at molecular discovery",
+      "url": "https://twitter.com/intology/status/2117642701890105725",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "agents",
+        "beating",
+        "human",
+        "made",
+        "tools"
+      ],
+      "foundAt": "2026-11-03T20:14:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hackerbyte.net",
+      "title": "Show HN: HackerByte – Finding promising AI stories by analyzing HN discussions",
+      "url": "https://hackerbyte.net",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "hackerbyte",
+        "finding",
+        "promising",
+        "stories"
+      ],
+      "foundAt": "2026-11-03T19:51:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "title": "AI tool can predict cancer survival by a single patient selfie",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tool",
+        "can",
+        "predict",
+        "cancer",
+        "survival"
+      ],
+      "foundAt": "2026-11-03T19:25:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+      "title": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "apple",
+        "launches",
+        "beta",
+        "versions",
+        "watch"
+      ],
+      "foundAt": "2026-11-03T18:59:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://leona.co.za",
+      "title": "Leona - AI Powered Career Toolkit",
+      "url": "https://leona.co.za",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "leona",
+        "powered",
+        "career",
+        "toolkit"
+      ],
+      "foundAt": "2026-11-03T18:09:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "binance",
+        "says",
+        "hackers",
+        "used",
+        "fake"
+      ],
+      "foundAt": "2026-11-03T17:44:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
+      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pptx-to-pdf",
+        "convert",
+        "powerpoint",
+        "pdf"
+      ],
+      "foundAt": "2026-11-04T01:30:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/asharma327/sheetgraph",
+      "title": "Show HN: Sheetgraph, AI agents can understand complex spreadsheets",
+      "url": "https://github.com/asharma327/sheetgraph",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "sheetgraph",
+        "agents",
+        "can",
+        "understand"
+      ],
+      "foundAt": "2026-10-29T17:49:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "nvidia",
+        "eyes",
+        "converting",
+        "old",
+        "nuclear"
+      ],
+      "foundAt": "2026-10-25T22:11:27.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
+      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "action",
+        "converts",
+        "markdown",
+        "accessible"
+      ],
+      "foundAt": "2026-10-22T13:03:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://markitdownai.org",
+      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+      "url": "https://markitdownai.org",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "markitdown",
+        "convert",
+        "documents",
+        "markdown"
+      ],
+      "foundAt": "2026-10-20T12:29:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/insanai/ccm",
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "url": "https://github.com/insanai/ccm",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "code",
+        "counter",
+        "machine",
+        "modern"
+      ],
+      "foundAt": "2026-10-25T13:13:26.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1237,158 +1651,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "turboscribe",
-        "free",
-        "video",
-        "text",
-        "audio"
-      ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://startling-croissant-452d68.netlify.app",
-      "title": "I built a free image-to-PDF converter that runs in the browser",
-      "url": "https://startling-croissant-452d68.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "free",
-        "image-to-pdf",
-        "converter",
-        "runs"
-      ],
-      "foundAt": "2026-10-17T20:20:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://epub.ftak.net",
-      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
-      "url": "https://epub.ftak.net",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf2epub",
-        "free",
-        "pdf",
-        "epub"
-      ],
-      "foundAt": "2026-10-16T12:53:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/davobene/migrateflows",
-      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
-      "url": "https://github.com/davobene/migrateflows",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "open-source",
-        "converter",
-        "pipedream",
-        "workflows"
-      ],
-      "foundAt": "2026-10-14T15:10:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://liters2gallons.com",
-      "title": "A simple liters to US and UK gallons converter",
-      "url": "https://liters2gallons.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "simple",
-        "liters",
-        "gallons",
-        "converter"
-      ],
-      "foundAt": "2026-10-10T11:28:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://toany.io",
-      "title": "I built a file converter that never sees your files",
-      "url": "https://toany.io",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "file",
-        "converter",
-        "never",
-        "sees"
-      ],
-      "foundAt": "2026-10-08T06:42:51.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
-      "title": "TLDRs newsletter converter that gets all the important links",
-      "url": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "tldrs",
-        "newsletter",
-        "converter",
-        "gets",
-        "all"
-      ],
-      "foundAt": "2026-10-06T17:21:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://pngstack.site",
-      "title": "Free PNG to PDF Converter Online for United States",
-      "url": "https://pngstack.site",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "png",
-        "pdf",
-        "converter",
-        "online"
-      ],
-      "foundAt": "2026-10-05T07:31:08.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://dataflexstudio.vercel.app",
-      "title": "DataFlex Studio – 100% client-side JSON to CSV converter",
-      "url": "https://dataflexstudio.vercel.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "dataflex",
-        "studio",
-        "client-side",
-        "json",
-        "csv"
-      ],
-      "foundAt": "2026-10-01T15:16:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://metriqcon.co",
       "title": "Metriqcon – A client-side unit converter with an inline live math parser",
       "url": "https://metriqcon.co",
@@ -1436,57 +1698,6 @@
         "free"
       ],
       "foundAt": "2026-09-29T17:45:07.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://voltcost.vercel.app",
-      "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
-      "url": "https://voltcost.vercel.app",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "voltcost",
-        "charging",
-        "cost",
-        "gas"
-      ],
-      "foundAt": "2026-10-15T18:53:31.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://changesnap.onrender.com/markup-calculator",
-      "title": "Markup vs. margin calculator for contractors (free, no signup)",
-      "url": "https://changesnap.onrender.com/markup-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "markup",
-        "margin",
-        "calculator",
-        "contractors",
-        "free"
-      ],
-      "foundAt": "2026-10-15T06:19:10.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "rebuilding",
-        "original",
-        "odhner",
-        "model",
-        "pinwheel"
-      ],
-      "foundAt": "2026-10-12T15:12:37.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1539,19 +1750,6 @@
       ],
       "foundAt": "2026-10-09T13:02:32.000Z",
       "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "title": "tmux-agent-wizard",
-      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "tmux-agent-wizard"
-      ],
-      "foundAt": "2026-10-28T10:03:11.000Z",
-      "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -2311,206 +2509,6 @@
         "leaks"
       ],
       "foundAt": "2026-10-27T16:07:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://aiworkflows.tools/workflows",
-      "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
-      "url": "https://aiworkflows.tools/workflows",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "workflows",
-        "step-by-step",
-        "built",
-        "tools"
-      ],
-      "foundAt": "2026-10-28T12:03:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://toolmaker.io",
-      "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
-      "url": "https://toolmaker.io",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "toolmakeragent",
-        "sdlc",
-        "platform",
-        "where"
-      ],
-      "foundAt": "2026-10-28T11:57:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.medschooldebtcalculator.com/calculator",
-      "title": "Show HN: Free calculator for US physicians' $200K-$400K student loan debt",
-      "url": "https://www.medschooldebtcalculator.com/calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "free",
-        "calculator",
-        "physicians",
-        "student"
-      ],
-      "foundAt": "2026-10-07T16:33:38.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.columbia.edu/cu/computinghistory/ssec.html",
-      "title": "IBM's Selective Sequence Electronic Calculator (2003)",
-      "url": "https://www.columbia.edu/cu/computinghistory/ssec.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "ibm",
-        "selective",
-        "sequence",
-        "electronic",
-        "calculator"
-      ],
-      "foundAt": "2026-10-07T15:49:23.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tokenbarometer.com",
-      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
-      "url": "https://tokenbarometer.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "llm",
-        "api",
-        "prices",
-        "full"
-      ],
-      "foundAt": "2026-10-07T11:36:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
-      "title": "My router is not a calculator",
-      "url": "https://www.coryd.dev/posts/2026/my-router-is-not-a-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "router",
-        "not",
-        "calculator"
-      ],
-      "foundAt": "2026-10-06T20:47:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://displaymath.com",
-      "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
-      "url": "https://displaymath.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "screen",
-        "size",
-        "calculator",
-        "puts"
-      ],
-      "foundAt": "2026-10-06T09:24:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://cwgchain.github.io",
-      "title": "CWG Chain – free arbitrage calculator that walks live order books",
-      "url": "https://cwgchain.github.io",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "cwg",
-        "chain",
-        "free",
-        "arbitrage",
-        "calculator"
-      ],
-      "foundAt": "2026-10-05T20:47:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://snowdaycalculatorpro.com",
-      "title": "Snow Day Calculator",
-      "url": "https://snowdaycalculatorpro.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "snow",
-        "day",
-        "calculator"
-      ],
-      "foundAt": "2026-10-04T19:46:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://mmkw.8by3.com",
-      "title": "Two Thousand Watt Society Calculator",
-      "url": "https://mmkw.8by3.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "two",
-        "thousand",
-        "watt",
-        "society",
-        "calculator"
-      ],
-      "foundAt": "2026-10-03T12:10:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.pockeng.com/tools/grid.html",
-      "title": "Series and Parallel Calculator for resistor, battery banks and solar Arrays",
-      "url": "https://www.pockeng.com/tools/grid.html",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "series",
-        "parallel",
-        "calculator",
-        "resistor",
-        "battery"
-      ],
-      "foundAt": "2026-10-01T12:45:45.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
-      "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
-      "url": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "youtube",
-        "lunatic",
-        "designed",
-        "printed",
-        "working"
-      ],
-      "foundAt": "2026-09-30T21:32:10.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
