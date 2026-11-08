@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-11-07T08:55:52.237Z",
+  "updatedAt": "2026-11-08T09:10:37.938Z",
   "items": [
+    {
+      "id": "https://github.com/PersonaliAI/chatty",
+      "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
+      "url": "https://github.com/PersonaliAI/chatty",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "chatty",
+        "open-source",
+        "autonomous",
+        "chat",
+        "agent"
+      ],
+      "foundAt": "2026-11-07T18:31:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fredrikmeyer.net/2026/11/07/how-i-use-ai-2026.html",
+      "title": "AI tools I use (avg software developer)",
+      "url": "https://fredrikmeyer.net/2026/11/07/how-i-use-ai-2026.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tools",
+        "use",
+        "avg",
+        "software",
+        "developer"
+      ],
+      "foundAt": "2026-11-07T17:53:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
+      "title": "Climate skeptics used AI to review their work. It told them they were biased",
+      "url": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "climate",
+        "skeptics",
+        "used",
+        "review",
+        "their"
+      ],
+      "foundAt": "2026-11-07T12:40:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://mcp.brydge-ai.com/diff.html",
       "title": "Show HN:A tool your AI uses just changed. Would you know?",
@@ -257,74 +308,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
-      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-      "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "google",
-        "says",
-        "k-12",
-        "students",
-        "schools"
-      ],
-      "foundAt": "2026-11-05T01:52:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.benjamin.ie/blog/mentat",
-      "title": "Mentat: One memory for all my AI tools",
-      "url": "https://blog.benjamin.ie/blog/mentat",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "mentat",
-        "one",
-        "memory",
-        "all",
-        "tools"
-      ],
-      "foundAt": "2026-11-04T21:50:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://getchronosphere.com",
-      "title": "Show HN: Chronosphere, a tool for understanding large PRs",
-      "url": "https://getchronosphere.com",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "chronosphere",
-        "tool",
-        "understanding",
-        "large"
-      ],
-      "foundAt": "2026-11-04T21:48:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://ciphero.ai/cassandra/hn",
-      "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
-      "url": "https://ciphero.ai/cassandra/hn",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "cassandra",
-        "free",
-        "tool",
-        "check"
-      ],
-      "foundAt": "2026-11-04T18:19:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://riplet.cc",
       "title": "I made a safe YouTube to MP3 (plus MP4;) converter that's free of ads",
       "url": "https://riplet.cc",
@@ -495,6 +478,40 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.aivideosugc.com/ai-video-generation",
+      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+      "url": "https://www.aivideosugc.com/ai-video-generation",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "new",
+        "way",
+        "make",
+        "ugc"
+      ],
+      "foundAt": "2026-10-28T03:14:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aivideosugc.com",
+      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+      "url": "https://www.aivideosugc.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "how",
+        "make",
+        "ugc",
+        "ads"
+      ],
+      "foundAt": "2026-10-28T03:09:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
       "title": "Nvidia eyes converting old nuclear plants into AI data centers",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
@@ -508,56 +525,6 @@
         "nuclear"
       ],
       "foundAt": "2026-10-25T22:11:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://birdspeech.mitpit.com",
-      "title": "Speech to Bird Song Converter",
-      "url": "https://birdspeech.mitpit.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "speech",
-        "bird",
-        "song",
-        "converter"
-      ],
-      "foundAt": "2026-10-25T15:51:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nouploadconverter.com",
-      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
-      "url": "https://nouploadconverter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "nouploadconverter",
-        "in-browser",
-        "file",
-        "converter",
-        "running"
-      ],
-      "foundAt": "2026-10-25T15:05:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
-      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "action",
-        "converts",
-        "markdown",
-        "accessible"
-      ],
-      "foundAt": "2026-10-22T13:03:41.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -989,6 +956,124 @@
       ],
       "foundAt": "2026-10-28T10:03:11.000Z",
       "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
+      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
+      "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "google",
+        "says",
+        "k-12",
+        "students",
+        "schools"
+      ],
+      "foundAt": "2026-11-05T01:52:52.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.benjamin.ie/blog/mentat",
+      "title": "Mentat: One memory for all my AI tools",
+      "url": "https://blog.benjamin.ie/blog/mentat",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "mentat",
+        "one",
+        "memory",
+        "all",
+        "tools"
+      ],
+      "foundAt": "2026-11-04T21:50:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://getchronosphere.com",
+      "title": "Show HN: Chronosphere, a tool for understanding large PRs",
+      "url": "https://getchronosphere.com",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "chronosphere",
+        "tool",
+        "understanding",
+        "large"
+      ],
+      "foundAt": "2026-11-04T21:48:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://ciphero.ai/cassandra/hn",
+      "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+      "url": "https://ciphero.ai/cassandra/hn",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "cassandra",
+        "free",
+        "tool",
+        "check"
+      ],
+      "foundAt": "2026-11-04T18:19:46.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://birdspeech.mitpit.com",
+      "title": "Speech to Bird Song Converter",
+      "url": "https://birdspeech.mitpit.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "speech",
+        "bird",
+        "song",
+        "converter"
+      ],
+      "foundAt": "2026-10-25T15:51:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nouploadconverter.com",
+      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
+      "url": "https://nouploadconverter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "nouploadconverter",
+        "in-browser",
+        "file",
+        "converter",
+        "running"
+      ],
+      "foundAt": "2026-10-25T15:05:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
+      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "free",
+        "action",
+        "converts",
+        "markdown",
+        "accessible"
+      ],
+      "foundAt": "2026-10-22T13:03:41.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1821,23 +1906,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.aivideosugc.com",
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "url": "https://www.aivideosugc.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "how",
-        "make",
-        "ugc",
-        "ads"
-      ],
-      "foundAt": "2026-10-28T03:09:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://metriqcon.co",
       "title": "Metriqcon – A client-side unit converter with an inline live math parser",
       "url": "https://metriqcon.co",
@@ -2458,70 +2526,6 @@
         "making"
       ],
       "foundAt": "2026-10-29T11:11:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.aivideosugc.com/ai-video-generation",
-      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
-      "url": "https://www.aivideosugc.com/ai-video-generation",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "new",
-        "way",
-        "make",
-        "ugc"
-      ],
-      "foundAt": "2026-10-28T03:14:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hq.freedev.app",
-      "title": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
-      "url": "https://hq.freedev.app",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "free",
-        "hub",
-        "p2p",
-        "sharing",
-        "qr-gen"
-      ],
-      "foundAt": "2026-10-18T20:25:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
-      "title": "excel-workbook-automation-helper",
-      "url": "https://api.github.com/repos/pete-lee6071/excel-workbook-automation-helper",
-      "source": "GitHub",
-      "category": "效率工具",
-      "keywords": [
-        "excel-workbook-automation-helper"
-      ],
-      "foundAt": "2026-10-31T09:34:09.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
-      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
-      "url": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "americans",
-        "are",
-        "healthcare",
-        "but",
-        "want"
-      ],
-      "foundAt": "2026-10-29T17:08:46.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
