@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-11-08T09:10:37.938Z",
+  "updatedAt": "2026-11-09T09:56:36.789Z",
   "items": [
+    {
+      "id": "https://company.mindfries.com/login",
+      "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
+      "url": "https://company.mindfries.com/login",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "mindfries-",
+        "interviewer",
+        "based",
+        "real"
+      ],
+      "foundAt": "2026-11-09T03:30:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://midgarth.quest",
+      "title": "Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+      "url": "https://midgarth.quest",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "midgarth",
+        "quest",
+        "browser-playable",
+        "mmorpg"
+      ],
+      "foundAt": "2026-11-09T00:50:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/lamarcol/NotBot",
+      "title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "url": "https://github.com/lamarcol/NotBot",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "first",
+        "project",
+        "ai-powered",
+        "financial"
+      ],
+      "foundAt": "2026-11-08T22:34:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+      "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+      "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "who",
+        "search",
+        "engines",
+        "name",
+        "when"
+      ],
+      "foundAt": "2026-11-08T21:57:07.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://playground.alephapc.com",
+      "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+      "url": "https://playground.alephapc.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "apc",
+        "playground",
+        "stop",
+        "agents"
+      ],
+      "foundAt": "2026-11-08T20:22:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes",
+      "title": "Canada's AI translation tool keeps making hilarious mistakes",
+      "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "canada",
+        "translation",
+        "tool",
+        "keeps",
+        "making"
+      ],
+      "foundAt": "2026-11-08T18:52:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://inhouse.jurex.ai/login",
+      "title": "Show HN: Jurex in House – Handles Legal Side of Your Business with AI",
+      "url": "https://inhouse.jurex.ai/login",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "jurex",
+        "house",
+        "handles",
+        "legal"
+      ],
+      "foundAt": "2026-11-08T15:29:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://github.com/PersonaliAI/chatty",
       "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
@@ -70,23 +189,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://ajx.dev",
-      "title": "Show HN: AJX – Find out where AI agents get stuck using your product",
-      "url": "https://ajx.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "ajx",
-        "find",
-        "out",
-        "where"
-      ],
-      "foundAt": "2026-11-06T22:31:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://portalworkers.com/blog/up-and-over-tool-chest",
       "title": "AI-supported woodworking: Building an up-and-over tool chest with a clever hinge",
       "url": "https://portalworkers.com/blog/up-and-over-tool-chest",
@@ -100,23 +202,6 @@
         "tool"
       ],
       "foundAt": "2026-11-06T21:02:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
-      "title": "AI Made Me Look Foolish. Then I Learned",
-      "url": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "made",
-        "look",
-        "foolish",
-        "then",
-        "learned"
-      ],
-      "foundAt": "2026-11-06T19:12:30.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -253,57 +338,6 @@
         "text"
       ],
       "foundAt": "2026-11-05T18:03:21.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
-      "title": "Show HN: PDF Reading, Annotation and Signing Inside Your Markdown Notes",
-      "url": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "reading",
-        "annotation",
-        "signing"
-      ],
-      "foundAt": "2026-11-05T15:16:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tryrevline.com",
-      "title": "Show HN: Revline – An open-source AI-native video editor",
-      "url": "https://tryrevline.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "revline",
-        "open-source",
-        "ai-native",
-        "video"
-      ],
-      "foundAt": "2026-11-05T15:06:16.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nico.app",
-      "title": "Show HN: Nico – a two-agent type personal agent on your Mac",
-      "url": "https://nico.app",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "nico",
-        "two-agent",
-        "type",
-        "personal"
-      ],
-      "foundAt": "2026-11-05T11:21:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -508,23 +542,6 @@
         "ads"
       ],
       "foundAt": "2026-10-28T03:09:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "nvidia",
-        "eyes",
-        "converting",
-        "old",
-        "nuclear"
-      ],
-      "foundAt": "2026-10-25T22:11:27.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -929,6 +946,125 @@
         "free"
       ],
       "foundAt": "2026-10-15T06:19:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
+      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "rebuilding",
+        "original",
+        "odhner",
+        "model",
+        "pinwheel"
+      ],
+      "foundAt": "2026-10-12T15:12:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://ajx.dev",
+      "title": "Show HN: AJX – Find out where AI agents get stuck using your product",
+      "url": "https://ajx.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "ajx",
+        "find",
+        "out",
+        "where"
+      ],
+      "foundAt": "2026-11-06T22:31:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
+      "title": "AI Made Me Look Foolish. Then I Learned",
+      "url": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "made",
+        "look",
+        "foolish",
+        "then",
+        "learned"
+      ],
+      "foundAt": "2026-11-06T19:12:30.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
+      "title": "Show HN: PDF Reading, Annotation and Signing Inside Your Markdown Notes",
+      "url": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf",
+        "reading",
+        "annotation",
+        "signing"
+      ],
+      "foundAt": "2026-11-05T15:16:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tryrevline.com",
+      "title": "Show HN: Revline – An open-source AI-native video editor",
+      "url": "https://tryrevline.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "revline",
+        "open-source",
+        "ai-native",
+        "video"
+      ],
+      "foundAt": "2026-11-05T15:06:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nico.app",
+      "title": "Show HN: Nico – a two-agent type personal agent on your Mac",
+      "url": "https://nico.app",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "nico",
+        "two-agent",
+        "type",
+        "personal"
+      ],
+      "foundAt": "2026-11-05T11:21:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "nvidia",
+        "eyes",
+        "converting",
+        "old",
+        "nuclear"
+      ],
+      "foundAt": "2026-10-25T22:11:27.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1344,23 +1480,6 @@
         "csv"
       ],
       "foundAt": "2026-10-01T15:16:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "rebuilding",
-        "original",
-        "odhner",
-        "model",
-        "pinwheel"
-      ],
-      "foundAt": "2026-10-12T15:12:37.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2407,125 +2526,6 @@
         "tool"
       ],
       "foundAt": "2026-10-30T00:06:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.sql-server-tool.com/blog-vb6-ai-agents.htm",
-      "title": "Teaching a 1999 VB6 app to talk to AI agents",
-      "url": "https://www.sql-server-tool.com/blog-vb6-ai-agents.htm",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "teaching",
-        "vb6",
-        "app",
-        "talk",
-        "agents"
-      ],
-      "foundAt": "2026-10-29T18:32:15.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "phpclaw",
-        "agent",
-        "runtime",
-        "php"
-      ],
-      "foundAt": "2026-10-29T18:06:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/oimo-ai/apgar",
-      "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
-      "url": "https://github.com/oimo-ai/apgar",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "apgar",
-        "catch",
-        "agent",
-        "regressions"
-      ],
-      "foundAt": "2026-10-29T17:04:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.wavefunction.si",
-      "title": "Show HN: Wavefunction – a minimal, open-source desktop coding agent for Mac",
-      "url": "https://www.wavefunction.si",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "wavefunction",
-        "minimal",
-        "open-source",
-        "desktop"
-      ],
-      "foundAt": "2026-10-29T15:43:51.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://aiblackfriday.net",
-      "title": "AI Black Friday: a tracker of deals on AI tools",
-      "url": "https://aiblackfriday.net",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "black",
-        "friday",
-        "tracker",
-        "deals",
-        "tools"
-      ],
-      "foundAt": "2026-10-29T13:59:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://trooperloops.com/upload",
-      "title": "Show HN: Universal Blindspot Detector (AI meta-analysis)",
-      "url": "https://trooperloops.com/upload",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "universal",
-        "blindspot",
-        "detector",
-        "meta-analysis"
-      ],
-      "foundAt": "2026-10-29T12:29:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda",
-      "title": "Why AI design tools keep making the same flyer",
-      "url": "https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "why",
-        "design",
-        "tools",
-        "keep",
-        "making"
-      ],
-      "foundAt": "2026-10-29T11:11:55.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
