@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-09T09:56:36.789Z",
+  "updatedAt": "2026-11-10T10:00:40.426Z",
   "items": [
+    {
+      "id": "https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from",
+      "title": "AI Bubble: The Calls Are Coming from Inside the House",
+      "url": "https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "bubble",
+        "calls",
+        "are",
+        "coming",
+        "inside"
+      ],
+      "foundAt": "2026-11-10T09:03:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+      "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
+      "url": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "trump",
+        "says",
+        "told",
+        "executive",
+        "kiss"
+      ],
+      "foundAt": "2026-11-10T03:40:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.physicsbase.ai",
+      "title": "Show HN: I built a tool that babysits your agents",
+      "url": "https://www.physicsbase.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "built",
+        "tool",
+        "babysits",
+        "your"
+      ],
+      "foundAt": "2026-11-10T01:06:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "disney",
+        "adobe",
+        "are",
+        "building",
+        "generative"
+      ],
+      "foundAt": "2026-11-09T18:01:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://venzx.com/try",
+      "title": "Show HN: Venzx – Pause AI agent tool calls until a human approves",
+      "url": "https://venzx.com/try",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "venzx",
+        "pause",
+        "agent",
+        "tool"
+      ],
+      "foundAt": "2026-11-09T17:19:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://company.mindfries.com/login",
       "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
@@ -155,23 +240,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
-      "title": "Climate skeptics used AI to review their work. It told them they were biased",
-      "url": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "climate",
-        "skeptics",
-        "used",
-        "review",
-        "their"
-      ],
-      "foundAt": "2026-11-07T12:40:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://mcp.brydge-ai.com/diff.html",
       "title": "Show HN:A tool your AI uses just changed. Would you know?",
       "url": "https://mcp.brydge-ai.com/diff.html",
@@ -206,138 +274,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://looptranscribe.com",
-      "title": "Show HN: A tool for looping and transcribing YouTube Videos",
-      "url": "https://looptranscribe.com",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "tool",
-        "looping",
-        "transcribing",
-        "youtube"
-      ],
-      "foundAt": "2026-11-06T16:19:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "agentic",
-        "identity",
-        "broker",
-        "oauth"
-      ],
-      "foundAt": "2026-11-06T15:07:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://penguinbase.com/game-install",
-      "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
-      "url": "https://penguinbase.com/game-install",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "grid",
-        "hold",
-        "arena",
-        "where"
-      ],
-      "foundAt": "2026-11-06T13:57:16.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://soarhen.com/how-run-ai-in-low-vram",
-      "title": "Lowvram: A CLI tool to run large AI models in low VRAM GPUs",
-      "url": "https://soarhen.com/how-run-ai-in-low-vram",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "lowvram",
-        "cli",
-        "tool",
-        "run",
-        "large"
-      ],
-      "foundAt": "2026-11-06T12:29:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
-      "title": "We are building an AI design tool that skips the prompt",
-      "url": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "are",
-        "building",
-        "design",
-        "tool",
-        "skips"
-      ],
-      "foundAt": "2026-11-06T10:07:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://app.stitch.ai/auth/signup",
-      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "url": "https://app.stitch.ai/auth/signup",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "stitch",
-        "new",
-        "all-in-one",
-        "workspace"
-      ],
-      "foundAt": "2026-11-06T05:19:36.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://magertron.com",
-      "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
-      "url": "https://magertron.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "magertron",
-        "orchestrator",
-        "agents",
-        "tools"
-      ],
-      "foundAt": "2026-11-05T18:13:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://aless.tabnas.dev",
-      "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
-      "url": "https://aless.tabnas.dev",
+      "id": "https://simplecaseconverter.com",
+      "title": "Show HN: Case converter with AP/APA/Chicago/MLA title case",
+      "url": "https://simplecaseconverter.com",
       "source": "Hacker News",
       "category": "文件工具",
       "keywords": [
         "show",
-        "terminal",
-        "viewer",
-        "plain",
-        "text"
+        "case",
+        "converter",
+        "apa",
+        "chicago"
       ],
-      "foundAt": "2026-11-05T18:03:21.000Z",
+      "foundAt": "2026-11-10T05:33:29.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -355,23 +304,6 @@
         "plus"
       ],
       "foundAt": "2026-11-06T17:52:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://lecturetobook.com",
-      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
-      "url": "https://lecturetobook.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "convert",
-        "recorded",
-        "class",
-        "lectures"
-      ],
-      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -406,23 +338,6 @@
         "trained"
       ],
       "foundAt": "2026-11-04T16:45:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
-      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pptx-to-pdf",
-        "convert",
-        "powerpoint",
-        "pdf"
-      ],
-      "foundAt": "2026-11-04T01:30:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -495,53 +410,171 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/asharma327/sheetgraph",
-      "title": "Show HN: Sheetgraph, AI agents can understand complex spreadsheets",
-      "url": "https://github.com/asharma327/sheetgraph",
+      "id": "https://birdspeech.mitpit.com",
+      "title": "Speech to Bird Song Converter",
+      "url": "https://birdspeech.mitpit.com",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
-        "show",
-        "sheetgraph",
-        "agents",
-        "can",
-        "understand"
+        "speech",
+        "bird",
+        "song",
+        "converter"
       ],
-      "foundAt": "2026-10-29T17:49:55.000Z",
+      "foundAt": "2026-10-25T15:51:34.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.aivideosugc.com/ai-video-generation",
-      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
-      "url": "https://www.aivideosugc.com/ai-video-generation",
+      "id": "https://nouploadconverter.com",
+      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
+      "url": "https://nouploadconverter.com",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
-        "show",
-        "new",
-        "way",
-        "make",
-        "ugc"
+        "nouploadconverter",
+        "in-browser",
+        "file",
+        "converter",
+        "running"
       ],
-      "foundAt": "2026-10-28T03:14:26.000Z",
+      "foundAt": "2026-10-25T15:05:37.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.aivideosugc.com",
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "url": "https://www.aivideosugc.com",
+      "id": "https://markitdownai.org",
+      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
+      "url": "https://markitdownai.org",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "how",
-        "make",
-        "ugc",
-        "ads"
+        "markitdown",
+        "convert",
+        "documents",
+        "markdown"
       ],
-      "foundAt": "2026-10-28T03:09:03.000Z",
+      "foundAt": "2026-10-20T12:29:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
+      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "glm-5",
+        "flash",
+        "tensorfold",
+        "pipeline",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T16:58:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.book2speech.com",
+      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
+      "url": "https://www.book2speech.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "built",
+        "smart",
+        "audiobook",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T12:17:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.turboscribeai.org",
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "url": "https://www.turboscribeai.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "turboscribe",
+        "free",
+        "video",
+        "text",
+        "audio"
+      ],
+      "foundAt": "2026-10-18T05:55:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
+      ],
+      "foundAt": "2026-10-17T20:20:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fetchindex.com/calculator",
+      "title": "Show HN: FetchIndex – cost calculator for 19 scraping and search APIs",
+      "url": "https://fetchindex.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "fetchindex",
+        "cost",
+        "calculator",
+        "scraping"
+      ],
+      "foundAt": "2026-11-09T22:54:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fastidious-crisp-cee4e9.netlify.app",
+      "title": "Free Local-first KSeF 2027 and tax limit calculator for Poland",
+      "url": "https://fastidious-crisp-cee4e9.netlify.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "free",
+        "local-first",
+        "ksef",
+        "tax",
+        "limit"
+      ],
+      "foundAt": "2026-11-09T13:54:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://netpaycheckcalc.com",
+      "title": "Take-home pay calculator for all 50 US states (static, no signup)",
+      "url": "https://netpaycheckcalc.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "take-home",
+        "pay",
+        "calculator",
+        "all",
+        "states"
+      ],
+      "foundAt": "2026-11-09T13:43:28.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -916,6 +949,283 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
+      "title": "Deadline-resp-Tracker-AI",
+      "url": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "deadline-resp-tracker-ai"
+      ],
+      "foundAt": "2026-11-05T11:54:47.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
+      "title": "tmux-agent-wizard",
+      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "tmux-agent-wizard"
+      ],
+      "foundAt": "2026-10-28T10:03:11.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/DreamOfXM/agent-ping",
+      "title": "agent-ping",
+      "url": "https://api.github.com/repos/DreamOfXM/agent-ping",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "agent-ping"
+      ],
+      "foundAt": "2026-10-28T10:38:58.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
+      "title": "Climate skeptics used AI to review their work. It told them they were biased",
+      "url": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "climate",
+        "skeptics",
+        "used",
+        "review",
+        "their"
+      ],
+      "foundAt": "2026-11-07T12:40:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://looptranscribe.com",
+      "title": "Show HN: A tool for looping and transcribing YouTube Videos",
+      "url": "https://looptranscribe.com",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "tool",
+        "looping",
+        "transcribing",
+        "youtube"
+      ],
+      "foundAt": "2026-11-06T16:19:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "agentic",
+        "identity",
+        "broker",
+        "oauth"
+      ],
+      "foundAt": "2026-11-06T15:07:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://penguinbase.com/game-install",
+      "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+      "url": "https://penguinbase.com/game-install",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "grid",
+        "hold",
+        "arena",
+        "where"
+      ],
+      "foundAt": "2026-11-06T13:57:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://soarhen.com/how-run-ai-in-low-vram",
+      "title": "Lowvram: A CLI tool to run large AI models in low VRAM GPUs",
+      "url": "https://soarhen.com/how-run-ai-in-low-vram",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "lowvram",
+        "cli",
+        "tool",
+        "run",
+        "large"
+      ],
+      "foundAt": "2026-11-06T12:29:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
+      "title": "We are building an AI design tool that skips the prompt",
+      "url": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "are",
+        "building",
+        "design",
+        "tool",
+        "skips"
+      ],
+      "foundAt": "2026-11-06T10:07:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://app.stitch.ai/auth/signup",
+      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+      "url": "https://app.stitch.ai/auth/signup",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "stitch",
+        "new",
+        "all-in-one",
+        "workspace"
+      ],
+      "foundAt": "2026-11-06T05:19:36.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://magertron.com",
+      "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+      "url": "https://magertron.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "magertron",
+        "orchestrator",
+        "agents",
+        "tools"
+      ],
+      "foundAt": "2026-11-05T18:13:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://aless.tabnas.dev",
+      "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+      "url": "https://aless.tabnas.dev",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "terminal",
+        "viewer",
+        "plain",
+        "text"
+      ],
+      "foundAt": "2026-11-05T18:03:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://lecturetobook.com",
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "url": "https://lecturetobook.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "convert",
+        "recorded",
+        "class",
+        "lectures"
+      ],
+      "foundAt": "2026-11-06T00:52:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
+      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pptx-to-pdf",
+        "convert",
+        "powerpoint",
+        "pdf"
+      ],
+      "foundAt": "2026-11-04T01:30:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/asharma327/sheetgraph",
+      "title": "Show HN: Sheetgraph, AI agents can understand complex spreadsheets",
+      "url": "https://github.com/asharma327/sheetgraph",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "sheetgraph",
+        "agents",
+        "can",
+        "understand"
+      ],
+      "foundAt": "2026-10-29T17:49:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aivideosugc.com/ai-video-generation",
+      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+      "url": "https://www.aivideosugc.com/ai-video-generation",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "new",
+        "way",
+        "make",
+        "ugc"
+      ],
+      "foundAt": "2026-10-28T03:14:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.aivideosugc.com",
+      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+      "url": "https://www.aivideosugc.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "how",
+        "make",
+        "ugc",
+        "ads"
+      ],
+      "foundAt": "2026-10-28T03:09:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://voltcost.vercel.app",
       "title": "Show HN: VoltCost – EV charging cost vs. gas savings calculator with TOU rates",
       "url": "https://voltcost.vercel.app",
@@ -1069,32 +1379,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
-      "title": "Deadline-resp-Tracker-AI",
-      "url": "https://api.github.com/repos/AstralBeneathSilver/Deadline-resp-Tracker-AI",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "deadline-resp-tracker-ai"
-      ],
-      "foundAt": "2026-11-05T11:54:47.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "title": "tmux-agent-wizard",
-      "url": "https://api.github.com/repos/27medkamal/tmux-agent-wizard",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "tmux-agent-wizard"
-      ],
-      "foundAt": "2026-10-28T10:03:11.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
       "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
       "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
@@ -1159,39 +1443,6 @@
         "check"
       ],
       "foundAt": "2026-11-04T18:19:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://birdspeech.mitpit.com",
-      "title": "Speech to Bird Song Converter",
-      "url": "https://birdspeech.mitpit.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "speech",
-        "bird",
-        "song",
-        "converter"
-      ],
-      "foundAt": "2026-10-25T15:51:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nouploadconverter.com",
-      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
-      "url": "https://nouploadconverter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "nouploadconverter",
-        "in-browser",
-        "file",
-        "converter",
-        "running"
-      ],
-      "foundAt": "2026-10-25T15:05:37.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1294,74 +1545,6 @@
         "pre-built"
       ],
       "foundAt": "2026-11-04T15:25:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
-      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "glm-5",
-        "flash",
-        "tensorfold",
-        "pipeline",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T16:58:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.book2speech.com",
-      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
-      "url": "https://www.book2speech.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "built",
-        "smart",
-        "audiobook",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T12:17:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "turboscribe",
-        "free",
-        "video",
-        "text",
-        "audio"
-      ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://startling-croissant-452d68.netlify.app",
-      "title": "I built a free image-to-PDF converter that runs in the browser",
-      "url": "https://startling-croissant-452d68.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "free",
-        "image-to-pdf",
-        "converter",
-        "runs"
-      ],
-      "foundAt": "2026-10-17T20:20:49.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1700,23 +1883,6 @@
         "fake"
       ],
       "foundAt": "2026-11-03T17:44:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://markitdownai.org",
-      "title": "Show HN: MarkItDown AI – Convert documents to Markdown locally in the browser",
-      "url": "https://markitdownai.org",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "markitdown",
-        "convert",
-        "documents",
-        "markdown"
-      ],
-      "foundAt": "2026-10-20T12:29:11.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2361,171 +2527,6 @@
         "one"
       ],
       "foundAt": "2026-10-30T14:35:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
-      "title": "AI is letting anyone reverse engineer anything. We talked to the developer",
-      "url": "https://www.scientificamerican.com/article/an-exclusive-conversation-with-the-developer-of-rea-the-viral-ai-reverse-engineering-tool",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "letting",
-        "anyone",
-        "reverse",
-        "engineer",
-        "anything"
-      ],
-      "foundAt": "2026-10-30T12:30:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://riowallet.netlify.app",
-      "title": "Currency converter app – ECB rates (works offline as PWA)",
-      "url": "https://riowallet.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "currency",
-        "converter",
-        "app",
-        "ecb",
-        "rates"
-      ],
-      "foundAt": "2026-09-29T07:33:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://thegreatbritishconverter.co.uk",
-      "title": "The Great British Converter: From Bytes to Barleycorns",
-      "url": "https://thegreatbritishconverter.co.uk",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "great",
-        "british",
-        "converter",
-        "bytes",
-        "barleycorns"
-      ],
-      "foundAt": "2026-09-28T20:59:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://imagerry.com",
-      "title": "A private alternative to cloud image converters and compressors",
-      "url": "https://imagerry.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "private",
-        "alternative",
-        "cloud",
-        "image",
-        "converters"
-      ],
-      "foundAt": "2026-09-28T18:10:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ciromattia/kcc",
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "using",
-        "dft",
-        "dithering",
-        "etc"
-      ],
-      "foundAt": "2026-09-28T15:39:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://proofsource.co",
-      "title": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
-      "url": "https://proofsource.co",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "proofsource",
-        "find",
-        "where",
-        "leaves"
-      ],
-      "foundAt": "2026-10-13T06:51:04.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
-      "title": "Deadline-resp-Tracker-AI",
-      "url": "https://api.github.com/repos/Omianheart/Deadline-resp-Tracker-AI",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "deadline-resp-tracker-ai"
-      ],
-      "foundAt": "2026-10-28T16:16:05.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "chinese",
-        "markets",
-        "lose",
-        "trillions",
-        "race"
-      ],
-      "foundAt": "2026-10-27T08:36:56.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://novelhive.ai",
-      "title": "Show HN: NovelHiveAI – A tool to turn novels into a multi-Voice audiobook",
-      "url": "https://novelhive.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "novelhiveai",
-        "tool",
-        "turn",
-        "novels"
-      ],
-      "foundAt": "2026-10-30T01:48:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
-      "title": "Rich Hickey: \"AI\" is not a tool",
-      "url": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "rich",
-        "hickey",
-        "not",
-        "tool"
-      ],
-      "foundAt": "2026-10-30T00:06:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
