@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-11-12T09:57:22.432Z",
+  "updatedAt": "2026-11-13T09:43:16.066Z",
   "items": [
+    {
+      "id": "https://floxolab.com/ai-crawler-checker",
+      "title": "Show HN: I built a tool to check website access for 14 AI crawlers",
+      "url": "https://floxolab.com/ai-crawler-checker",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "built",
+        "tool",
+        "check",
+        "website"
+      ],
+      "foundAt": "2026-11-13T05:27:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://axiomstory.com",
+      "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+      "url": "https://axiomstory.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "axiomstory",
+        "keep",
+        "stories",
+        "consistent"
+      ],
+      "foundAt": "2026-11-12T23:59:16.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
+      "title": "Security flaws in popular AI tools have nearly tripled",
+      "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "security",
+        "flaws",
+        "popular",
+        "tools",
+        "have"
+      ],
+      "foundAt": "2026-11-12T23:30:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "title": "Why You Should Expect an AI Crash",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "why",
+        "you",
+        "should",
+        "expect",
+        "crash"
+      ],
+      "foundAt": "2026-11-12T23:08:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.soufraz.com/famous-repos-research",
+      "title": "How much of GitHub's most-starred AI tooling is written by coding agents?",
+      "url": "https://www.soufraz.com/famous-repos-research",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "how",
+        "much",
+        "most-starred",
+        "tooling",
+        "written"
+      ],
+      "foundAt": "2026-11-12T17:00:39.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.heysenku.com",
+      "title": "Show HN: Senku, an AI agent that can control your phone in background",
+      "url": "https://www.heysenku.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "senku",
+        "agent",
+        "can",
+        "control"
+      ],
+      "foundAt": "2026-11-12T15:23:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@smoking2man/working-without-unnecessary-intermediaries-how-ai-is-changing-the-economics-of-software-tools-364087d37d33",
+      "title": "Working Without Unnecessary Intermediaries: How AI Changing the Software Tools",
+      "url": "https://medium.com/@smoking2man/working-without-unnecessary-intermediaries-how-ai-is-changing-the-economics-of-software-tools-364087d37d33",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "working",
+        "without",
+        "unnecessary",
+        "intermediaries",
+        "how"
+      ],
+      "foundAt": "2026-11-12T10:47:33.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://github.com/rinkesh2010rpp/taster-ai",
       "title": "Show HN: Taster – Plain-English rules your agent can't forget or ignore",
@@ -15,23 +134,6 @@
         "your"
       ],
       "foundAt": "2026-11-12T08:41:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://meta-hackathon.com",
-      "title": "Show HN: MetaArena – Compare & Rank 5,353 Meta Global AI Hackathon Projects",
-      "url": "https://meta-hackathon.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "metaarena",
-        "compare",
-        "rank",
-        "meta"
-      ],
-      "foundAt": "2026-11-12T08:36:48.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -104,23 +206,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
-      "title": "I found an API key leak in MLflow, and why your AI agent may have one too",
-      "url": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "found",
-        "api",
-        "key",
-        "leak",
-        "mlflow"
-      ],
-      "foundAt": "2026-11-11T17:33:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://usewoolly.com",
       "title": "Show HN: Woolly, one local memory shared by all your AI tools",
       "url": "https://usewoolly.com",
@@ -168,23 +253,6 @@
         "your"
       ],
       "foundAt": "2026-11-11T16:00:50.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://aicoderating.com",
-      "title": "Show HN: AI Code Rating – a 3 character disclosure of how AI was used in a repo",
-      "url": "https://aicoderating.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "code",
-        "rating",
-        "character",
-        "disclosure"
-      ],
-      "foundAt": "2026-11-11T15:02:04.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -308,70 +376,36 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/blong8334/codeLens",
-      "title": "Show HN: CodeLens AI-Augmented Code Review Tool",
-      "url": "https://github.com/blong8334/codeLens",
+      "id": "https://convertflow.cc",
+      "title": "ConvertFlow – All-in-One Video, Audio and Image Converter",
+      "url": "https://convertflow.cc",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "文件工具",
       "keywords": [
-        "show",
-        "codelens",
-        "ai-augmented",
-        "code",
-        "review"
+        "convertflow",
+        "all-in-one",
+        "video",
+        "audio",
+        "image"
       ],
-      "foundAt": "2026-11-10T21:36:32.000Z",
+      "foundAt": "2026-11-13T07:27:30.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://thunderphone.com/blog/introducing-zeus",
-      "title": "Show HN: Zeus – Claude Code for AI voice agents",
-      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "id": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
+      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
+      "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
-        "show",
-        "zeus",
-        "claude",
-        "code",
-        "voice"
+        "dougan",
+        "leak",
+        "exposes",
+        "concerted",
+        "effort"
       ],
-      "foundAt": "2026-11-10T20:20:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
-      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "anthropic",
-        "says",
-        "key",
-        "safety",
-        "alarm"
-      ],
-      "foundAt": "2026-11-10T19:58:26.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/rjcuff/woolly",
-      "title": "Woolly, a local memory shared by all your AI tools",
-      "url": "https://github.com/rjcuff/woolly",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "woolly",
-        "local",
-        "memory",
-        "shared",
-        "all"
-      ],
-      "foundAt": "2026-11-10T19:07:04.000Z",
+      "foundAt": "2026-11-12T20:58:48.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -422,6 +456,23 @@
         "plus"
       ],
       "foundAt": "2026-11-06T17:52:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://lecturetobook.com",
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "url": "https://lecturetobook.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "convert",
+        "recorded",
+        "class",
+        "lectures"
+      ],
+      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -524,141 +575,6 @@
         "converter"
       ],
       "foundAt": "2026-10-29T19:02:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://birdspeech.mitpit.com",
-      "title": "Speech to Bird Song Converter",
-      "url": "https://birdspeech.mitpit.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "speech",
-        "bird",
-        "song",
-        "converter"
-      ],
-      "foundAt": "2026-10-25T15:51:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nouploadconverter.com",
-      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
-      "url": "https://nouploadconverter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "nouploadconverter",
-        "in-browser",
-        "file",
-        "converter",
-        "running"
-      ],
-      "foundAt": "2026-10-25T15:05:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
-      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "glm-5",
-        "flash",
-        "tensorfold",
-        "pipeline",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T16:58:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.book2speech.com",
-      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
-      "url": "https://www.book2speech.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "built",
-        "smart",
-        "audiobook",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T12:17:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "turboscribe",
-        "free",
-        "video",
-        "text",
-        "audio"
-      ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://startling-croissant-452d68.netlify.app",
-      "title": "I built a free image-to-PDF converter that runs in the browser",
-      "url": "https://startling-croissant-452d68.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "free",
-        "image-to-pdf",
-        "converter",
-        "runs"
-      ],
-      "foundAt": "2026-10-17T20:20:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://epub.ftak.net",
-      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
-      "url": "https://epub.ftak.net",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf2epub",
-        "free",
-        "pdf",
-        "epub"
-      ],
-      "foundAt": "2026-10-16T12:53:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/davobene/migrateflows",
-      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
-      "url": "https://github.com/davobene/migrateflows",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "open-source",
-        "converter",
-        "pipedream",
-        "workflows"
-      ],
-      "foundAt": "2026-10-14T15:10:59.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1084,6 +1000,260 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://meta-hackathon.com",
+      "title": "Show HN: MetaArena – Compare & Rank 5,353 Meta Global AI Hackathon Projects",
+      "url": "https://meta-hackathon.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "metaarena",
+        "compare",
+        "rank",
+        "meta"
+      ],
+      "foundAt": "2026-11-12T08:36:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
+      "title": "I found an API key leak in MLflow, and why your AI agent may have one too",
+      "url": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "found",
+        "api",
+        "key",
+        "leak",
+        "mlflow"
+      ],
+      "foundAt": "2026-11-11T17:33:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://aicoderating.com",
+      "title": "Show HN: AI Code Rating – a 3 character disclosure of how AI was used in a repo",
+      "url": "https://aicoderating.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "code",
+        "rating",
+        "character",
+        "disclosure"
+      ],
+      "foundAt": "2026-11-11T15:02:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/blong8334/codeLens",
+      "title": "Show HN: CodeLens AI-Augmented Code Review Tool",
+      "url": "https://github.com/blong8334/codeLens",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "codelens",
+        "ai-augmented",
+        "code",
+        "review"
+      ],
+      "foundAt": "2026-11-10T21:36:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://thunderphone.com/blog/introducing-zeus",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "zeus",
+        "claude",
+        "code",
+        "voice"
+      ],
+      "foundAt": "2026-11-10T20:20:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "anthropic",
+        "says",
+        "key",
+        "safety",
+        "alarm"
+      ],
+      "foundAt": "2026-11-10T19:58:26.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/rjcuff/woolly",
+      "title": "Woolly, a local memory shared by all your AI tools",
+      "url": "https://github.com/rjcuff/woolly",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "woolly",
+        "local",
+        "memory",
+        "shared",
+        "all"
+      ],
+      "foundAt": "2026-11-10T19:07:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://birdspeech.mitpit.com",
+      "title": "Speech to Bird Song Converter",
+      "url": "https://birdspeech.mitpit.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "speech",
+        "bird",
+        "song",
+        "converter"
+      ],
+      "foundAt": "2026-10-25T15:51:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nouploadconverter.com",
+      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
+      "url": "https://nouploadconverter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "nouploadconverter",
+        "in-browser",
+        "file",
+        "converter",
+        "running"
+      ],
+      "foundAt": "2026-10-25T15:05:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
+      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "glm-5",
+        "flash",
+        "tensorfold",
+        "pipeline",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T16:58:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.book2speech.com",
+      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
+      "url": "https://www.book2speech.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "built",
+        "smart",
+        "audiobook",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T12:17:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.turboscribeai.org",
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "url": "https://www.turboscribeai.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "turboscribe",
+        "free",
+        "video",
+        "text",
+        "audio"
+      ],
+      "foundAt": "2026-10-18T05:55:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
+      ],
+      "foundAt": "2026-10-17T20:20:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://epub.ftak.net",
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf2epub",
+        "free",
+        "pdf",
+        "epub"
+      ],
+      "foundAt": "2026-10-16T12:53:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/davobene/migrateflows",
+      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
+      "url": "https://github.com/davobene/migrateflows",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "open-source",
+        "converter",
+        "pipedream",
+        "workflows"
+      ],
+      "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://calsee.tech",
       "title": "Show HN: Calsee – a calculator whose themes are generated from a single seed",
       "url": "https://calsee.tech",
@@ -1330,23 +1500,6 @@
         "tool"
       ],
       "foundAt": "2026-11-09T17:19:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://lecturetobook.com",
-      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
-      "url": "https://lecturetobook.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "convert",
-        "recorded",
-        "class",
-        "lectures"
-      ],
-      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2375,158 +2528,6 @@
         "eight"
       ],
       "foundAt": "2026-11-04T11:47:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Coding-Dev-Tools/engraphis",
-      "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
-      "url": "https://github.com/Coding-Dev-Tools/engraphis",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "engraphis",
-        "local-first",
-        "bi-temporal",
-        "memory",
-        "coding"
-      ],
-      "foundAt": "2026-11-04T04:52:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "title": "Anthropic launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "anthropic",
-        "launched",
-        "tools",
-        "show",
-        "companies"
-      ],
-      "foundAt": "2026-11-04T04:26:22.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
-      "title": "AI Replaces Tools,Not Worldviews:Why True Artistic Expression Won't Be Displaced",
-      "url": "https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "replaces",
-        "tools",
-        "not",
-        "worldviews",
-        "why"
-      ],
-      "foundAt": "2026-11-03T23:24:03.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://twitter.com/intology/status/2117642701890105725",
-      "title": "AI agents beating human made tools at molecular discovery",
-      "url": "https://twitter.com/intology/status/2117642701890105725",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "agents",
-        "beating",
-        "human",
-        "made",
-        "tools"
-      ],
-      "foundAt": "2026-11-03T20:14:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://hackerbyte.net",
-      "title": "Show HN: HackerByte – Finding promising AI stories by analyzing HN discussions",
-      "url": "https://hackerbyte.net",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hackerbyte",
-        "finding",
-        "promising",
-        "stories"
-      ],
-      "foundAt": "2026-11-03T19:51:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "title": "AI tool can predict cancer survival by a single patient selfie",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "tool",
-        "can",
-        "predict",
-        "cancer",
-        "survival"
-      ],
-      "foundAt": "2026-11-03T19:25:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-      "title": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "apple",
-        "launches",
-        "beta",
-        "versions",
-        "watch"
-      ],
-      "foundAt": "2026-11-03T18:59:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://leona.co.za",
-      "title": "Leona - AI Powered Career Toolkit",
-      "url": "https://leona.co.za",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "leona",
-        "powered",
-        "career",
-        "toolkit"
-      ],
-      "foundAt": "2026-11-03T18:09:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
-      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "binance",
-        "says",
-        "hackers",
-        "used",
-        "fake"
-      ],
-      "foundAt": "2026-11-03T17:44:26.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
