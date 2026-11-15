@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-14T09:05:44.153Z",
+  "updatedAt": "2026-11-15T09:36:52.822Z",
   "items": [
     {
-      "id": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "id": "https://www.mediaite.com/media/news/cnn-aviation-analyst-says-its-just-too-much-of-a-coincidence-faa-rolled-out-new-ai-traffic-tool-right-before-nationwide-comms-outage",
+      "title": "FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
+      "url": "https://www.mediaite.com/media/news/cnn-aviation-analyst-says-its-just-too-much-of-a-coincidence-faa-rolled-out-new-ai-traffic-tool-right-before-nationwide-comms-outage",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "faa",
-        "tees",
-        "tool",
-        "help",
-        "manage"
+        "rolled",
+        "out",
+        "new",
+        "traffic"
       ],
-      "foundAt": "2026-11-13T23:02:44.000Z",
+      "foundAt": "2026-11-14T15:15:13.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -32,6 +32,23 @@
         "traffic"
       ],
       "foundAt": "2026-11-13T21:35:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "faa",
+        "tees",
+        "tool",
+        "help",
+        "manage"
+      ],
+      "foundAt": "2026-11-13T23:02:44.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -66,23 +83,6 @@
         "emerging"
       ],
       "foundAt": "2026-11-13T17:45:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down",
-      "title": "I filed one complaint. An airport took its AI signer down",
-      "url": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "filed",
-        "one",
-        "complaint",
-        "airport",
-        "took"
-      ],
-      "foundAt": "2026-11-13T16:51:31.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -206,23 +206,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.heysenku.com",
-      "title": "Show HN: Senku, an AI agent that can control your phone in background",
-      "url": "https://www.heysenku.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "senku",
-        "agent",
-        "can",
-        "control"
-      ],
-      "foundAt": "2026-11-12T15:23:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://medium.com/@smoking2man/working-without-unnecessary-intermediaries-how-ai-is-changing-the-economics-of-software-tools-364087d37d33",
       "title": "Working Without Unnecessary Intermediaries: How AI Changing the Software Tools",
       "url": "https://medium.com/@smoking2man/working-without-unnecessary-intermediaries-how-ai-is-changing-the-economics-of-software-tools-364087d37d33",
@@ -274,23 +257,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
-      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
-      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "let",
-        "read",
-        "too",
-        "many",
-        "court"
-      ],
-      "foundAt": "2026-11-12T01:48:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/yakkomajuri/lynx",
       "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
       "url": "https://github.com/yakkomajuri/lynx",
@@ -321,6 +287,39 @@
         "independent"
       ],
       "foundAt": "2026-11-11T20:00:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "hacked",
+        "recon",
+        "jet",
+        "sports",
+        "glasses"
+      ],
+      "foundAt": "2026-11-14T19:01:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.geekabit.nl/projects/score-perfect-to-musicxml-converter",
+      "title": "Score Perfect to MusicXML Converter",
+      "url": "https://www.geekabit.nl/projects/score-perfect-to-musicxml-converter",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "score",
+        "perfect",
+        "musicxml",
+        "converter"
+      ],
+      "foundAt": "2026-11-14T14:17:51.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -393,6 +392,22 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/datalab-to/marker",
+      "title": "Convert PDF to Markdown and JSON",
+      "url": "https://github.com/datalab-to/marker",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "convert",
+        "pdf",
+        "markdown",
+        "json"
+      ],
+      "foundAt": "2026-11-12T07:50:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://simplecaseconverter.com",
       "title": "Show HN: Case converter with AP/APA/Chicago/MLA title case",
       "url": "https://simplecaseconverter.com",
@@ -423,6 +438,23 @@
         "plus"
       ],
       "foundAt": "2026-11-06T17:52:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://lecturetobook.com",
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "url": "https://lecturetobook.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "convert",
+        "recorded",
+        "class",
+        "lectures"
+      ],
+      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -529,174 +561,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://birdspeech.mitpit.com",
-      "title": "Speech to Bird Song Converter",
-      "url": "https://birdspeech.mitpit.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "speech",
-        "bird",
-        "song",
-        "converter"
-      ],
-      "foundAt": "2026-10-25T15:51:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nouploadconverter.com",
-      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
-      "url": "https://nouploadconverter.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "nouploadconverter",
-        "in-browser",
-        "file",
-        "converter",
-        "running"
-      ],
-      "foundAt": "2026-10-25T15:05:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
-      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "glm-5",
-        "flash",
-        "tensorfold",
-        "pipeline",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T16:58:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.book2speech.com",
-      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
-      "url": "https://www.book2speech.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "built",
-        "smart",
-        "audiobook",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T12:17:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "turboscribe",
-        "free",
-        "video",
-        "text",
-        "audio"
-      ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://startling-croissant-452d68.netlify.app",
-      "title": "I built a free image-to-PDF converter that runs in the browser",
-      "url": "https://startling-croissant-452d68.netlify.app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "free",
-        "image-to-pdf",
-        "converter",
-        "runs"
-      ],
-      "foundAt": "2026-10-17T20:20:49.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://epub.ftak.net",
-      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
-      "url": "https://epub.ftak.net",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf2epub",
-        "free",
-        "pdf",
-        "epub"
-      ],
-      "foundAt": "2026-10-16T12:53:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/davobene/migrateflows",
-      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
-      "url": "https://github.com/davobene/migrateflows",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "open-source",
-        "converter",
-        "pipedream",
-        "workflows"
-      ],
-      "foundAt": "2026-10-14T15:10:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://liters2gallons.com",
-      "title": "A simple liters to US and UK gallons converter",
-      "url": "https://liters2gallons.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "simple",
-        "liters",
-        "gallons",
-        "converter"
-      ],
-      "foundAt": "2026-10-10T11:28:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://toany.io",
-      "title": "I built a file converter that never sees your files",
-      "url": "https://toany.io",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "built",
-        "file",
-        "converter",
-        "never",
-        "sees"
-      ],
-      "foundAt": "2026-10-08T06:42:51.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://play.google.com/store/apps/details",
       "title": "Age Calculator",
       "url": "https://play.google.com/store/apps/details",
@@ -724,6 +588,23 @@
         "pdf"
       ],
       "foundAt": "2026-11-13T10:37:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/editmamei/editmamei",
+      "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
+      "url": "https://github.com/editmamei/editmamei",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "editmamei",
+        "giving",
+        "agents",
+        "access"
+      ],
+      "foundAt": "2026-11-11T13:14:56.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -860,6 +741,23 @@
         "states"
       ],
       "foundAt": "2026-11-09T13:43:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/lamarcol/NotBot",
+      "title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "url": "https://github.com/lamarcol/NotBot",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "first",
+        "project",
+        "ai-powered",
+        "financial"
+      ],
+      "foundAt": "2026-11-08T22:34:06.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1028,6 +926,238 @@
         "camping"
       ],
       "foundAt": "2026-11-02T07:25:50.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Igniaemage/Deadline-resp-Tracker-AI",
+      "title": "Deadline-resp-Tracker-AI",
+      "url": "https://api.github.com/repos/Igniaemage/Deadline-resp-Tracker-AI",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "deadline-resp-tracker-ai"
+      ],
+      "foundAt": "2026-11-14T11:31:43.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down",
+      "title": "I filed one complaint. An airport took its AI signer down",
+      "url": "https://www.novaracg.com/2026/10/26/i-filed-one-complaint-an-airport-took-its-ai-signer-down",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "filed",
+        "one",
+        "complaint",
+        "airport",
+        "took"
+      ],
+      "foundAt": "2026-11-13T16:51:31.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.heysenku.com",
+      "title": "Show HN: Senku, an AI agent that can control your phone in background",
+      "url": "https://www.heysenku.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "senku",
+        "agent",
+        "can",
+        "control"
+      ],
+      "foundAt": "2026-11-12T15:23:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
+      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "let",
+        "read",
+        "too",
+        "many",
+        "court"
+      ],
+      "foundAt": "2026-11-12T01:48:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://birdspeech.mitpit.com",
+      "title": "Speech to Bird Song Converter",
+      "url": "https://birdspeech.mitpit.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "speech",
+        "bird",
+        "song",
+        "converter"
+      ],
+      "foundAt": "2026-10-25T15:51:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://nouploadconverter.com",
+      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
+      "url": "https://nouploadconverter.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "nouploadconverter",
+        "in-browser",
+        "file",
+        "converter",
+        "running"
+      ],
+      "foundAt": "2026-10-25T15:05:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "title": "GLM-5.3-Flash TensorFold Pipeline and Converter",
+      "url": "https://github.com/yeabat8tcap/glm-5.3-flash-tensorfold",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "glm-5",
+        "flash",
+        "tensorfold",
+        "pipeline",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T16:58:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.book2speech.com",
+      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
+      "url": "https://www.book2speech.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "built",
+        "smart",
+        "audiobook",
+        "converter"
+      ],
+      "foundAt": "2026-10-18T12:17:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.turboscribeai.org",
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "url": "https://www.turboscribeai.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "turboscribe",
+        "free",
+        "video",
+        "text",
+        "audio"
+      ],
+      "foundAt": "2026-10-18T05:55:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://startling-croissant-452d68.netlify.app",
+      "title": "I built a free image-to-PDF converter that runs in the browser",
+      "url": "https://startling-croissant-452d68.netlify.app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "free",
+        "image-to-pdf",
+        "converter",
+        "runs"
+      ],
+      "foundAt": "2026-10-17T20:20:49.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://epub.ftak.net",
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pdf2epub",
+        "free",
+        "pdf",
+        "epub"
+      ],
+      "foundAt": "2026-10-16T12:53:18.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/davobene/migrateflows",
+      "title": "Show HN: Open-source converter from Pipedream workflows to n8n",
+      "url": "https://github.com/davobene/migrateflows",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "open-source",
+        "converter",
+        "pipedream",
+        "workflows"
+      ],
+      "foundAt": "2026-10-14T15:10:59.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://liters2gallons.com",
+      "title": "A simple liters to US and UK gallons converter",
+      "url": "https://liters2gallons.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "simple",
+        "liters",
+        "gallons",
+        "converter"
+      ],
+      "foundAt": "2026-10-10T11:28:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toany.io",
+      "title": "I built a file converter that never sees your files",
+      "url": "https://toany.io",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "built",
+        "file",
+        "converter",
+        "never",
+        "sees"
+      ],
+      "foundAt": "2026-10-08T06:42:51.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1251,23 +1381,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/editmamei/editmamei",
-      "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
-      "url": "https://github.com/editmamei/editmamei",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "editmamei",
-        "giving",
-        "agents",
-        "access"
-      ],
-      "foundAt": "2026-11-11T13:14:56.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://rankings.leffke.com/categories/deploy-observability",
       "title": "Deployment and observability tools for AI agents, scored",
       "url": "https://rankings.leffke.com/categories/deploy-observability",
@@ -1349,39 +1462,6 @@
         "effort"
       ],
       "foundAt": "2026-11-12T20:58:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/datalab-to/marker",
-      "title": "Convert PDF to Markdown and JSON",
-      "url": "https://github.com/datalab-to/marker",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "convert",
-        "pdf",
-        "markdown",
-        "json"
-      ],
-      "foundAt": "2026-11-12T07:50:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://lecturetobook.com",
-      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
-      "url": "https://lecturetobook.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "convert",
-        "recorded",
-        "class",
-        "lectures"
-      ],
-      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1768,23 +1848,6 @@
         "understand"
       ],
       "foundAt": "2026-10-29T17:49:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/lamarcol/NotBot",
-      "title": "Show HN: My first project, an AI-powered financial news analyzer",
-      "url": "https://github.com/lamarcol/NotBot",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "first",
-        "project",
-        "ai-powered",
-        "financial"
-      ],
-      "foundAt": "2026-11-08T22:34:06.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2457,74 +2520,6 @@
         "schools"
       ],
       "foundAt": "2026-11-05T01:52:52.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.benjamin.ie/blog/mentat",
-      "title": "Mentat: One memory for all my AI tools",
-      "url": "https://blog.benjamin.ie/blog/mentat",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "mentat",
-        "one",
-        "memory",
-        "all",
-        "tools"
-      ],
-      "foundAt": "2026-11-04T21:50:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://getchronosphere.com",
-      "title": "Show HN: Chronosphere, a tool for understanding large PRs",
-      "url": "https://getchronosphere.com",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "chronosphere",
-        "tool",
-        "understanding",
-        "large"
-      ],
-      "foundAt": "2026-11-04T21:48:18.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://ciphero.ai/cassandra/hn",
-      "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
-      "url": "https://ciphero.ai/cassandra/hn",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "cassandra",
-        "free",
-        "tool",
-        "check"
-      ],
-      "foundAt": "2026-11-04T18:19:46.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "title": "Free GH Action that converts Markdown to accessible PDF documents (PDF/UA-2)",
-      "url": "https://github.com/marketplace/actions/itext-markdown2pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "free",
-        "action",
-        "converts",
-        "markdown",
-        "accessible"
-      ],
-      "foundAt": "2026-10-22T13:03:41.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
