@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-11-15T09:36:52.822Z",
+  "updatedAt": "2026-11-16T09:54:36.605Z",
   "items": [
+    {
+      "id": "https://forenclarity.com/can-you-trust-ai-cybersecurity-tools",
+      "title": "Can You Trust AI Cybersecurity Tools?",
+      "url": "https://forenclarity.com/can-you-trust-ai-cybersecurity-tools",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "can",
+        "you",
+        "trust",
+        "cybersecurity",
+        "tools"
+      ],
+      "foundAt": "2026-11-16T07:12:11.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://toolifyhub.tools/tools/background-remover",
+      "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+      "url": "https://toolifyhub.tools/tools/background-remover",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "free",
+        "background",
+        "remover",
+        "local"
+      ],
+      "foundAt": "2026-11-16T04:01:19.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.youtube.com/watch",
+      "title": "Lego Analog calculator (BDP) [video]",
+      "url": "https://www.youtube.com/watch",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "lego",
+        "analog",
+        "calculator",
+        "bdp",
+        "video"
+      ],
+      "foundAt": "2026-10-03T12:07:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://pizza.hertzbeat.com",
+      "title": "Show HN: Pizza – An event-driven AI agent, no while true",
+      "url": "https://pizza.hertzbeat.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "pizza",
+        "event-driven",
+        "agent",
+        "while"
+      ],
+      "foundAt": "2026-11-15T16:04:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Scronkfinkle/byob",
+      "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+      "url": "https://github.com/Scronkfinkle/byob",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "local-first",
+        "agent",
+        "desktop",
+        "electron"
+      ],
+      "foundAt": "2026-11-15T14:52:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.mediaite.com/media/news/cnn-aviation-analyst-says-its-just-too-much-of-a-coincidence-faa-rolled-out-new-ai-traffic-tool-right-before-nationwide-comms-outage",
       "title": "FAA Rolled Out New AI Traffic Tool Right Before Nationwide Ground Stop",
@@ -274,19 +359,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://harboriq.co",
-      "title": "Show HN: A free CRM with AI tools for independent insurance agencies",
-      "url": "https://harboriq.co",
+      "id": "https://galleries.artfish.ai/aquarium",
+      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
+      "url": "https://galleries.artfish.ai/aquarium",
       "source": "Hacker News",
       "category": "AI工具",
       "keywords": [
         "show",
-        "free",
-        "crm",
-        "tools",
-        "independent"
+        "aquarium",
+        "pick",
+        "your",
+        "favorite"
       ],
-      "foundAt": "2026-11-11T20:00:42.000Z",
+      "foundAt": "2026-11-16T01:56:34.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -392,6 +477,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
+      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
+      "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "dougan",
+        "leak",
+        "exposes",
+        "concerted",
+        "effort"
+      ],
+      "foundAt": "2026-11-12T20:58:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://github.com/datalab-to/marker",
       "title": "Convert PDF to Markdown and JSON",
       "url": "https://github.com/datalab-to/marker",
@@ -404,6 +506,23 @@
         "json"
       ],
       "foundAt": "2026-11-12T07:50:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/hubzoid/hubzoid",
+      "title": "Show HN: Hubzoid – Turns a folder of Markdown into an AI agent your team can use",
+      "url": "https://github.com/hubzoid/hubzoid",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "hubzoid",
+        "turns",
+        "folder",
+        "markdown"
+      ],
+      "foundAt": "2026-11-11T13:50:44.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -493,6 +612,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
+      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "pptx-to-pdf",
+        "convert",
+        "powerpoint",
+        "pdf"
+      ],
+      "foundAt": "2026-11-04T01:30:00.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://minimax-converter.com",
       "title": "A Swiss army knife file converter",
       "url": "https://minimax-converter.com",
@@ -506,57 +642,6 @@
         "converter"
       ],
       "foundAt": "2026-09-29T09:19:42.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/orkunisitmak/nashi-app",
-      "title": "Nashi: Open-source file converter and editor app with a drag-wheel interaction",
-      "url": "https://github.com/orkunisitmak/nashi-app",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "nashi",
-        "open-source",
-        "file",
-        "converter",
-        "editor"
-      ],
-      "foundAt": "2026-11-01T23:28:02.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://dockshift.org",
-      "title": "Show HN: DockShift – In-Browser Docker Run, Compose, and K8s Converter",
-      "url": "https://dockshift.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "dockshift",
-        "in-browser",
-        "docker",
-        "run"
-      ],
-      "foundAt": "2026-10-30T03:41:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/sudo-py-dev/fmx",
-      "title": "FMX The ultimate cross-platform media converter built with Rust and egui",
-      "url": "https://github.com/sudo-py-dev/fmx",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "fmx",
-        "ultimate",
-        "cross-platform",
-        "media",
-        "converter"
-      ],
-      "foundAt": "2026-10-29T19:02:57.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -811,23 +896,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://www.youtube.com/watch",
-      "title": "Lego Analog calculator (BDP) [video]",
-      "url": "https://www.youtube.com/watch",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "lego",
-        "analog",
-        "calculator",
-        "bdp",
-        "video"
-      ],
-      "foundAt": "2026-10-03T12:07:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://instantfreetools.com/business-days-calculator",
       "title": "Show HN: Business days calculator that shows which days it skipped",
       "url": "https://instantfreetools.com/business-days-calculator",
@@ -940,6 +1008,74 @@
       ],
       "foundAt": "2026-11-14T11:31:43.000Z",
       "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://harboriq.co",
+      "title": "Show HN: A free CRM with AI tools for independent insurance agencies",
+      "url": "https://harboriq.co",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "free",
+        "crm",
+        "tools",
+        "independent"
+      ],
+      "foundAt": "2026-11-11T20:00:42.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/orkunisitmak/nashi-app",
+      "title": "Nashi: Open-source file converter and editor app with a drag-wheel interaction",
+      "url": "https://github.com/orkunisitmak/nashi-app",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "nashi",
+        "open-source",
+        "file",
+        "converter",
+        "editor"
+      ],
+      "foundAt": "2026-11-01T23:28:02.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://dockshift.org",
+      "title": "Show HN: DockShift – In-Browser Docker Run, Compose, and K8s Converter",
+      "url": "https://dockshift.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "dockshift",
+        "in-browser",
+        "docker",
+        "run"
+      ],
+      "foundAt": "2026-10-30T03:41:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/sudo-py-dev/fmx",
+      "title": "FMX The ultimate cross-platform media converter built with Rust and egui",
+      "url": "https://github.com/sudo-py-dev/fmx",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "fmx",
+        "ultimate",
+        "cross-platform",
+        "media",
+        "converter"
+      ],
+      "foundAt": "2026-10-29T19:02:57.000Z",
+      "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
@@ -1364,23 +1500,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/hubzoid/hubzoid",
-      "title": "Show HN: Hubzoid – Turns a folder of Markdown into an AI agent your team can use",
-      "url": "https://github.com/hubzoid/hubzoid",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hubzoid",
-        "turns",
-        "folder",
-        "markdown"
-      ],
-      "foundAt": "2026-11-11T13:50:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://rankings.leffke.com/categories/deploy-observability",
       "title": "Deployment and observability tools for AI agents, scored",
       "url": "https://rankings.leffke.com/categories/deploy-observability",
@@ -1445,23 +1564,6 @@
         "creative"
       ],
       "foundAt": "2026-11-11T01:15:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
-      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
-      "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "dougan",
-        "leak",
-        "exposes",
-        "concerted",
-        "effort"
-      ],
-      "foundAt": "2026-11-12T20:58:48.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1814,23 +1916,6 @@
         "tool"
       ],
       "foundAt": "2026-11-09T17:19:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "title": "Show HN:Pptx-to-Pdf – Convert PowerPoint to PDF in Node.js Without LibreOffice",
-      "url": "https://github.com/ahmedessam090/pptx-to-pdf",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pptx-to-pdf",
-        "convert",
-        "powerpoint",
-        "pdf"
-      ],
-      "foundAt": "2026-11-04T01:30:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2435,91 +2520,6 @@
         "learned"
       ],
       "foundAt": "2026-11-06T19:12:30.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
-      "title": "Show HN: PDF Reading, Annotation and Signing Inside Your Markdown Notes",
-      "url": "https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "pdf",
-        "reading",
-        "annotation",
-        "signing"
-      ],
-      "foundAt": "2026-11-05T15:16:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tryrevline.com",
-      "title": "Show HN: Revline – An open-source AI-native video editor",
-      "url": "https://tryrevline.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "revline",
-        "open-source",
-        "ai-native",
-        "video"
-      ],
-      "foundAt": "2026-11-05T15:06:16.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://nico.app",
-      "title": "Show HN: Nico – a two-agent type personal agent on your Mac",
-      "url": "https://nico.app",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "nico",
-        "two-agent",
-        "type",
-        "personal"
-      ],
-      "foundAt": "2026-11-05T11:21:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "nvidia",
-        "eyes",
-        "converting",
-        "old",
-        "nuclear"
-      ],
-      "foundAt": "2026-10-25T22:11:27.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
-      "title": "Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Search",
-      "url": "https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "google",
-        "says",
-        "k-12",
-        "students",
-        "schools"
-      ],
-      "foundAt": "2026-11-05T01:52:52.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
