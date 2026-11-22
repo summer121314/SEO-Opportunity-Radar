@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-11-21T09:57:37.339Z",
+  "updatedAt": "2026-11-22T09:55:26.679Z",
   "items": [
+    {
+      "id": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+      "title": "The day the Riemann hypothesis fell to AI, I took my son for a walk",
+      "url": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "day",
+        "riemann",
+        "hypothesis",
+        "fell",
+        "took"
+      ],
+      "foundAt": "2026-11-22T08:50:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://madgpt1.github.io/prompt-upgrader",
+      "title": "Show HN: Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts",
+      "url": "https://madgpt1.github.io/prompt-upgrader",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "prompt",
+        "upgrader",
+        "no-signup",
+        "tool"
+      ],
+      "foundAt": "2026-11-22T06:41:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://klistra.ai",
+      "title": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
+      "url": "https://klistra.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "klistra",
+        "complete",
+        "studio",
+        "spec-driven"
+      ],
+      "foundAt": "2026-11-18T16:58:53.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://unmark.grandimam.com",
+      "title": "Show HN: Stop applying to jobs using AI-generated resume",
+      "url": "https://unmark.grandimam.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "stop",
+        "applying",
+        "jobs",
+        "using"
+      ],
+      "foundAt": "2026-11-21T10:21:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://github.com/Musset-App/musset",
       "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
@@ -302,102 +370,16 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://disposable.xify.kr/en",
-      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
-      "url": "https://disposable.xify.kr/en",
+      "id": "https://play.google.com/store/apps/details",
+      "title": "Age Calculator",
+      "url": "https://play.google.com/store/apps/details",
       "source": "Hacker News",
-      "category": "AI工具",
+      "category": "计算器",
       "keywords": [
-        "show",
-        "disposable",
-        "share",
-        "small",
-        "ai-made"
+        "age",
+        "calculator"
       ],
-      "foundAt": "2026-11-19T03:02:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://orthosetter.com",
-      "title": "Show HN: A deterministic typesetting tool for Orthodox Music",
-      "url": "https://orthosetter.com",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "deterministic",
-        "typesetting",
-        "tool",
-        "orthodox"
-      ],
-      "foundAt": "2026-11-18T18:34:51.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://klistra.ai",
-      "title": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
-      "url": "https://klistra.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "klistra",
-        "complete",
-        "studio",
-        "spec-driven"
-      ],
-      "foundAt": "2026-11-18T16:58:53.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://assess.poh.org",
-      "title": "Show HN: Can an AI Agent Bypass Your Website Security?",
-      "url": "https://assess.poh.org",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "can",
-        "agent",
-        "bypass",
-        "your"
-      ],
-      "foundAt": "2026-11-18T16:40:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/taoeffect/dez",
-      "title": "Show HN: Dez – plaintext open source AI multimedia studio",
-      "url": "https://github.com/taoeffect/dez",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "dez",
-        "plaintext",
-        "source",
-        "multimedia"
-      ],
-      "foundAt": "2026-11-18T16:01:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.modulos.ai/tools/chief-ai-officer",
-      "title": "Chief AI Officer Game",
-      "url": "https://www.modulos.ai/tools/chief-ai-officer",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "chief",
-        "officer",
-        "game"
-      ],
-      "foundAt": "2026-11-18T15:46:00.000Z",
+      "foundAt": "2026-11-13T15:59:33.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -419,6 +401,23 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://mailtopdf.top/en",
+      "title": "Show HN: Convert EML/MBOX mailboxes to PDF in the browser, no upload",
+      "url": "https://mailtopdf.top/en",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "convert",
+        "eml",
+        "mbox",
+        "mailboxes"
+      ],
+      "foundAt": "2026-11-18T01:39:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://www.aivideototext.org",
       "title": "AI Video to Text – Free Online Video to Text and Audio to Text Converter",
       "url": "https://www.aivideototext.org",
@@ -432,6 +431,57 @@
         "audio"
       ],
       "foundAt": "2026-11-16T14:27:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://galleries.artfish.ai/aquarium",
+      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
+      "url": "https://galleries.artfish.ai/aquarium",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "aquarium",
+        "pick",
+        "your",
+        "favorite"
+      ],
+      "foundAt": "2026-11-16T01:56:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.youtube.com/watch",
+      "title": "Lego Analog calculator (BDP) [video]",
+      "url": "https://www.youtube.com/watch",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "lego",
+        "analog",
+        "calculator",
+        "bdp",
+        "video"
+      ],
+      "foundAt": "2026-10-03T12:07:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "hacked",
+        "recon",
+        "jet",
+        "sports",
+        "glasses"
+      ],
+      "foundAt": "2026-11-14T19:01:34.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -520,6 +570,39 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
+      "id": "https://github.com/datalab-to/marker",
+      "title": "Convert PDF to Markdown and JSON",
+      "url": "https://github.com/datalab-to/marker",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "convert",
+        "pdf",
+        "markdown",
+        "json"
+      ],
+      "foundAt": "2026-11-12T07:50:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/hubzoid/hubzoid",
+      "title": "Show HN: Hubzoid – Turns a folder of Markdown into an AI agent your team can use",
+      "url": "https://github.com/hubzoid/hubzoid",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "hubzoid",
+        "turns",
+        "folder",
+        "markdown"
+      ],
+      "foundAt": "2026-11-11T13:50:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
       "id": "https://simplecaseconverter.com",
       "title": "Show HN: Case converter with AP/APA/Chicago/MLA title case",
       "url": "https://simplecaseconverter.com",
@@ -550,6 +633,508 @@
         "plus"
       ],
       "foundAt": "2026-11-06T17:52:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://lecturetobook.com",
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "url": "https://lecturetobook.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "convert",
+        "recorded",
+        "class",
+        "lectures"
+      ],
+      "foundAt": "2026-11-06T00:52:05.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/gabrielmfern/forbear",
+      "title": "Show HN: Forbear - React-style native UI in C; a calculator in 3.6MB, 10MB RAM",
+      "url": "https://github.com/gabrielmfern/forbear",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "forbear",
+        "react-style",
+        "native",
+        "calculator"
+      ],
+      "foundAt": "2026-11-19T18:19:48.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://vyroclipping.org",
+      "title": "Show HN: Vyro Clipping Calculator – what your views actually pay",
+      "url": "https://vyroclipping.org",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "vyro",
+        "clipping",
+        "calculator",
+        "what"
+      ],
+      "foundAt": "2026-11-17T22:51:06.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://llmcost.pitropatro.com",
+      "title": "Show HN: LLM cost calculator for agent runs (45 models, prompt caching included)",
+      "url": "https://llmcost.pitropatro.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "llm",
+        "cost",
+        "calculator",
+        "agent"
+      ],
+      "foundAt": "2026-11-17T17:09:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "brazil",
+        "tax",
+        "authority",
+        "open-sources",
+        "its"
+      ],
+      "foundAt": "2026-11-17T15:22:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://forage.ai/tools/tco-calculator",
+      "title": "Show HN: Calculator for comparing data extraction quotes, cost per usable record",
+      "url": "https://forage.ai/tools/tco-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "calculator",
+        "comparing",
+        "data",
+        "extraction"
+      ],
+      "foundAt": "2026-11-13T19:01:32.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tooltea.com",
+      "title": "Show HN: Free Online Tools for PDF, Image, Video, Translation and Calculators",
+      "url": "https://tooltea.com",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "free",
+        "online",
+        "tools",
+        "pdf"
+      ],
+      "foundAt": "2026-11-13T10:37:58.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://calc-arr.ardentfoundry.com",
+      "title": "Pilot Purgatory Calculator – how much ARR is trapped in stalled pilots?",
+      "url": "https://calc-arr.ardentfoundry.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "pilot",
+        "purgatory",
+        "calculator",
+        "how",
+        "much"
+      ],
+      "foundAt": "2026-11-11T08:32:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://storiesden.com/trim-size-calculator",
+      "title": "A trim size and margin calculator for self-published books",
+      "url": "https://storiesden.com/trim-size-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "trim",
+        "size",
+        "margin",
+        "calculator",
+        "self-published"
+      ],
+      "foundAt": "2026-10-22T21:03:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://doesitaddup.com/trip-cost",
+      "title": "How HN: Trip cost calculator that adds the fees a vacation quote leaves out",
+      "url": "https://doesitaddup.com/trip-cost",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "how",
+        "trip",
+        "cost",
+        "calculator",
+        "adds"
+      ],
+      "foundAt": "2026-11-10T23:39:40.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://somaai.earth/ai-footprint/calculator",
+      "title": "Show HN: Estimate the carbon footprint of your company's AI use (open data)",
+      "url": "https://somaai.earth/ai-footprint/calculator",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "estimate",
+        "carbon",
+        "footprint",
+        "your"
+      ],
+      "foundAt": "2026-11-10T15:57:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/alekseev04051988-blip/ai-cost-calculator",
+      "title": "Open-Source 2026 AI Cloud GPU and Scraping Proxy Pool Cost Calculator",
+      "url": "https://github.com/alekseev04051988-blip/ai-cost-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "open-source",
+        "cloud",
+        "gpu",
+        "scraping",
+        "proxy"
+      ],
+      "foundAt": "2026-11-10T13:54:24.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fetchindex.com/calculator",
+      "title": "Show HN: FetchIndex – cost calculator for 19 scraping and search APIs",
+      "url": "https://fetchindex.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "fetchindex",
+        "cost",
+        "calculator",
+        "scraping"
+      ],
+      "foundAt": "2026-11-09T22:54:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://fastidious-crisp-cee4e9.netlify.app",
+      "title": "Free Local-first KSeF 2027 and tax limit calculator for Poland",
+      "url": "https://fastidious-crisp-cee4e9.netlify.app",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "free",
+        "local-first",
+        "ksef",
+        "tax",
+        "limit"
+      ],
+      "foundAt": "2026-11-09T13:54:13.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://netpaycheckcalc.com",
+      "title": "Take-home pay calculator for all 50 US states (static, no signup)",
+      "url": "https://netpaycheckcalc.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "take-home",
+        "pay",
+        "calculator",
+        "all",
+        "states"
+      ],
+      "foundAt": "2026-11-09T13:43:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://pulse.llmendpoint.com/mercury-3/calculator",
+      "title": "Show HN: Mercury 3 cost calculator (launch promo vs. list pricing)",
+      "url": "https://pulse.llmendpoint.com/mercury-3/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "mercury",
+        "cost",
+        "calculator",
+        "launch"
+      ],
+      "foundAt": "2026-11-06T14:03:21.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.costofknowledge.org",
+      "title": "The Cost of Knowledge Calculator",
+      "url": "https://www.costofknowledge.org",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "cost",
+        "knowledge",
+        "calculator"
+      ],
+      "foundAt": "2026-11-05T20:19:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://unitstodraw.com",
+      "title": "Show HN: Units to Draw – a math-only syringe units calculator",
+      "url": "https://unitstodraw.com",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "units",
+        "draw",
+        "math-only",
+        "syringe"
+      ],
+      "foundAt": "2026-11-05T12:45:55.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://instantfreetools.com/business-days-calculator",
+      "title": "Show HN: Business days calculator that shows which days it skipped",
+      "url": "https://instantfreetools.com/business-days-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "business",
+        "days",
+        "calculator",
+        "shows"
+      ],
+      "foundAt": "2026-11-03T22:07:37.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://repolve.com/calculator",
+      "title": "Repolve – Free strength calculator with muscle-group estimates",
+      "url": "https://repolve.com/calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "repolve",
+        "free",
+        "strength",
+        "calculator",
+        "muscle-group"
+      ],
+      "foundAt": "2026-11-03T11:21:47.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://apps.apple.com/us/app/hvac-load-calculator-manual-j/id6824263129",
+      "title": "Show HN: I Built an HVAC Load Calculator Manual J",
+      "url": "https://apps.apple.com/us/app/hvac-load-calculator-manual-j/id6824263129",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "built",
+        "hvac",
+        "load",
+        "calculator"
+      ],
+      "foundAt": "2026-11-02T21:21:01.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.paidintoken.com/ai/hardware",
+      "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
+      "url": "https://www.paidintoken.com/ai/hardware",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "paidintoken",
+        "llm",
+        "token",
+        "pricing",
+        "local"
+      ],
+      "foundAt": "2026-11-02T20:12:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://techfuelhq.com/tools/transfer-time-calculator",
+      "title": "Transfer-time calculator with network efficiency and disk-speed bottlenecks",
+      "url": "https://techfuelhq.com/tools/transfer-time-calculator",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "transfer-time",
+        "calculator",
+        "network",
+        "efficiency",
+        "disk-speed"
+      ],
+      "foundAt": "2026-11-02T19:47:20.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://camppowercalc.com/en/calculator/battery-runtime",
+      "title": "Show HN: A battery runtime calculator for camping and off-grid loads",
+      "url": "https://camppowercalc.com/en/calculator/battery-runtime",
+      "source": "Hacker News",
+      "category": "计算器",
+      "keywords": [
+        "show",
+        "battery",
+        "runtime",
+        "calculator",
+        "camping"
+      ],
+      "foundAt": "2026-11-02T07:25:50.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/igwei/topaz-video-ai-win",
+      "title": "topaz-video-ai-win",
+      "url": "https://api.github.com/repos/igwei/topaz-video-ai-win",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "topaz-video-ai-win"
+      ],
+      "foundAt": "2026-11-21T15:49:42.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://disposable.xify.kr/en",
+      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
+      "url": "https://disposable.xify.kr/en",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "disposable",
+        "share",
+        "small",
+        "ai-made"
+      ],
+      "foundAt": "2026-11-19T03:02:34.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://orthosetter.com",
+      "title": "Show HN: A deterministic typesetting tool for Orthodox Music",
+      "url": "https://orthosetter.com",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "deterministic",
+        "typesetting",
+        "tool",
+        "orthodox"
+      ],
+      "foundAt": "2026-11-18T18:34:51.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://assess.poh.org",
+      "title": "Show HN: Can an AI Agent Bypass Your Website Security?",
+      "url": "https://assess.poh.org",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "can",
+        "agent",
+        "bypass",
+        "your"
+      ],
+      "foundAt": "2026-11-18T16:40:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/taoeffect/dez",
+      "title": "Show HN: Dez – plaintext open source AI multimedia studio",
+      "url": "https://github.com/taoeffect/dez",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "dez",
+        "plaintext",
+        "source",
+        "multimedia"
+      ],
+      "foundAt": "2026-11-18T16:01:28.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.modulos.ai/tools/chief-ai-officer",
+      "title": "Chief AI Officer Game",
+      "url": "https://www.modulos.ai/tools/chief-ai-officer",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "chief",
+        "officer",
+        "game"
+      ],
+      "foundAt": "2026-11-18T15:46:00.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -723,122 +1308,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/gabrielmfern/forbear",
-      "title": "Show HN: Forbear - React-style native UI in C; a calculator in 3.6MB, 10MB RAM",
-      "url": "https://github.com/gabrielmfern/forbear",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "forbear",
-        "react-style",
-        "native",
-        "calculator"
-      ],
-      "foundAt": "2026-11-19T18:19:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://vyroclipping.org",
-      "title": "Show HN: Vyro Clipping Calculator – what your views actually pay",
-      "url": "https://vyroclipping.org",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "vyro",
-        "clipping",
-        "calculator",
-        "what"
-      ],
-      "foundAt": "2026-11-17T22:51:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://llmcost.pitropatro.com",
-      "title": "Show HN: LLM cost calculator for agent runs (45 models, prompt caching included)",
-      "url": "https://llmcost.pitropatro.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "llm",
-        "cost",
-        "calculator",
-        "agent"
-      ],
-      "foundAt": "2026-11-17T17:09:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "brazil",
-        "tax",
-        "authority",
-        "open-sources",
-        "its"
-      ],
-      "foundAt": "2026-11-17T15:22:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://forage.ai/tools/tco-calculator",
-      "title": "Show HN: Calculator for comparing data extraction quotes, cost per usable record",
-      "url": "https://forage.ai/tools/tco-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "calculator",
-        "comparing",
-        "data",
-        "extraction"
-      ],
-      "foundAt": "2026-11-13T19:01:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://play.google.com/store/apps/details",
-      "title": "Age Calculator",
-      "url": "https://play.google.com/store/apps/details",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "age",
-        "calculator"
-      ],
-      "foundAt": "2026-11-13T15:59:33.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tooltea.com",
-      "title": "Show HN: Free Online Tools for PDF, Image, Video, Translation and Calculators",
-      "url": "https://tooltea.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "free",
-        "online",
-        "tools",
-        "pdf"
-      ],
-      "foundAt": "2026-11-13T10:37:58.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/editmamei/editmamei",
       "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
       "url": "https://github.com/editmamei/editmamei",
@@ -856,142 +1325,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://calc-arr.ardentfoundry.com",
-      "title": "Pilot Purgatory Calculator – how much ARR is trapped in stalled pilots?",
-      "url": "https://calc-arr.ardentfoundry.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "pilot",
-        "purgatory",
-        "calculator",
-        "how",
-        "much"
-      ],
-      "foundAt": "2026-11-11T08:32:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://storiesden.com/trim-size-calculator",
-      "title": "A trim size and margin calculator for self-published books",
-      "url": "https://storiesden.com/trim-size-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "trim",
-        "size",
-        "margin",
-        "calculator",
-        "self-published"
-      ],
-      "foundAt": "2026-10-22T21:03:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://doesitaddup.com/trip-cost",
-      "title": "How HN: Trip cost calculator that adds the fees a vacation quote leaves out",
-      "url": "https://doesitaddup.com/trip-cost",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "how",
-        "trip",
-        "cost",
-        "calculator",
-        "adds"
-      ],
-      "foundAt": "2026-11-10T23:39:40.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://somaai.earth/ai-footprint/calculator",
-      "title": "Show HN: Estimate the carbon footprint of your company's AI use (open data)",
-      "url": "https://somaai.earth/ai-footprint/calculator",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "estimate",
-        "carbon",
-        "footprint",
-        "your"
-      ],
-      "foundAt": "2026-11-10T15:57:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/alekseev04051988-blip/ai-cost-calculator",
-      "title": "Open-Source 2026 AI Cloud GPU and Scraping Proxy Pool Cost Calculator",
-      "url": "https://github.com/alekseev04051988-blip/ai-cost-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "open-source",
-        "cloud",
-        "gpu",
-        "scraping",
-        "proxy"
-      ],
-      "foundAt": "2026-11-10T13:54:24.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://fetchindex.com/calculator",
-      "title": "Show HN: FetchIndex – cost calculator for 19 scraping and search APIs",
-      "url": "https://fetchindex.com/calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "fetchindex",
-        "cost",
-        "calculator",
-        "scraping"
-      ],
-      "foundAt": "2026-11-09T22:54:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://fastidious-crisp-cee4e9.netlify.app",
-      "title": "Free Local-first KSeF 2027 and tax limit calculator for Poland",
-      "url": "https://fastidious-crisp-cee4e9.netlify.app",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "free",
-        "local-first",
-        "ksef",
-        "tax",
-        "limit"
-      ],
-      "foundAt": "2026-11-09T13:54:13.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://netpaycheckcalc.com",
-      "title": "Take-home pay calculator for all 50 US states (static, no signup)",
-      "url": "https://netpaycheckcalc.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "take-home",
-        "pay",
-        "calculator",
-        "all",
-        "states"
-      ],
-      "foundAt": "2026-11-09T13:43:28.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/lamarcol/NotBot",
       "title": "Show HN: My first project, an AI-powered financial news analyzer",
       "url": "https://github.com/lamarcol/NotBot",
@@ -1005,38 +1338,6 @@
         "financial"
       ],
       "foundAt": "2026-11-08T22:34:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://pulse.llmendpoint.com/mercury-3/calculator",
-      "title": "Show HN: Mercury 3 cost calculator (launch promo vs. list pricing)",
-      "url": "https://pulse.llmendpoint.com/mercury-3/calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "mercury",
-        "cost",
-        "calculator",
-        "launch"
-      ],
-      "foundAt": "2026-11-06T14:03:21.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.costofknowledge.org",
-      "title": "The Cost of Knowledge Calculator",
-      "url": "https://www.costofknowledge.org",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "cost",
-        "knowledge",
-        "calculator"
-      ],
-      "foundAt": "2026-11-05T20:19:29.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1189,74 +1490,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://mailtopdf.top/en",
-      "title": "Show HN: Convert EML/MBOX mailboxes to PDF in the browser, no upload",
-      "url": "https://mailtopdf.top/en",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "convert",
-        "eml",
-        "mbox",
-        "mailboxes"
-      ],
-      "foundAt": "2026-11-18T01:39:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://galleries.artfish.ai/aquarium",
-      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
-      "url": "https://galleries.artfish.ai/aquarium",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "aquarium",
-        "pick",
-        "your",
-        "favorite"
-      ],
-      "foundAt": "2026-11-16T01:56:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.youtube.com/watch",
-      "title": "Lego Analog calculator (BDP) [video]",
-      "url": "https://www.youtube.com/watch",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "lego",
-        "analog",
-        "calculator",
-        "bdp",
-        "video"
-      ],
-      "foundAt": "2026-10-03T12:07:12.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
-      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
-      "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "hacked",
-        "recon",
-        "jet",
-        "sports",
-        "glasses"
-      ],
-      "foundAt": "2026-11-14T19:01:34.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
       "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
       "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
@@ -1270,56 +1503,6 @@
         "effort"
       ],
       "foundAt": "2026-11-12T20:58:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/datalab-to/marker",
-      "title": "Convert PDF to Markdown and JSON",
-      "url": "https://github.com/datalab-to/marker",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "convert",
-        "pdf",
-        "markdown",
-        "json"
-      ],
-      "foundAt": "2026-11-12T07:50:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/hubzoid/hubzoid",
-      "title": "Show HN: Hubzoid – Turns a folder of Markdown into an AI agent your team can use",
-      "url": "https://github.com/hubzoid/hubzoid",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hubzoid",
-        "turns",
-        "folder",
-        "markdown"
-      ],
-      "foundAt": "2026-11-11T13:50:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://lecturetobook.com",
-      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
-      "url": "https://lecturetobook.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "convert",
-        "recorded",
-        "class",
-        "lectures"
-      ],
-      "foundAt": "2026-11-06T00:52:05.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1354,125 +1537,6 @@
         "generator"
       ],
       "foundAt": "2026-11-19T15:00:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://unitstodraw.com",
-      "title": "Show HN: Units to Draw – a math-only syringe units calculator",
-      "url": "https://unitstodraw.com",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "units",
-        "draw",
-        "math-only",
-        "syringe"
-      ],
-      "foundAt": "2026-11-05T12:45:55.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://instantfreetools.com/business-days-calculator",
-      "title": "Show HN: Business days calculator that shows which days it skipped",
-      "url": "https://instantfreetools.com/business-days-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "business",
-        "days",
-        "calculator",
-        "shows"
-      ],
-      "foundAt": "2026-11-03T22:07:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://repolve.com/calculator",
-      "title": "Repolve – Free strength calculator with muscle-group estimates",
-      "url": "https://repolve.com/calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "repolve",
-        "free",
-        "strength",
-        "calculator",
-        "muscle-group"
-      ],
-      "foundAt": "2026-11-03T11:21:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://apps.apple.com/us/app/hvac-load-calculator-manual-j/id6824263129",
-      "title": "Show HN: I Built an HVAC Load Calculator Manual J",
-      "url": "https://apps.apple.com/us/app/hvac-load-calculator-manual-j/id6824263129",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "built",
-        "hvac",
-        "load",
-        "calculator"
-      ],
-      "foundAt": "2026-11-02T21:21:01.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.paidintoken.com/ai/hardware",
-      "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
-      "url": "https://www.paidintoken.com/ai/hardware",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "paidintoken",
-        "llm",
-        "token",
-        "pricing",
-        "local"
-      ],
-      "foundAt": "2026-11-02T20:12:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://techfuelhq.com/tools/transfer-time-calculator",
-      "title": "Transfer-time calculator with network efficiency and disk-speed bottlenecks",
-      "url": "https://techfuelhq.com/tools/transfer-time-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "transfer-time",
-        "calculator",
-        "network",
-        "efficiency",
-        "disk-speed"
-      ],
-      "foundAt": "2026-11-02T19:47:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://camppowercalc.com/en/calculator/battery-runtime",
-      "title": "Show HN: A battery runtime calculator for camping and off-grid loads",
-      "url": "https://camppowercalc.com/en/calculator/battery-runtime",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "battery",
-        "runtime",
-        "calculator",
-        "camping"
-      ],
-      "foundAt": "2026-11-02T07:25:50.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2453,74 +2517,6 @@
         "control"
       ],
       "foundAt": "2026-11-12T15:23:06.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
-      "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
-      "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "let",
-        "read",
-        "too",
-        "many",
-        "court"
-      ],
-      "foundAt": "2026-11-12T01:48:59.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://ieeexplore.ieee.org/abstract/document/10301429",
-      "title": "Opportunities for Scientists and Engineers to Learn Programming Using AI Tools",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10301429",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "opportunities",
-        "scientists",
-        "engineers",
-        "learn",
-        "programming"
-      ],
-      "foundAt": "2026-11-11T16:22:32.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/klad-app/klad",
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "klad",
-        "paint",
-        "app",
-        "your"
-      ],
-      "foundAt": "2026-11-11T16:00:50.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://heresmyai.com",
-      "title": "Show HN: Here's My AI – Find the AI tools worth your time",
-      "url": "https://heresmyai.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "here",
-        "find",
-        "tools",
-        "worth"
-      ],
-      "foundAt": "2026-11-11T14:07:15.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
