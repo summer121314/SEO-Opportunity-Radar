@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-11-27T10:59:48.281Z",
+  "updatedAt": "2026-11-28T10:37:30.657Z",
   "items": [
+    {
+      "id": "https://fleetlayer.ai",
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "url": "https://fleetlayer.ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "fleetlayer",
+        "framework",
+        "running",
+        "many"
+      ],
+      "foundAt": "2026-11-28T08:37:09.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://ristonthomas.com/essays/to_think_or_not_to_think",
+      "title": "To Think or Not to Think: AI tools and the loss of engineering fundamentals",
+      "url": "https://ristonthomas.com/essays/to_think_or_not_to_think",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "think",
+        "not",
+        "tools",
+        "loss",
+        "engineering"
+      ],
+      "foundAt": "2026-11-28T07:03:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "woman",
+        "evicted",
+        "after",
+        "landlord",
+        "assistant"
+      ],
+      "foundAt": "2026-11-28T01:32:56.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "hackers",
+        "china",
+        "korea",
+        "using",
+        "artex"
+      ],
+      "foundAt": "2026-11-27T21:42:15.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://usecodela.com",
+      "title": "Show HN: I gave my AI Agents Production backed Memory",
+      "url": "https://usecodela.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "gave",
+        "agents",
+        "production",
+        "backed"
+      ],
+      "foundAt": "2026-11-27T19:58:45.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/t-k/targeted-mutation",
+      "title": "Show HN: Targeted Mutation Testing – Observation-guided mutation testing tool",
+      "url": "https://github.com/t-k/targeted-mutation",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "targeted",
+        "mutation",
+        "testing",
+        "observation-guided"
+      ],
+      "foundAt": "2026-11-27T15:07:53.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://youraitimelines.com",
+      "title": "Show HN: Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
+      "url": "https://youraitimelines.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "place",
+        "math",
+        "breakthroughs",
+        "timeline"
+      ],
+      "foundAt": "2026-11-27T14:28:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://hiitbuilder.app",
+      "title": "Show HN: No-equipment workout generator with 3D-to-2D SVG figures",
+      "url": "https://hiitbuilder.app",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "no-equipment",
+        "workout",
+        "generator",
+        "d-to-2d"
+      ],
+      "foundAt": "2026-11-27T13:09:12.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/legend-of-alan/ghostmode",
+      "title": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
+      "url": "https://github.com/legend-of-alan/ghostmode",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "open-sourced",
+        "code",
+        "mode",
+        "cut"
+      ],
+      "foundAt": "2026-11-27T11:51:03.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
     {
       "id": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
       "title": "How AI coding tools are changing software engineering",
@@ -138,170 +291,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/raymond-van/animama",
-      "title": "Show HN: Animama – Open-source AI desktop companion with 3D avatars",
-      "url": "https://github.com/raymond-van/animama",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "animama",
-        "open-source",
-        "desktop",
-        "companion"
-      ],
-      "foundAt": "2026-11-25T15:58:04.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://spendgap.ai",
-      "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
-      "url": "https://spendgap.ai",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "free",
-        "tool",
-        "collect",
-        "invoices"
-      ],
-      "foundAt": "2026-11-25T12:57:40.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://claude.ai/artifact/92CFxQiGu7rarFhhtkf1e1",
-      "title": "Educational OS fundamentals interactive tool",
-      "url": "https://claude.ai/artifact/92CFxQiGu7rarFhhtkf1e1",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "educational",
-        "fundamentals",
-        "interactive",
-        "tool"
-      ],
-      "foundAt": "2026-11-25T11:48:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://medium.com/@smoking2man/from-knowing-how-to-use-a-tool-to-knowing-how-to-obtain-it-quickly-how-ai-is-changing-the-548b21458697",
-      "title": "From Knowing How to Use a Tool to Knowing How to Obtain It Quickly",
-      "url": "https://medium.com/@smoking2man/from-knowing-how-to-use-a-tool-to-knowing-how-to-obtain-it-quickly-how-ai-is-changing-the-548b21458697",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "knowing",
-        "how",
-        "use",
-        "tool",
-        "obtain"
-      ],
-      "foundAt": "2026-11-25T09:38:09.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://outloudreader.app",
-      "title": "Show HN: Outloud Reader – native text to speech app for iOS and Android",
-      "url": "https://outloudreader.app",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "show",
-        "outloud",
-        "reader",
-        "native",
-        "text"
-      ],
-      "foundAt": "2026-11-25T07:56:57.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.gitbook.com/blog/docs-ai-toolkit",
-      "title": "The Docs AI Toolkit",
-      "url": "https://www.gitbook.com/blog/docs-ai-toolkit",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "docs",
-        "toolkit"
-      ],
-      "foundAt": "2026-11-25T05:53:54.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://strix-halo-toolboxes.com",
-      "title": "Strix Halo AI Toolboxes",
-      "url": "https://strix-halo-toolboxes.com",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "strix",
-        "halo",
-        "toolboxes"
-      ],
-      "foundAt": "2026-11-25T04:05:30.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/Mavericksantander/praetore",
-      "title": "PRætore, a Rust authorization engine between AI agents and their tools",
-      "url": "https://github.com/Mavericksantander/praetore",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "tore",
-        "rust",
-        "authorization",
-        "engine",
-        "between"
-      ],
-      "foundAt": "2026-11-24T18:43:08.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
-      "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-      "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "anthropic",
-        "openai",
-        "employees",
-        "fear",
-        "unreleased"
-      ],
-      "foundAt": "2026-11-24T17:46:41.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://byname.dev",
-      "title": "Show HN: Byname – open-source tool to see when AI assistants name your product",
-      "url": "https://byname.dev",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "byname",
-        "open-source",
-        "tool",
-        "see"
-      ],
-      "foundAt": "2026-11-24T17:21:40.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://play.google.com/store/apps/details",
       "title": "Age Calculator",
       "url": "https://play.google.com/store/apps/details",
@@ -344,6 +333,23 @@
         "net"
       ],
       "foundAt": "2026-11-22T23:39:10.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/onlook-dev/onlook",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "launch",
+        "onlook",
+        "w25",
+        "open-source",
+        "developer"
+      ],
+      "foundAt": "2026-11-19T16:34:04.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -534,36 +540,19 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://dockshift.org",
-      "title": "Show HN: DockShift – In-Browser Docker Run, Compose, and K8s Converter",
-      "url": "https://dockshift.org",
+      "id": "https://calcolonettostipendio.com",
+      "title": "A free gross-to-net salary calculator for Italy (RAL to netto)",
+      "url": "https://calcolonettostipendio.com",
       "source": "Hacker News",
-      "category": "文件工具",
+      "category": "计算器",
       "keywords": [
-        "show",
-        "dockshift",
-        "in-browser",
-        "docker",
-        "run"
+        "free",
+        "gross-to-net",
+        "salary",
+        "calculator",
+        "italy"
       ],
-      "foundAt": "2026-10-30T03:41:25.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/sudo-py-dev/fmx",
-      "title": "FMX The ultimate cross-platform media converter built with Rust and egui",
-      "url": "https://github.com/sudo-py-dev/fmx",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "fmx",
-        "ultimate",
-        "cross-platform",
-        "media",
-        "converter"
-      ],
-      "foundAt": "2026-10-29T19:02:57.000Z",
+      "foundAt": "2026-11-27T22:41:04.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -917,6 +906,295 @@
         "calculator"
       ],
       "foundAt": "2026-11-05T20:19:29.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/Betty4631/ai-text-humanizer",
+      "title": "ai-text-humanizer",
+      "url": "https://api.github.com/repos/Betty4631/ai-text-humanizer",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "ai-text-humanizer"
+      ],
+      "foundAt": "2026-11-23T21:06:35.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/lieveuchida23/network-monitor-tool",
+      "title": "network-monitor-tool",
+      "url": "https://api.github.com/repos/lieveuchida23/network-monitor-tool",
+      "source": "GitHub",
+      "category": "效率工具",
+      "keywords": [
+        "network-monitor-tool"
+      ],
+      "foundAt": "2026-11-24T21:42:23.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/GahiziTiv51/ai-girlfriend-local",
+      "title": "ai-girlfriend-local",
+      "url": "https://api.github.com/repos/GahiziTiv51/ai-girlfriend-local",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "ai-girlfriend-local"
+      ],
+      "foundAt": "2026-11-24T04:50:14.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/YilagaXi62/gaming-ping-tool",
+      "title": "gaming-ping-tool",
+      "url": "https://api.github.com/repos/YilagaXi62/gaming-ping-tool",
+      "source": "GitHub",
+      "category": "效率工具",
+      "keywords": [
+        "gaming-ping-tool"
+      ],
+      "foundAt": "2026-11-24T15:33:54.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/kerstin24/app-blocker-tool",
+      "title": "app-blocker-tool",
+      "url": "https://api.github.com/repos/kerstin24/app-blocker-tool",
+      "source": "GitHub",
+      "category": "效率工具",
+      "keywords": [
+        "app-blocker-tool"
+      ],
+      "foundAt": "2026-11-24T21:44:14.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/MisigeSuz22/disk-map-tool",
+      "title": "disk-map-tool",
+      "url": "https://api.github.com/repos/MisigeSuz22/disk-map-tool",
+      "source": "GitHub",
+      "category": "效率工具",
+      "keywords": [
+        "disk-map-tool"
+      ],
+      "foundAt": "2026-11-24T15:27:58.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://api.github.com/repos/sRivera3321/ram-optimizer-ai",
+      "title": "ram-optimizer-ai",
+      "url": "https://api.github.com/repos/sRivera3321/ram-optimizer-ai",
+      "source": "GitHub",
+      "category": "AI工具",
+      "keywords": [
+        "ram-optimizer-ai"
+      ],
+      "foundAt": "2026-11-24T12:45:02.000Z",
+      "score": 45,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/raymond-van/animama",
+      "title": "Show HN: Animama – Open-source AI desktop companion with 3D avatars",
+      "url": "https://github.com/raymond-van/animama",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "animama",
+        "open-source",
+        "desktop",
+        "companion"
+      ],
+      "foundAt": "2026-11-25T15:58:04.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://spendgap.ai",
+      "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+      "url": "https://spendgap.ai",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "free",
+        "tool",
+        "collect",
+        "invoices"
+      ],
+      "foundAt": "2026-11-25T12:57:40.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://claude.ai/artifact/92CFxQiGu7rarFhhtkf1e1",
+      "title": "Educational OS fundamentals interactive tool",
+      "url": "https://claude.ai/artifact/92CFxQiGu7rarFhhtkf1e1",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "educational",
+        "fundamentals",
+        "interactive",
+        "tool"
+      ],
+      "foundAt": "2026-11-25T11:48:44.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://medium.com/@smoking2man/from-knowing-how-to-use-a-tool-to-knowing-how-to-obtain-it-quickly-how-ai-is-changing-the-548b21458697",
+      "title": "From Knowing How to Use a Tool to Knowing How to Obtain It Quickly",
+      "url": "https://medium.com/@smoking2man/from-knowing-how-to-use-a-tool-to-knowing-how-to-obtain-it-quickly-how-ai-is-changing-the-548b21458697",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "knowing",
+        "how",
+        "use",
+        "tool",
+        "obtain"
+      ],
+      "foundAt": "2026-11-25T09:38:09.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://outloudreader.app",
+      "title": "Show HN: Outloud Reader – native text to speech app for iOS and Android",
+      "url": "https://outloudreader.app",
+      "source": "Hacker News",
+      "category": "效率工具",
+      "keywords": [
+        "show",
+        "outloud",
+        "reader",
+        "native",
+        "text"
+      ],
+      "foundAt": "2026-11-25T07:56:57.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://www.gitbook.com/blog/docs-ai-toolkit",
+      "title": "The Docs AI Toolkit",
+      "url": "https://www.gitbook.com/blog/docs-ai-toolkit",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "docs",
+        "toolkit"
+      ],
+      "foundAt": "2026-11-25T05:53:54.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://strix-halo-toolboxes.com",
+      "title": "Strix Halo AI Toolboxes",
+      "url": "https://strix-halo-toolboxes.com",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "strix",
+        "halo",
+        "toolboxes"
+      ],
+      "foundAt": "2026-11-25T04:05:30.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/Mavericksantander/praetore",
+      "title": "PRætore, a Rust authorization engine between AI agents and their tools",
+      "url": "https://github.com/Mavericksantander/praetore",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "tore",
+        "rust",
+        "authorization",
+        "engine",
+        "between"
+      ],
+      "foundAt": "2026-11-24T18:43:08.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+      "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+      "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "anthropic",
+        "openai",
+        "employees",
+        "fear",
+        "unreleased"
+      ],
+      "foundAt": "2026-11-24T17:46:41.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://byname.dev",
+      "title": "Show HN: Byname – open-source tool to see when AI assistants name your product",
+      "url": "https://byname.dev",
+      "source": "Hacker News",
+      "category": "AI工具",
+      "keywords": [
+        "show",
+        "byname",
+        "open-source",
+        "tool",
+        "see"
+      ],
+      "foundAt": "2026-11-24T17:21:40.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://dockshift.org",
+      "title": "Show HN: DockShift – In-Browser Docker Run, Compose, and K8s Converter",
+      "url": "https://dockshift.org",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "show",
+        "dockshift",
+        "in-browser",
+        "docker",
+        "run"
+      ],
+      "foundAt": "2026-10-30T03:41:25.000Z",
+      "score": 32,
+      "evidence": "公开发布线索，未验证自然搜索流量"
+    },
+    {
+      "id": "https://github.com/sudo-py-dev/fmx",
+      "title": "FMX The ultimate cross-platform media converter built with Rust and egui",
+      "url": "https://github.com/sudo-py-dev/fmx",
+      "source": "Hacker News",
+      "category": "文件工具",
+      "keywords": [
+        "fmx",
+        "ultimate",
+        "cross-platform",
+        "media",
+        "converter"
+      ],
+      "foundAt": "2026-10-29T19:02:57.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -1349,23 +1627,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://github.com/onlook-dev/onlook",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook",
-      "source": "Hacker News",
-      "category": "效率工具",
-      "keywords": [
-        "launch",
-        "onlook",
-        "w25",
-        "open-source",
-        "developer"
-      ],
-      "foundAt": "2026-11-19T16:34:04.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://github.com/editmamei/editmamei",
       "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
       "url": "https://github.com/editmamei/editmamei",
@@ -1755,19 +2016,6 @@
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
     {
-      "id": "https://api.github.com/repos/GahiziTiv51/ai-girlfriend-local",
-      "title": "ai-girlfriend-local",
-      "url": "https://api.github.com/repos/GahiziTiv51/ai-girlfriend-local",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "ai-girlfriend-local"
-      ],
-      "foundAt": "2026-11-24T04:50:14.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
       "id": "https://api.github.com/repos/anhneumann47731/ai-companion-local",
       "title": "ai-companion-local",
       "url": "https://api.github.com/repos/anhneumann47731/ai-companion-local",
@@ -1777,19 +2025,6 @@
         "ai-companion-local"
       ],
       "foundAt": "2026-11-24T04:52:43.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Betty4631/ai-text-humanizer",
-      "title": "ai-text-humanizer",
-      "url": "https://api.github.com/repos/Betty4631/ai-text-humanizer",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "ai-text-humanizer"
-      ],
-      "foundAt": "2026-11-23T21:06:35.000Z",
       "score": 45,
       "evidence": "公开发布线索，未验证自然搜索流量"
     },
@@ -2222,255 +2457,6 @@
         "game"
       ],
       "foundAt": "2026-11-18T15:46:00.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.book2speech.com",
-      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
-      "url": "https://www.book2speech.com",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "show",
-        "built",
-        "smart",
-        "audiobook",
-        "converter"
-      ],
-      "foundAt": "2026-10-18T12:17:44.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.turboscribeai.org",
-      "title": "TurboScribe AI: Free video to text and audio to text converter",
-      "url": "https://www.turboscribeai.org",
-      "source": "Hacker News",
-      "category": "文件工具",
-      "keywords": [
-        "turboscribe",
-        "free",
-        "video",
-        "text",
-        "audio"
-      ],
-      "foundAt": "2026-10-18T05:55:29.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://api.github.com/repos/Igniaemage/Deadline-resp-Tracker-AI",
-      "title": "Deadline-resp-Tracker-AI",
-      "url": "https://api.github.com/repos/Igniaemage/Deadline-resp-Tracker-AI",
-      "source": "GitHub",
-      "category": "AI工具",
-      "keywords": [
-        "deadline-resp-tracker-ai"
-      ],
-      "foundAt": "2026-11-14T11:31:43.000Z",
-      "score": 45,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://neoism.ai",
-      "title": "Neoism – Coolest Agent Framework Around Town",
-      "url": "https://neoism.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "neoism",
-        "coolest",
-        "agent",
-        "framework",
-        "around"
-      ],
-      "foundAt": "2026-11-19T22:18:15.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/lintsure/lintsure",
-      "title": "Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act",
-      "url": "https://github.com/lintsure/lintsure",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "lintsure",
-        "free",
-        "local",
-        "code"
-      ],
-      "foundAt": "2026-11-19T18:50:47.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.kevinlondon.com/2026/11/16/ai-makes-it-too-cheap-to-say-yes",
-      "title": "AI makes it too cheap to say yes",
-      "url": "https://www.kevinlondon.com/2026/11/16/ai-makes-it-too-cheap-to-say-yes",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "makes",
-        "too",
-        "cheap",
-        "say",
-        "yes"
-      ],
-      "foundAt": "2026-11-19T18:07:20.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "http://www.kradle.ai",
-      "title": "KradleBench: Multi-agent AI evals in Minecraft",
-      "url": "http://www.kradle.ai",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "kradlebench",
-        "multi-agent",
-        "evals",
-        "minecraft"
-      ],
-      "foundAt": "2026-11-18T17:46:24.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://grandtreasureisland.vercel.app",
-      "title": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
-      "url": "https://grandtreasureisland.vercel.app",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "grand",
-        "treasure",
-        "island",
-        "gta-style"
-      ],
-      "foundAt": "2026-11-18T14:34:56.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://github.com/bashovski/reflektor",
-      "title": "Show HN: Reflektor – Turn AI PRs into something a human can review",
-      "url": "https://github.com/bashovski/reflektor",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "reflektor",
-        "turn",
-        "prs",
-        "into"
-      ],
-      "foundAt": "2026-11-18T14:10:37.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
-      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
-      "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "dougan",
-        "leak",
-        "exposes",
-        "concerted",
-        "effort"
-      ],
-      "foundAt": "2026-11-12T20:58:48.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://www.linum.ai/field-notes/pjit-21k",
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "decent",
-        "text-to-image",
-        "model",
-        "trained"
-      ],
-      "foundAt": "2026-11-04T16:45:11.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://165188.xyz",
-      "title": "Show HN: SideLedger Tools – invoice generator and profit calculators, no sign-up",
-      "url": "https://165188.xyz",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "sideledger",
-        "tools",
-        "invoice",
-        "generator"
-      ],
-      "foundAt": "2026-11-19T15:00:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://productivitycalculator.org",
-      "title": "Free Productivity Calculator – Daily Rate and Goal Planner",
-      "url": "https://productivitycalculator.org",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "free",
-        "productivity",
-        "calculator",
-        "daily",
-        "rate"
-      ],
-      "foundAt": "2026-11-01T10:34:05.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://ocrbench.app/blog/llm-ocr-cost-calculator",
-      "title": "Show HN: Free OCR Cost Calculator – Estimate multi-provider LLM token costs",
-      "url": "https://ocrbench.app/blog/llm-ocr-cost-calculator",
-      "source": "Hacker News",
-      "category": "计算器",
-      "keywords": [
-        "show",
-        "free",
-        "ocr",
-        "cost",
-        "calculator"
-      ],
-      "foundAt": "2026-10-31T10:38:43.000Z",
-      "score": 32,
-      "evidence": "公开发布线索，未验证自然搜索流量"
-    },
-    {
-      "id": "https://haas.antoniorodriguez.no/hallucination",
-      "title": "Show HN: Hallucination-as-a-service – API for AI excuses",
-      "url": "https://haas.antoniorodriguez.no/hallucination",
-      "source": "Hacker News",
-      "category": "AI工具",
-      "keywords": [
-        "show",
-        "hallucination-as-a-service",
-        "api",
-        "excuses"
-      ],
-      "foundAt": "2026-11-18T12:48:36.000Z",
       "score": 32,
       "evidence": "公开发布线索，未验证自然搜索流量"
     }
